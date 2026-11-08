@@ -21,6 +21,7 @@ var css=[
 '.ls-card ul{list-style:none;margin:0;padding:0;display:grid;gap:10px}',
 '.ls-card li{font-size:14.5px;color:var(--ink-soft);line-height:1.45}',
 '.ls-card li b{display:block;color:var(--ink);font-size:15px;margin-bottom:1px}',
+'.nav .links a{padding-left:5px;padding-right:5px}',
 '@media (max-width:700px){.ls-robot{min-height:340px;background-position:70% center}.ls-robot:before{background:linear-gradient(90deg,#0B0507 12%,rgba(11,5,7,.7) 60%,rgba(11,5,7,.3))}}'
 ].join('');
 function init(){
