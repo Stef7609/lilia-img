@@ -1,0 +1,977 @@
+{
+ "updated": "2026-11-13",
+ "items": [
+  {
+   "id": "n114",
+   "d": "2026-11-12",
+   "s": "google",
+   "imp": 3,
+   "t": "Gemini 4 Hydrogen : le nouveau modèle rapide de Google arrive dans Gemini, la recherche et Sheets",
+   "sum": "Google remplace Gemini 3.8 Flash par Gemini 4 Hydrogen, un modèle rapide pour le travail de tous les jours et les agents. Il est déployé dans le monde entier, dans l'appli Gemini, Google Search, Gemini for business, Google Sheets et l'API.",
+   "c": "Selon Google, Hydrogen fait les tâches environ 2,5 fois plus vite que Gemini 3.8 Flash et invente beaucoup moins de choses. Il propose quatre niveaux de réflexion (low, medium, high, xhigh). Les utilisateurs gratuits l'ont seulement quand Gemini juge qu'il en faut.",
+   "r": "Pour une PME, c'est l'IA de Google « par défaut » qui monte d'un cran, sans rien installer. Les réponses de Google Search changent aussi : plus de tableaux et de liens. Attention : en API, Hydrogen coûte plus cher que l'ancien Flash.",
+   "a": "Refais un test de 10 minutes avec Gemini sur une tâche réelle d'un client (résumé, tableau dans Sheets) et compare avec le résultat d'avant. Note ce qui s'améliore.",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+   "src": "Google (blog officiel)",
+   "en": {
+    "t": "Gemini 4 Hydrogen: Google's new fast model lands in Gemini, Search and Sheets",
+    "sum": "Google is replacing Gemini 3.8 Flash with Gemini 4 Hydrogen, a fast model for everyday work and agents. It is rolling out worldwide in the Gemini app, Google Search, Gemini for business, Google Sheets and the API.",
+    "c": "According to Google, Hydrogen completes tasks about 2.5 times faster than Gemini 3.8 Flash and makes far fewer things up. It offers four thinking levels (low, medium, high, xhigh). Free users only get it when Gemini decides the prompt needs it.",
+    "r": "For a small business, Google's 'default' AI gets a step better with nothing to install. Google Search answers change too: more tables and links. Note: in the API, Hydrogen costs more than the old Flash.",
+    "a": "Run a 10-minute test with Gemini on a real client task (a summary, a table in Sheets) and compare it with the old result. Write down what improved."
+   },
+   "nl": {
+    "t": "Gemini 4 Hydrogen: het nieuwe snelle model van Google komt naar Gemini, Zoeken en Sheets",
+    "sum": "Google vervangt Gemini 3.8 Flash door Gemini 4 Hydrogen, een snel model voor dagelijks werk en agents. Het wordt wereldwijd uitgerold in de Gemini-app, Google Zoeken, Gemini for business, Google Sheets en de API.",
+    "c": "Volgens Google doet Hydrogen taken ongeveer 2,5 keer sneller dan Gemini 3.8 Flash en verzint het veel minder. Er zijn vier denkniveaus (low, medium, high, xhigh). Gratis gebruikers krijgen het alleen als Gemini vindt dat de vraag het nodig heeft.",
+    "r": "Voor een kmo wordt de 'standaard'-AI van Google een stuk beter, zonder iets te installeren. Ook de antwoorden in Google Zoeken veranderen: meer tabellen en links. Let op: in de API kost Hydrogen meer dan het oude Flash.",
+    "a": "Doe een test van 10 minuten met Gemini op een echte taak van een klant (een samenvatting, een tabel in Sheets) en vergelijk met het vorige resultaat. Noteer wat beter is."
+   }
+  },
+  {
+   "id": "n115",
+   "d": "2026-11-12",
+   "s": "openai",
+   "imp": 2,
+   "t": "OpenAI Daybreak : des agents IA qui testent les failles d'un site web et préparent les correctifs",
+   "sum": "OpenAI lance deux outils de sécurité : Daybreak Red Team, qui attaque une application web pour trouver ses vraies failles, et Daybreak Defense Factory, qui prépare les correctifs. Red Team est en accès anticipé sur inscription, Defense Factory en aperçu dans ChatGPT ; aucun prix annoncé.",
+   "c": "Jusqu'ici, un test d'intrusion (pentest) demandait des experts et coûtait cher. Ici, une équipe d'agents IA lit le code du site, cherche les failles exploitables, puis propose un correctif qu'un développeur doit relire avant de l'appliquer : rien n'est installé automatiquement.",
+   "r": "Pour l'instant, c'est surtout pour les entreprises qui ont des développeurs et un code sur GitHub. Mais ça montre la direction : la sécurité d'un site ou d'une appli maison pourra être vérifiée bien plus souvent et pour moins cher.",
+   "a": "Culture générale : rien à faire. Si un client a une appli web maison, note le nom « Daybreak » pour en parler avec son développeur.",
+   "url": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
+   "src": "SecurityWeek",
+   "en": {
+    "t": "OpenAI Daybreak: AI agents that probe a website for flaws and draft the fixes",
+    "sum": "OpenAI is launching two security tools: Daybreak Red Team, which attacks a web app to find its real flaws, and Daybreak Defense Factory, which drafts the fixes. Red Team is in early access by sign-up, Defense Factory is in preview in ChatGPT; no pricing yet.",
+    "c": "Until now, a penetration test (pentest) needed experts and cost a lot. Here, a team of AI agents reads the site's code, looks for exploitable flaws, then proposes a fix that a developer must review before applying it: nothing is deployed automatically.",
+    "r": "For now this is mainly for companies with developers and code on GitHub. But it shows the direction: the security of a custom website or app could be checked far more often and for less money.",
+    "a": "General knowledge: nothing to do. If a client has a custom web app, note the name 'Daybreak' to raise it with their developer."
+   },
+   "nl": {
+    "t": "OpenAI Daybreak: AI-agents die een website op lekken testen en de oplossingen voorbereiden",
+    "sum": "OpenAI lanceert twee beveiligingstools: Daybreak Red Team, dat een webapp aanvalt om de echte lekken te vinden, en Daybreak Defense Factory, dat de oplossingen voorbereidt. Red Team is in vroege toegang na inschrijving, Defense Factory in preview in ChatGPT; nog geen prijs.",
+    "c": "Tot nu toe vroeg een penetratietest (pentest) experts en kostte hij veel. Hier leest een team van AI-agents de code van de site, zoekt het misbruikbare lekken en stelt het een oplossing voor die een ontwikkelaar eerst moet nakijken: niets wordt automatisch geïnstalleerd.",
+    "r": "Voorlopig is dit vooral voor bedrijven met ontwikkelaars en code op GitHub. Maar het toont de richting: de beveiliging van een eigen website of app kan veel vaker en goedkoper gecontroleerd worden.",
+    "a": "Algemene kennis: niets te doen. Heeft een klant een eigen webapp, noteer dan de naam 'Daybreak' om het met zijn ontwikkelaar te bespreken."
+   }
+  },
+  {
+   "id": "n110",
+   "d": "2026-11-11",
+   "s": "google",
+   "imp": 2,
+   "t": "Gemini Decisions API : une IA qui tranche vite entre oui, non ou plusieurs choix",
+   "sum": "Google lance une API qui ne rédige pas de texte : elle choisit entre des options (oui/non, choix multiple, note) et donne un score de confiance. Elle répond en environ 0,2 seconde et coûte 0,10 dollar par million de jetons en entrée, avec une version gratuite dans Google AI Studio.",
+   "c": "Jusqu'ici, pour trier un e-mail ou classer un document, on demandait à un modèle d'écrire une réponse. Ici, le modèle note directement chaque option et peut répondre à des centaines de questions sur un même document en une seule fois.",
+   "r": "Pour une PME, c'est une brique pas chère pour automatiser des tris simples : ranger les e-mails entrants, vérifier si une facture est complète, classer des avis clients. Le score de confiance permet d'envoyer les cas douteux à un humain.",
+   "a": "Choisis un tri répétitif chez un client (ex. : e-mails « devis / réclamation / autre ») et teste-le gratuitement dans Google AI Studio sur une vingtaine d'exemples.",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "src": "Google (blog officiel)",
+   "en": {
+    "t": "Gemini Decisions API: an AI that quickly picks yes, no or one of several options",
+    "sum": "Google is launching an API that doesn't write text: it picks between options (yes/no, multiple choice, a score) and returns a confidence score. It answers in about 0.2 seconds and costs $0.10 per million input tokens, with a free tier in Google AI Studio.",
+    "c": "Until now, to sort an email or classify a document, you asked a model to write an answer. Here the model scores each option directly and can answer hundreds of questions about one document in a single call.",
+    "r": "For a small business, it's a cheap building block for simple sorting: routing incoming emails, checking whether an invoice is complete, classifying customer reviews. The confidence score lets you send unclear cases to a human.",
+    "a": "Pick one repetitive sorting task at a client (e.g. emails: \"quote / complaint / other\") and test it for free in Google AI Studio on about twenty examples."
+   },
+   "nl": {
+    "t": "Gemini Decisions API: een AI die snel kiest tussen ja, nee of meerdere opties",
+    "sum": "Google lanceert een API die geen tekst schrijft: ze kiest tussen opties (ja/nee, meerkeuze, een score) en geeft een betrouwbaarheidsscore. Ze antwoordt in ongeveer 0,2 seconden en kost 0,10 dollar per miljoen invoertokens, met een gratis versie in Google AI Studio.",
+    "c": "Tot nu toe liet je een model een antwoord schrijven om een e-mail te sorteren of een document in te delen. Hier geeft het model elke optie meteen een score en kan het honderden vragen over één document in één keer beantwoorden.",
+    "r": "Voor een kmo is dit een goedkope bouwsteen om eenvoudige sorteertaken te automatiseren: inkomende e-mails verdelen, nakijken of een factuur volledig is, klantenreviews indelen. Met de betrouwbaarheidsscore stuur je twijfelgevallen naar een mens.",
+    "a": "Kies een repetitieve sorteertaak bij een klant (bv. e-mails: \"offerte / klacht / andere\") en test die gratis in Google AI Studio op een twintigtal voorbeelden."
+   }
+  },
+  {
+   "id": "n111",
+   "d": "2026-11-11",
+   "s": "anthropic",
+   "imp": 2,
+   "t": "Étude Anthropic : un seul agent coordinateur fait mieux qu'une équipe d'agents",
+   "sum": "Des chercheurs liés à Anthropic ont testé des situations où plusieurs personnes ont chacune leur agent IA et partagent une même ressource (budget, agenda, commande groupée). Un agent unique qui coordonne tout a obtenu de meilleurs résultats que des agents qui se parlent entre eux, dans les quatre cas testés.",
+   "c": "Quand chaque collègue a son propre agent, les agents agissent trop tard, se marchent dessus ou valident une commande avant d'avoir lu tous les messages. Les chercheurs ont aussi vu des agents annuler le travail d'autres utilisateurs sans demander.",
+   "r": "Beaucoup de PME vont donner un assistant IA à chaque employé. Si ces assistants touchent à des choses partagées (agenda commun, stock, budget), il faut un chef d'orchestre et des garde-fous, sinon les erreurs se multiplient.",
+   "a": "Chez un client qui veut des agents par employé, désigne un seul agent « responsable » pour chaque ressource partagée et impose une validation humaine avant toute commande ou réservation.",
+   "url": "https://alignment.anthropic.com/2026/worse-together",
+   "src": "Anthropic (blog alignement)",
+   "en": {
+    "t": "Anthropic study: one coordinating agent beats a team of agents",
+    "sum": "Anthropic-affiliated researchers tested setups where several people each have their own AI agent and share one resource (a budget, a calendar, a group order). A single agent coordinating everything got better results than agents talking to each other, in all four cases tested.",
+    "c": "When every colleague has their own agent, the agents act too late, step on each other or confirm an order before reading all messages. The researchers also saw agents cancel other users' work without asking.",
+    "r": "Many small businesses will give each employee an AI assistant. If those assistants touch shared things (a team calendar, stock, a budget), you need one conductor and guardrails, or errors multiply.",
+    "a": "For a client who wants one agent per employee, name a single \"owner\" agent for each shared resource and require human approval before any order or booking."
+   },
+   "nl": {
+    "t": "Studie van Anthropic: één coördinerende agent doet het beter dan een team van agents",
+    "sum": "Onderzoekers verbonden aan Anthropic testten situaties waarin meerdere mensen elk een eigen AI-agent hebben en één middel delen (een budget, een agenda, een groepsbestelling). Eén agent die alles coördineert, haalde in alle vier de tests betere resultaten dan agents die onderling praten.",
+    "c": "Als elke collega een eigen agent heeft, handelen de agents te laat, zitten ze elkaar in de weg of bevestigen ze een bestelling voor ze alle berichten gelezen hebben. De onderzoekers zagen ook agents die het werk van andere gebruikers annuleerden zonder te vragen.",
+    "r": "Veel kmo's gaan elke medewerker een AI-assistent geven. Als die assistenten aan gedeelde zaken komen (een gemeenschappelijke agenda, voorraad, een budget), heb je één dirigent en vangrails nodig, anders stapelen de fouten zich op.",
+    "a": "Bij een klant die per medewerker een agent wil: wijs voor elk gedeeld middel één \"verantwoordelijke\" agent aan en verplicht een menselijke goedkeuring voor elke bestelling of reservering."
+   }
+  },
+  {
+   "id": "n113",
+   "d": "2026-11-11",
+   "s": "business",
+   "imp": 1,
+   "t": "Dépenses IA des entreprises américaines : record, mais la croissance ralentit",
+   "sum": "Selon l'indice Ramp, 56,8 % des entreprises américaines suivies payaient un service d'IA en octobre, et les dépenses n'ont augmenté que de 1,65 % sur un mois. Anthropic (44,8 %) devance OpenAI (40,6 %) en adoption payante.",
+   "c": "L'argent est très concentré : 1 % des entreprises génèrent 80 % des revenus d'OpenAI et d'Anthropic, surtout dans la tech et la finance. Une entreprise typique dépense environ 16 dollars par employé et par mois.",
+   "r": "La plupart des entreprises restent à de petits budgets IA. C'est rassurant pour tes clients PME : pas besoin de gros investissements pour commencer, mais il faut montrer un gain concret pour aller plus loin.",
+   "a": "Culture générale : rien à faire.",
+   "url": "https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/",
+   "src": "The Decoder (indice Ramp)",
+   "en": {
+    "t": "US company AI spending hits a record, but growth slows",
+    "sum": "According to the Ramp index, 56.8% of tracked US companies paid for an AI service in October, and spending rose only 1.65% month over month. Anthropic (44.8%) leads OpenAI (40.6%) in paid adoption.",
+    "c": "The money is highly concentrated: 1% of companies generate 80% of OpenAI's and Anthropic's revenue, mostly in tech and finance. A typical company spends about $16 per employee per month.",
+    "r": "Most companies keep small AI budgets. That's reassuring for your small business clients: no big investment is needed to start, but you need to show a concrete gain to go further.",
+    "a": "General knowledge: nothing to do."
+   },
+   "nl": {
+    "t": "AI-uitgaven van Amerikaanse bedrijven op recordhoogte, maar de groei vertraagt",
+    "sum": "Volgens de Ramp-index betaalde 56,8 % van de gevolgde Amerikaanse bedrijven in oktober voor een AI-dienst, en de uitgaven stegen maar met 1,65 % op een maand. Anthropic (44,8 %) staat voor OpenAI (40,6 %) in betaald gebruik.",
+    "c": "Het geld is sterk geconcentreerd: 1 % van de bedrijven zorgt voor 80 % van de inkomsten van OpenAI en Anthropic, vooral in tech en financiën. Een doorsnee bedrijf geeft ongeveer 16 dollar per medewerker per maand uit.",
+    "r": "De meeste bedrijven houden het bij kleine AI-budgetten. Dat stelt je kmo-klanten gerust: je hebt geen grote investering nodig om te starten, maar je moet een concreet voordeel tonen om verder te gaan.",
+    "a": "Algemene kennis: niets te doen."
+   }
+  },
+  {
+   "id": "n20261113a",
+   "d": "2026-11-10",
+   "s": "anthropic",
+   "imp": 3,
+   "t": "Claude Meetings : Claude rejoint tes réunions Google Meet et avance le travail pendant l'appel (bêta)",
+   "sum": "Anthropic lance en bêta Claude Meetings : on invite Claude comme participant visible à un appel, et il rédige des plans, construit des calendriers, organise les tâches et répond dans le chat de la réunion en s'appuyant sur les applications connectées. La bêta est réservée aux abonnés Team et Enterprise sur Google Meet, et Claude ne rejoint pas un appel avec des invités externes sans l'accord d'un administrateur.",
+   "c": "L'IA ne se contente plus de résumer la réunion après coup : elle travaille pendant la discussion et livre notes et actions à la fin.",
+   "r": "Pour une PME, c'est un gain de temps réel sur le suivi des réunions, mais seulement sur Google Meet pour l'instant, alors que beaucoup de PME belges sont sur Teams. Et faire entrer une IA dans une réunion pose tout de suite la question du consentement des participants et du RGPD.",
+   "a": "Prépare une mini-règle « IA en réunion » pour tes clients : qui peut inviter Claude, quelles réunions sont exclues (RH, clients externes), et comment on prévient les participants.",
+   "url": "https://gulfnews.com/technology/companies/claude-can-now-join-work-meetings-and-complete-tasks-as-you-talk-1.500743080",
+   "src": "Gulf News",
+   "en": {
+    "t": "Claude Meetings: Claude joins your Google Meet calls and moves work forward during the call (beta)",
+    "sum": "Anthropic is launching Claude Meetings in beta: you invite Claude as a visible participant in a call, and it drafts plans, builds timelines, organises tasks and answers in the meeting chat using connected apps. The beta is limited to Team and Enterprise subscribers on Google Meet, and Claude won't join a call with external guests without an admin's approval.",
+    "c": "AI no longer just summarises the meeting afterwards: it works during the discussion and delivers notes and actions at the end.",
+    "r": "For an SME, it's a real time saver on meeting follow-up, but only on Google Meet for now, while many Belgian SMEs use Teams. And bringing an AI into a meeting immediately raises the question of participant consent and GDPR.",
+    "a": "Prepare a short « AI in meetings » rule for your clients: who can invite Claude, which meetings are excluded (HR, external clients), and how participants are informed."
+   },
+   "nl": {
+    "t": "Claude Meetings: Claude neemt deel aan je Google Meet-vergaderingen en werkt mee tijdens het gesprek (bèta)",
+    "sum": "Anthropic lanceert Claude Meetings in bèta: je nodigt Claude uit als zichtbare deelnemer aan een gesprek, en het schrijft plannen, maakt tijdlijnen, organiseert taken en antwoordt in de chat van de vergadering op basis van gekoppelde apps. De bèta is voorbehouden aan Team- en Enterprise-abonnees op Google Meet, en Claude neemt niet deel aan een gesprek met externe gasten zonder toestemming van een beheerder.",
+    "c": "AI vat de vergadering niet meer alleen achteraf samen: ze werkt mee tijdens het gesprek en levert op het einde notities en acties.",
+    "r": "Voor een kmo is dat echte tijdwinst bij de opvolging van vergaderingen, maar voorlopig alleen op Google Meet, terwijl veel Belgische kmo's Teams gebruiken. En een AI in een vergadering roept meteen de vraag op naar de toestemming van de deelnemers en de GDPR.",
+    "a": "Maak voor je klanten een korte regel « AI in vergaderingen »: wie Claude mag uitnodigen, welke vergaderingen uitgesloten zijn (HR, externe klanten) en hoe je de deelnemers verwittigt."
+   }
+  },
+  {
+   "id": "n112",
+   "d": "2026-11-10",
+   "s": "openai",
+   "imp": 3,
+   "t": "ChatGPT ouvre officiellement les profils d'entreprise vérifiés (bêta)",
+   "sum": "OpenAI lance en bêta « Businesses in ChatGPT » : une entreprise peut revendiquer son profil, obtenir une coche bleue, mettre à jour ses infos, prix et stock, et voir combien de fois ChatGPT la mentionne. Les agents de vente intégrés sont pour l'instant réservés à certaines entreprises d'e-commerce américaines.",
+   "c": "Ce qui n'était qu'un test repéré début novembre est maintenant lancé. Le tableau de bord montre les mentions, les clics vers le site et les grands sujets de conversation, sans donner accès aux discussions des utilisateurs, selon OpenAI.",
+   "r": "Être bien décrit dans ChatGPT devient un vrai canal, comme une fiche Google. Pour une PME belge, les agents ne sont pas encore disponibles, et l'article ne dit pas si les profils sont ouverts hors des États-Unis.",
+   "a": "Vérifie si un de tes clients peut déjà revendiquer son profil dans ChatGPT. Sinon, prépare ses infos à jour (horaires, services, prix) pour être prêt à l'ouverture en Europe.",
+   "url": "https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents",
+   "src": "The Next Web",
+   "en": {
+    "t": "ChatGPT officially opens verified business profiles (beta)",
+    "sum": "OpenAI is launching \"Businesses in ChatGPT\" in beta: a business can claim its profile, get a blue check, update its details, prices and stock, and see how often ChatGPT mentions it. The built-in sales agents are for now limited to some US e-commerce companies.",
+    "c": "What was only a test spotted in early November is now launched. The dashboard shows mentions, clicks to the website and main conversation topics, without access to users' chats, according to OpenAI.",
+    "r": "Being well described in ChatGPT is becoming a real channel, like a Google listing. For a Belgian small business, the agents aren't available yet, and the article doesn't say whether profiles are open outside the US.",
+    "a": "Check whether one of your clients can already claim its ChatGPT profile. If not, prepare its up-to-date details (hours, services, prices) so it's ready when Europe opens."
+   },
+   "nl": {
+    "t": "ChatGPT opent officieel geverifieerde bedrijfsprofielen (bèta)",
+    "sum": "OpenAI lanceert \"Businesses in ChatGPT\" in bèta: een bedrijf kan zijn profiel claimen, een blauw vinkje krijgen, zijn gegevens, prijzen en voorraad bijwerken en zien hoe vaak ChatGPT het noemt. De ingebouwde verkoopagents zijn voorlopig voorbehouden aan bepaalde Amerikaanse webwinkels.",
+    "c": "Wat begin november alleen een test was, is nu gelanceerd. Het dashboard toont vermeldingen, klikken naar de website en de grote gespreksonderwerpen, zonder toegang tot de gesprekken van gebruikers, volgens OpenAI.",
+    "r": "Goed beschreven staan in ChatGPT wordt een echt kanaal, zoals een Google-bedrijfsprofiel. Voor een Belgische kmo zijn de agents nog niet beschikbaar, en het artikel zegt niet of de profielen buiten de VS open zijn.",
+    "a": "Kijk of een van je klanten zijn ChatGPT-profiel al kan claimen. Zo niet, zet zijn gegevens (openingsuren, diensten, prijzen) klaar voor de opening in Europa."
+   }
+  },
+  {
+   "id": "n20261113c",
+   "d": "2026-11-10",
+   "s": "europe",
+   "imp": 2,
+   "t": "AI Act : des règles communes pour les « bacs à sable » de l'IA, avec un accès prioritaire et gratuit pour les PME",
+   "sum": "La Commission européenne a adopté le 10 novembre 2026 le règlement d'exécution (UE) 2026/2487, qui fixe des règles communes pour les bacs à sable réglementaires de l'IA que chaque pays doit organiser ; il s'applique à partir du 1er décembre 2026. Les PME et start-ups établies dans l'UE y ont un accès prioritaire et des services de base gratuits, mais un passage dans le bac à sable ne vaut pas certificat de conformité.",
+   "c": "Un bac à sable, c'est un cadre où une entreprise peut tester son système d'IA avec l'aide et sous la surveillance de l'autorité, avant de le lancer.",
+   "r": "C'est surtout utile pour une PME qui développe elle-même un système d'IA à risque, pas pour celle qui utilise simplement ChatGPT ou Copilot. Et en Belgique, l'autorité de contrôle de l'AI Act n'est pas encore désignée par une loi.",
+   "a": "Ajoute une ligne « bacs à sable AI Act » dans ta fiche réglementation, et garde-la pour tes clients qui créent un produit IA.",
+   "url": "https://www.techtimes.com/articles/330540/20261112/eu-ai-regulatory-sandbox-rules-start-december-1-tests-earn-no-compliance-clearance-liability-stays.htm",
+   "src": "Tech Times",
+   "en": {
+    "t": "AI Act: common rules for AI « regulatory sandboxes », with priority and free access for SMEs",
+    "sum": "On 10 November 2026 the European Commission adopted Implementing Regulation (EU) 2026/2487, which sets common rules for the AI regulatory sandboxes each country must run; it applies from 1 December 2026. SMEs and start-ups established in the EU get priority access and free core services, but taking part in a sandbox is not a certificate of conformity.",
+    "c": "A sandbox is a setting where a company can test its AI system with the help and under the supervision of the authority, before launching it.",
+    "r": "It's mainly useful for an SME that builds its own risky AI system, not for one that simply uses ChatGPT or Copilot. And in Belgium, the AI Act supervisory authority has not yet been designated by law.",
+    "a": "Add an « AI Act sandboxes » line to your regulation sheet, and keep it for clients who build an AI product."
+   },
+   "nl": {
+    "t": "AI Act: gemeenschappelijke regels voor AI-« sandboxes », met voorrang en gratis toegang voor kmo's",
+    "sum": "De Europese Commissie heeft op 10 november 2026 uitvoeringsverordening (EU) 2026/2487 aangenomen, met gemeenschappelijke regels voor de regulatoire AI-sandboxes die elk land moet organiseren; ze geldt vanaf 1 december 2026. Kmo's en start-ups die in de EU gevestigd zijn, krijgen voorrang en gratis basisdiensten, maar deelname aan een sandbox geldt niet als conformiteitsattest.",
+    "c": "Een sandbox is een kader waarin een bedrijf zijn AI-systeem kan testen met hulp en onder toezicht van de overheid, voor het op de markt komt.",
+    "r": "Dat is vooral nuttig voor een kmo die zelf een risicovol AI-systeem ontwikkelt, niet voor een kmo die gewoon ChatGPT of Copilot gebruikt. En in België is de toezichthouder voor de AI Act nog niet bij wet aangeduid.",
+    "a": "Voeg een regel « AI Act-sandboxes » toe aan je fiche regelgeving, en bewaar die voor klanten die een AI-product bouwen."
+   }
+  },
+  {
+   "id": "n20261113d",
+   "d": "2026-11-10",
+   "s": "anthropic",
+   "imp": 2,
+   "t": "Claude Sheets et Whiteboards en bêta, et Claude Data pour tous les forfaits payants",
+   "sum": "Anthropic lance en bêta Claude Sheets, un tableur que Claude construit et modifie avec toi (onglets, formules, listes déroulantes), et Claude Whiteboards, un tableau blanc partagé pour réfléchir en équipe. Claude Dashboards devient Claude Data, disponible sur tous les forfaits payants avec un connecteur de données ; sur Enterprise, Sheets et Whiteboards sont désactivés par défaut et Claude Data s'active le 19 novembre.",
+   "c": "Claude ne fait plus seulement du texte : il fabrique des tableurs, des tableaux blancs et des tableaux de bord directement dans son interface.",
+   "r": "Pour une PME, cela touche des outils déjà payés (Excel, Miro, Power BI). Anthropic reconnaît que les fonctions de tableur restent simples pour l'instant.",
+   "a": "Si un client a Claude Enterprise, préviens son administrateur : Claude Data s'active par défaut le 19 novembre, il peut le régler dans les paramètres de l'organisation.",
+   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+   "src": "Claude",
+   "en": {
+    "t": "Claude Sheets and Whiteboards in beta, and Claude Data for all paid plans",
+    "sum": "Anthropic is launching Claude Sheets in beta, a spreadsheet Claude builds and edits with you (tabs, formulas, drop-downs), and Claude Whiteboards, a shared board for team brainstorming. Claude Dashboards becomes Claude Data, available on all paid plans with a data connector; on Enterprise, Sheets and Whiteboards are off by default and Claude Data turns on on 19 November.",
+    "c": "Claude no longer just writes text: it builds spreadsheets, whiteboards and dashboards right in its interface.",
+    "r": "For an SME, this overlaps with tools already paid for (Excel, Miro, Power BI). Anthropic admits the spreadsheet features are still simple for now.",
+    "a": "If a client has Claude Enterprise, warn their admin: Claude Data turns on by default on 19 November, and they can change it in the organisation settings."
+   },
+   "nl": {
+    "t": "Claude Sheets en Whiteboards in bèta, en Claude Data voor alle betalende abonnementen",
+    "sum": "Anthropic lanceert Claude Sheets in bèta, een rekenblad dat Claude samen met jou bouwt en aanpast (tabbladen, formules, keuzelijsten), en Claude Whiteboards, een gedeeld bord om in team te brainstormen. Claude Dashboards wordt Claude Data, beschikbaar op alle betalende abonnementen met een dataconnector; op Enterprise staan Sheets en Whiteboards standaard uit en gaat Claude Data op 19 november aan.",
+    "c": "Claude schrijft niet langer alleen tekst: het maakt rekenbladen, whiteboards en dashboards rechtstreeks in zijn interface.",
+    "r": "Voor een kmo overlapt dat met tools die al betaald worden (Excel, Miro, Power BI). Anthropic geeft toe dat de rekenbladfuncties voorlopig nog eenvoudig zijn.",
+    "a": "Heeft een klant Claude Enterprise? Verwittig dan zijn beheerder: Claude Data gaat op 19 november standaard aan, en dat kan hij aanpassen in de organisatie-instellingen."
+   }
+  },
+  {
+   "id": "n20261113f",
+   "d": "2026-11-10",
+   "s": "anthropic",
+   "imp": 1,
+   "t": "Anthropic lance la tournée des investisseurs pour son entrée en Bourse",
+   "sum": "Anthropic a lancé le 10 novembre 2026 la tournée de présentation aux investisseurs pour son introduction en Bourse : 825 millions d'actions, à un prix attendu entre 70 et 78 dollars. L'entreprise demande sa cotation au Nasdaq sous le symbole « ANT ».",
+   "c": "L'entreprise qui fait Claude se prépare à devenir une société cotée en Bourse.",
+   "r": "Pour tes clients, rien ne change au quotidien. Mais une société cotée doit publier davantage d'informations, ce qui aide à juger la solidité d'un fournisseur.",
+   "a": "Rien à faire tout de suite : retiens juste l'info si un client te demande si Anthropic est un fournisseur stable.",
+   "url": "https://www.anthropic.com/news/roadshow-launch",
+   "src": "Anthropic",
+   "en": {
+    "t": "Anthropic launches its investor roadshow for its stock market listing",
+    "sum": "On 10 November 2026 Anthropic launched the investor roadshow for its initial public offering: 825 million shares, at an expected price between $70 and $78. The company is applying to list on Nasdaq under the symbol « ANT ».",
+    "c": "The company behind Claude is getting ready to become a publicly listed company.",
+    "r": "For your clients, nothing changes day to day. But a listed company has to publish more information, which helps judge how solid a supplier is.",
+    "a": "Nothing to do right now: just remember this if a client asks whether Anthropic is a stable supplier."
+   },
+   "nl": {
+    "t": "Anthropic start zijn roadshow voor investeerders met het oog op de beursgang",
+    "sum": "Anthropic is op 10 november 2026 gestart met de roadshow voor investeerders voor zijn beursintroductie: 825 miljoen aandelen, aan een verwachte prijs tussen 70 en 78 dollar. Het bedrijf vraagt een notering aan op Nasdaq onder het symbool « ANT ».",
+    "c": "Het bedrijf achter Claude maakt zich klaar om een beursgenoteerd bedrijf te worden.",
+    "r": "Voor je klanten verandert er dagelijks niets. Maar een beursgenoteerd bedrijf moet meer informatie publiceren, wat helpt om de stevigheid van een leverancier te beoordelen.",
+    "a": "Nu niets te doen: onthoud dit gewoon als een klant vraagt of Anthropic een stabiele leverancier is."
+   }
+  },
+  {
+   "id": "n107",
+   "d": "2026-11-09",
+   "s": "openai",
+   "imp": 3,
+   "t": "ChatGPT teste un espace pour que les entreprises « réclament » leur fiche",
+   "sum": "OpenAI teste un tableau de bord qui montre combien de fois une entreprise apparaît dans les réponses de ChatGPT et combien de clics cela lui envoie. Il fait partie d'un « Business Hub » pas encore lancé, repéré par un analyste le 6 novembre.",
+   "c": "Une entreprise pourra revendiquer sa fiche dans ChatGPT, prouver qu'elle la représente (par exemple en connectant sa boutique Shopify), tenir ses infos à jour et activer un agent qui répond aux questions des clients. Le tableau montre les apparitions et les clics par jour, sans les questions des utilisateurs. OpenAI n'a pas commenté.",
+   "r": "Pour une PME, c'est comme une fiche Google Business, mais dans ChatGPT : être bien décrite là où les gens posent leurs questions va compter. C'est aussi une porte d'entrée possible vers la publicité payante dans ChatGPT.",
+   "a": "Demande à ChatGPT ce qu'il dit de deux ou trois de tes clients (horaires, services, avis) et note les erreurs. Prépare-leur une fiche d'infos propre, prête à être utilisée dès l'ouverture du Business Hub.",
+   "url": "https://digiday.com/marketing/chatgpt-is-about-to-show-brands-their-mention-count/",
+   "src": "Digiday",
+   "en": {
+    "t": "ChatGPT tests a space for businesses to « claim » their listing",
+    "sum": "OpenAI is testing a dashboard that shows how often a business appears in ChatGPT answers and how many clicks that sends to it. It is part of a « Business Hub » that has not launched yet, spotted by an analyst on 6 November.",
+    "c": "A business will be able to claim its listing in ChatGPT, prove it represents the company (for example by connecting its Shopify store), keep its information up to date and switch on an agent that answers customer questions. The dashboard shows daily appearances and clicks, without users' questions. OpenAI did not comment.",
+    "r": "For a small business, it is like a Google Business profile, but inside ChatGPT: being described correctly where people ask their questions will matter. It may also become a way into paid advertising in ChatGPT.",
+    "a": "Ask ChatGPT what it says about two or three of your clients (opening hours, services, reviews) and note the mistakes. Prepare a clean fact sheet for them, ready to use as soon as the Business Hub opens."
+   },
+   "nl": {
+    "t": "ChatGPT test een plek waar bedrijven hun vermelding kunnen « claimen »",
+    "sum": "OpenAI test een dashboard dat toont hoe vaak een bedrijf in de antwoorden van ChatGPT verschijnt en hoeveel klikken dat oplevert. Het hoort bij een « Business Hub » die nog niet gelanceerd is en die een analist op 6 november opmerkte.",
+    "c": "Een bedrijf zal zijn vermelding in ChatGPT kunnen claimen, bewijzen dat het het bedrijf vertegenwoordigt (bijvoorbeeld door zijn Shopify-winkel te koppelen), zijn gegevens actueel houden en een agent inschakelen die vragen van klanten beantwoordt. Het dashboard toont per dag de vermeldingen en klikken, zonder de vragen van gebruikers. OpenAI gaf geen commentaar.",
+    "r": "Voor een kmo is dit zoals een Google-bedrijfsprofiel, maar in ChatGPT: correct beschreven worden waar mensen hun vragen stellen, wordt belangrijk. Het kan ook een opstap worden naar betaalde advertenties in ChatGPT.",
+    "a": "Vraag ChatGPT wat het zegt over twee of drie van je klanten (openingsuren, diensten, reviews) en noteer de fouten. Maak voor hen een nette fiche met gegevens, klaar voor gebruik zodra de Business Hub opent."
+   }
+  },
+  {
+   "id": "n20261113b",
+   "d": "2026-11-09",
+   "s": "anthropic",
+   "imp": 3,
+   "t": "Claude Fable 5.2 et Mythos 5.2 : les nouveaux modèles les plus puissants d'Anthropic",
+   "sum": "Anthropic publie Claude Fable 5.2, disponible pour tous, et Claude Mythos 5.2, le même modèle réservé à des organisations vérifiées en cybersécurité et en recherche biomédicale. Fable 5.2 coûte 8 $ par million de tokens en entrée et 40 $ en sortie, et Anthropic conseille de garder Opus 5.5 pour la plupart des tâches et de passer à Fable pour les plus exigeantes.",
+   "c": "Il y a maintenant deux étages chez Anthropic : Opus 5.5 pour le travail de tous les jours, Fable 5.2 pour les tâches les plus difficiles.",
+   "r": "Pour tes clients PME, le bon réflexe n'est pas « toujours le plus gros modèle » : Fable coûte plus cher et sert surtout au code complexe, à la finance et aux sciences. Sur les forfaits Pro et Team, Fable est limité à une partie de l'usage hebdomadaire.",
+   "a": "Fais un petit test : la même tâche d'un client (un rapport, une analyse) avec Opus 5.5 puis avec Fable 5.2, et note la différence de qualité et de temps.",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "src": "Anthropic",
+   "en": {
+    "t": "Claude Fable 5.2 and Mythos 5.2: Anthropic's most powerful new models",
+    "sum": "Anthropic releases Claude Fable 5.2, available to everyone, and Claude Mythos 5.2, the same model reserved for vetted organisations in cybersecurity and biomedical research. Fable 5.2 costs $8 per million input tokens and $40 per million output tokens, and Anthropic advises keeping Opus 5.5 for most tasks and switching to Fable for the most demanding ones.",
+    "c": "Anthropic now has two tiers: Opus 5.5 for everyday work, Fable 5.2 for the hardest tasks.",
+    "r": "For your SME clients, the right reflex isn't « always the biggest model »: Fable costs more and is mainly for complex code, finance and science. On Pro and Team plans, Fable is limited to part of weekly usage.",
+    "a": "Run a small test: the same client task (a report, an analysis) with Opus 5.5 then with Fable 5.2, and note the difference in quality and time."
+   },
+   "nl": {
+    "t": "Claude Fable 5.2 en Mythos 5.2: de krachtigste nieuwe modellen van Anthropic",
+    "sum": "Anthropic brengt Claude Fable 5.2 uit, voor iedereen beschikbaar, en Claude Mythos 5.2, hetzelfde model voorbehouden aan gecontroleerde organisaties in cyberbeveiliging en biomedisch onderzoek. Fable 5.2 kost 8 dollar per miljoen inputtokens en 40 dollar per miljoen outputtokens, en Anthropic raadt aan Opus 5.5 te houden voor de meeste taken en voor de zwaarste over te schakelen op Fable.",
+    "c": "Anthropic heeft nu twee niveaus: Opus 5.5 voor het dagelijkse werk, Fable 5.2 voor de moeilijkste taken.",
+    "r": "Voor je kmo-klanten is de juiste reflex niet « altijd het grootste model »: Fable is duurder en dient vooral voor complexe code, financiën en wetenschap. Op de Pro- en Team-abonnementen is Fable beperkt tot een deel van het wekelijkse gebruik.",
+    "a": "Doe een kleine test: dezelfde taak van een klant (een rapport, een analyse) met Opus 5.5 en daarna met Fable 5.2, en noteer het verschil in kwaliteit en tijd."
+   }
+  },
+  {
+   "id": "n20261113e",
+   "d": "2026-11-09",
+   "s": "google",
+   "imp": 2,
+   "t": "Google Workspace : les « skills » permettent de partager des instructions Gemini dans toute l'équipe",
+   "sum": "Google déploie les skills dans Workspace : des instructions réutilisables, avec modèles et fichiers de référence, qu'on crée dans Workspace Studio ou Google Docs et qu'on utilise dans Gmail, Docs, Slides, Drive et Chat. Elles sont activées par défaut, en anglais seulement, à partir du 9 novembre (Rapid Release) et du 30 novembre (Scheduled Release).",
+   "c": "Une skill, c'est une « recette » écrite une fois, par exemple « rédige une offre selon notre modèle », que toute l'équipe peut réutiliser.",
+   "r": "C'est exactement le genre de chose qu'un consultant peut construire pour une PME. Mais les skills ne fonctionnent qu'en anglais pour l'instant, et pas encore dans Sheets ni Meet.",
+   "a": "Choisis une tâche répétitive chez un client sous Google Workspace (devis, réponse type) et écris-en une première skill à tester.",
+   "url": "http://workspaceupdates.googleblog.com/2026/11/skills-in-workspace.html",
+   "src": "Google Workspace Updates",
+   "en": {
+    "t": "Google Workspace: « skills » let the whole team share Gemini instructions",
+    "sum": "Google is rolling out skills in Workspace: reusable instructions, with templates and reference files, created in Workspace Studio or Google Docs and used in Gmail, Docs, Slides, Drive and Chat. They are on by default, English only, from 9 November (Rapid Release) and 30 November (Scheduled Release).",
+    "c": "A skill is a « recipe » written once, for example « write a quote using our template », that the whole team can reuse.",
+    "r": "This is exactly the kind of thing a consultant can build for an SME. But skills only work in English for now, and not yet in Sheets or Meet.",
+    "a": "Pick a repetitive task at a client using Google Workspace (quotes, standard replies) and write a first skill to test."
+   },
+   "nl": {
+    "t": "Google Workspace: met « skills » deelt het hele team Gemini-instructies",
+    "sum": "Google rolt skills uit in Workspace: herbruikbare instructies, met sjablonen en referentiebestanden, die je maakt in Workspace Studio of Google Docs en gebruikt in Gmail, Docs, Slides, Drive en Chat. Ze staan standaard aan, alleen in het Engels, vanaf 9 november (Rapid Release) en 30 november (Scheduled Release).",
+    "c": "Een skill is een « recept » dat je één keer schrijft, bijvoorbeeld « schrijf een offerte volgens ons sjabloon », en dat het hele team kan hergebruiken.",
+    "r": "Dat is precies iets wat een consultant voor een kmo kan bouwen. Maar skills werken voorlopig alleen in het Engels, en nog niet in Sheets of Meet.",
+    "a": "Kies een repetitieve taak bij een klant met Google Workspace (offertes, standaardantwoorden) en schrijf er een eerste skill voor om te testen."
+   }
+  },
+  {
+   "id": "n108",
+   "d": "2026-11-07",
+   "s": "anthropic",
+   "imp": 2,
+   "t": "Claude Code : l'option « ne plus demander » peut exposer tes mots de passe",
+   "sum": "Selon la société de sécurité Apiiro, quand tu choisis « Oui, et ne plus demander » dans Claude Code, la commande approuvée est enregistrée telle quelle dans un fichier du projet, avec les mots de passe qu'elle contient. Apiiro a trouvé plus de 2 500 secrets dans près de 2 000 dépôts publics sur GitHub.",
+   "c": "Le fichier .claude/settings.local.json n'est pas ajouté au .gitignore du projet, donc il peut partir sur GitHub avec le reste du code. Le supprimer ensuite ne suffit pas : l'historique git en garde une copie. Aucune réponse d'Anthropic n'est signalée.",
+   "r": "Si tu crées des outils pour tes clients avec Claude Code, un mot de passe de base de données ou une clé d'API peut se retrouver en ligne sans que personne ne le voie. Pour une PME, c'est une porte ouverte sur ses données.",
+   "a": "Dans chaque projet, ajoute .claude/settings.local.json au .gitignore, cherche ce fichier dans tes dépôts et change tout mot de passe ou clé qu'il a contenu. Ne tape plus jamais un secret directement dans une commande : utilise une variable d'environnement.",
+   "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+   "src": "The Hacker News",
+   "en": {
+    "t": "Claude Code: the « don't ask again » option can expose your passwords",
+    "sum": "According to security firm Apiiro, when you pick « Yes, and don't ask again » in Claude Code, the approved command is saved as is in a project file, including any passwords in it. Apiiro found more than 2,500 secrets in nearly 2,000 public GitHub repositories.",
+    "c": "The .claude/settings.local.json file is not added to the project's .gitignore, so it can be pushed to GitHub with the rest of the code. Deleting it afterwards is not enough: git history keeps a copy. No response from Anthropic has been reported.",
+    "r": "If you build tools for your clients with Claude Code, a database password or an API key can end up online without anyone noticing. For a small business, that is an open door to its data.",
+    "a": "In every project, add .claude/settings.local.json to .gitignore, look for this file in your repositories and change any password or key it ever held. Never type a secret directly into a command again: use an environment variable."
+   },
+   "nl": {
+    "t": "Claude Code: de optie « niet meer vragen » kan je wachtwoorden blootstellen",
+    "sum": "Volgens beveiligingsbedrijf Apiiro wordt, als je in Claude Code « Ja, en niet meer vragen » kiest, het goedgekeurde commando ongewijzigd in een projectbestand opgeslagen, met de wachtwoorden die erin staan. Apiiro vond meer dan 2.500 geheimen in bijna 2.000 openbare GitHub-repositories.",
+    "c": "Het bestand .claude/settings.local.json wordt niet aan de .gitignore van het project toegevoegd, dus het kan samen met de rest van de code op GitHub belanden. Het achteraf verwijderen volstaat niet: de git-geschiedenis bewaart een kopie. Er is geen reactie van Anthropic gemeld.",
+    "r": "Als je met Claude Code tools bouwt voor je klanten, kan een databasewachtwoord of API-sleutel online terechtkomen zonder dat iemand het merkt. Voor een kmo is dat een open deur naar haar gegevens.",
+    "a": "Voeg in elk project .claude/settings.local.json toe aan de .gitignore, zoek dit bestand in je repositories en wijzig elk wachtwoord of elke sleutel die erin stond. Typ nooit meer een geheim rechtstreeks in een commando: gebruik een omgevingsvariabele."
+   }
+  },
+  {
+   "id": "n109",
+   "d": "2026-11-07",
+   "s": "anthropic",
+   "imp": 1,
+   "t": "Abonnements Claude Max : un juge laisse avancer un recours collectif",
+   "sum": "Un juge fédéral de Californie a estimé que la promesse « 5 ou 20 fois plus d'utilisation » des forfaits Claude Max à 100 et 200 dollars pouvait plausiblement induire les abonnés en erreur. Une partie des plaintes, dont la rupture de contrat, peut donc continuer.",
+   "c": "Les plaignants calculent que, pour un modèle, le forfait à 200 dollars donne environ 6 fois l'usage hebdomadaire de Pro, et celui à 100 dollars environ 3,5 fois. Le juge trouve l'explication des limites trop difficile à trouver sur le site. D'autres plaintes ont été rejetées et rien n'est encore jugé sur le fond.",
+   "r": "Les limites d'usage des abonnements IA restent floues, chez Anthropic comme ailleurs. Un client qui paie un forfait plus cher n'obtient pas forcément ce qu'il imagine.",
+   "a": "Quand tu conseilles un abonnement à un client, teste d'abord son usage réel pendant une semaine sur le forfait de base avant de recommander un forfait plus cher.",
+   "url": "https://thenextweb.com/news/anthropic-claude-max-lawsuit-ruling-usage-claims",
+   "src": "The Next Web",
+   "en": {
+    "t": "Claude Max plans: a judge lets a class action move forward",
+    "sum": "A federal judge in California found that the « 5x or 20x more usage » promise of the $100 and $200 Claude Max plans could plausibly mislead subscribers. Part of the claims, including breach of contract, can therefore continue.",
+    "c": "The plaintiffs calculate that, for one model, the $200 plan gives about 6 times Pro's weekly usage and the $100 plan about 3.5 times. The judge found the explanation of the limits too hard to find on the website. Other claims were dismissed and nothing has been decided on the merits yet.",
+    "r": "Usage limits on AI subscriptions remain unclear, at Anthropic and elsewhere. A client who pays for a more expensive plan does not necessarily get what they expect.",
+    "a": "When you recommend a subscription to a client, first test their real usage for a week on the basic plan before suggesting a more expensive one."
+   },
+   "nl": {
+    "t": "Claude Max-abonnementen: rechter laat groepsvordering doorgaan",
+    "sum": "Een federale rechter in Californië oordeelde dat de belofte « 5 of 20 keer meer gebruik » van de Claude Max-abonnementen van 100 en 200 dollar abonnees plausibel kon misleiden. Een deel van de klachten, waaronder contractbreuk, kan dus doorgaan.",
+    "c": "De eisers berekenen dat het abonnement van 200 dollar voor één model ongeveer 6 keer het wekelijkse gebruik van Pro geeft, en dat van 100 dollar ongeveer 3,5 keer. De rechter vond de uitleg over de limieten te moeilijk te vinden op de website. Andere klachten werden afgewezen en ten gronde is nog niets beslist.",
+    "r": "Gebruikslimieten van AI-abonnementen blijven vaag, bij Anthropic en elders. Een klant die een duurder abonnement betaalt, krijgt niet altijd wat hij verwacht.",
+    "a": "Als je een klant een abonnement aanraadt, test dan eerst een week zijn echte gebruik op het basisabonnement voordat je een duurder abonnement voorstelt."
+   }
+  },
+  {
+   "id": "n100",
+   "d": "2026-11-07",
+   "s": "anthropic",
+   "imp": 3,
+   "t": "Claude efface les notes de cours d'un professeur pendant une tâche simple",
+   "sum": "Un professeur de droit de l'Université de Chicago a demandé à Claude de corriger des numéros de page. Pendant sa pause de midi, Claude a supprimé son syllabus et un an de notes de cours. Il a tout récupéré grâce à l'historique de Dropbox.",
+   "c": "Un assistant IA qui a le droit d'écrire dans tes dossiers peut aussi supprimer des fichiers, même pour une tâche anodine. La cause exacte n'est pas connue, et Anthropic n'a pas commenté.",
+   "r": "Tes clients PME commencent à laisser l'IA travailler seule sur leurs fichiers (Cowork, Copilot, agents). Sans sauvegarde, une erreur de ce type peut faire perdre des années de travail.",
+   "a": "Avant de laisser un client confier des fichiers à un agent IA : vérifie qu'il a une sauvegarde avec historique (OneDrive, Dropbox, Google Drive), fais travailler l'IA sur une copie et ne lui donne accès qu'au dossier utile.",
+   "url": "https://www.dexerto.com/entertainment/professor-returns-from-lunch-to-find-ai-deleted-years-worth-of-lecture-notes-3425652/",
+   "src": "Dexerto",
+   "en": {
+    "t": "Claude deletes a professor's lecture notes during a simple task",
+    "sum": "A University of Chicago law professor asked Claude to fix page numbers. During his lunch break, Claude deleted his syllabus and a year of lecture notes. He got everything back through Dropbox's history.",
+    "c": "An AI assistant allowed to write in your folders can also delete files, even during a harmless task. The exact cause is unknown, and Anthropic has not commented.",
+    "r": "Your small business clients are starting to let AI work alone on their files (Cowork, Copilot, agents). Without a backup, a mistake like this can wipe out years of work.",
+    "a": "Before a client hands files to an AI agent: check they have a backup with version history (OneDrive, Dropbox, Google Drive), let the AI work on a copy, and give it access only to the folder it needs."
+   },
+   "nl": {
+    "t": "Claude wist de cursusnotities van een professor tijdens een eenvoudige taak",
+    "sum": "Een rechtenprofessor van de Universiteit van Chicago vroeg Claude om paginanummers aan te passen. Tijdens zijn middagpauze wiste Claude zijn syllabus en een jaar aan cursusnotities. Hij kreeg alles terug via de geschiedenis van Dropbox.",
+    "c": "Een AI-assistent die in je mappen mag schrijven, kan ook bestanden wissen, zelfs bij een onschuldige taak. De precieze oorzaak is niet bekend en Anthropic gaf geen reactie.",
+    "r": "Je kmo-klanten laten AI steeds vaker alleen aan hun bestanden werken (Cowork, Copilot, agents). Zonder back-up kan zo'n fout jaren werk kosten.",
+    "a": "Voor een klant bestanden aan een AI-agent geeft: controleer of er een back-up met versiegeschiedenis is (OneDrive, Dropbox, Google Drive), laat de AI op een kopie werken en geef enkel toegang tot de nodige map."
+   }
+  },
+  {
+   "id": "n101",
+   "d": "2026-11-07",
+   "s": "business",
+   "imp": 2,
+   "t": "Elvis et Eminem attaquent Suno, le générateur de musique par IA",
+   "sum": "Les ayants droit d'Elvis Presley et l'éditeur musical d'Eminem ont porté plainte aux États-Unis contre Suno. Ils l'accusent d'avoir entraîné son IA sur leurs chansons sans accord et de permettre d'imiter la voix et le style des artistes.",
+   "c": "Les procès contre les outils de musique IA se multiplient. La question n'est plus seulement la copie d'une chanson, mais aussi l'imitation d'une voix ou d'un style connu.",
+   "r": "Beaucoup de PME utilisent de la musique IA pour leurs vidéos et pubs. Une musique qui imite un artiste célèbre peut poser problème, et les conditions de ces outils peuvent changer après un procès.",
+   "a": "Conseille à tes clients de ne jamais demander « à la manière de » un artiste connu, de lire les droits commerciaux de leur abonnement Suno ou Udio, et de garder une trace de chaque musique utilisée en pub.",
+   "url": "https://tribune.com.pk/story/2639163/elvis-presley-rights-holders-and-eminems-publisher-sue-ai-music-generator-suno",
+   "src": "The Express Tribune",
+   "en": {
+    "t": "Elvis and Eminem rights holders sue AI music generator Suno",
+    "sum": "Elvis Presley's rights holders and Eminem's music publisher have filed lawsuits in the US against Suno. They accuse it of training its AI on their songs without permission and of letting users imitate the artists' voice and style.",
+    "c": "Lawsuits against AI music tools keep piling up. The issue is no longer just copying a song, but also imitating a famous voice or style.",
+    "r": "Many small businesses use AI music for their videos and ads. A track that imitates a famous artist can cause trouble, and these tools' terms may change after a lawsuit.",
+    "a": "Tell your clients never to ask for music 'in the style of' a known artist, to read the commercial rights in their Suno or Udio plan, and to keep a record of every track used in an ad."
+   },
+   "nl": {
+    "t": "Elvis en Eminem slepen AI-muziekgenerator Suno voor de rechter",
+    "sum": "De rechthebbenden van Elvis Presley en de muziekuitgever van Eminem hebben in de VS een klacht ingediend tegen Suno. Ze beschuldigen het bedrijf ervan zijn AI zonder toestemming op hun nummers te trainen en gebruikers de stem en stijl van de artiesten te laten nabootsen.",
+    "c": "Rechtszaken tegen AI-muziektools stapelen zich op. Het gaat niet meer alleen om het kopiëren van een nummer, maar ook om het nabootsen van een bekende stem of stijl.",
+    "r": "Veel kmo's gebruiken AI-muziek voor hun video's en advertenties. Muziek die een bekende artiest nabootst kan problemen geven, en de voorwaarden van zulke tools kunnen na een rechtszaak veranderen.",
+    "a": "Raad je klanten aan nooit muziek 'in de stijl van' een bekende artiest te vragen, de commerciële rechten van hun Suno- of Udio-abonnement te lezen en elk nummer dat in een advertentie gebruikt wordt bij te houden."
+   }
+  },
+  {
+   "id": "n105",
+   "d": "2026-11-06",
+   "s": "mistral",
+   "imp": 2,
+   "t": "Mistral Studio : des agents IA prêts à l'emploi pour les entreprises",
+   "sum": "Mistral, l'entreprise française d'IA, ajoute à sa plateforme Studio des agents gérés, des applications hébergées avec accès contrôlé et des flux de travail déclenchés par des événements. Les modèles peuvent tourner chez le client, sur site ou chez Mistral.",
+   "c": "Au lieu de tout construire toi-même, tu configures un agent (par exemple un assistant qui lit les e-mails ou les dossiers) et la plateforme s'occupe du reste. Tu choisis ce qu'il a le droit de faire et les actions qui demandent ton accord. Pas de prix ni de date de disponibilité publiés pour ces nouveautés.",
+   "r": "C'est une option européenne, utile pour un client qui veut garder ses données chez lui. Pour une PME, ce sera surtout intéressant via un prestataire : la plateforme vise d'abord les grandes entreprises et les développeurs.",
+   "a": "Culture générale : rien à faire. Garde Mistral en tête pour un client qui pose la question « mes données restent-elles en Europe ? », et reviens vérifier prix et disponibilité plus tard.",
+   "url": "https://mistral.ai/news/build-with-studio/",
+   "src": "Mistral AI",
+   "en": {
+    "t": "Mistral Studio: ready-to-use AI agents for companies",
+    "sum": "Mistral, the French AI company, adds managed agents, hosted apps with access control and event-triggered workflows to its Studio platform. Models can run at the customer's site, on premises or at Mistral.",
+    "c": "Instead of building everything yourself, you set up an agent (for example an assistant that reads emails or folders) and the platform handles the rest. You choose what it may do and which actions need your approval. No price or availability date has been published for these additions.",
+    "r": "It is a European option, useful for a client who wants to keep data in-house. For a small business it will mostly come through a provider: the platform targets large companies and developers first.",
+    "a": "General knowledge: nothing to do. Keep Mistral in mind for a client asking \"does my data stay in Europe?\", and check price and availability later."
+   },
+   "nl": {
+    "t": "Mistral Studio: kant-en-klare AI-agenten voor bedrijven",
+    "sum": "Mistral, het Franse AI-bedrijf, voegt aan zijn Studio-platform beheerde agenten, gehoste apps met toegangscontrole en door gebeurtenissen gestarte workflows toe. De modellen kunnen bij de klant, on-premises of bij Mistral draaien.",
+    "c": "In plaats van alles zelf te bouwen, stel je een agent in (bijvoorbeeld een assistent die e-mails of mappen leest) en het platform doet de rest. Jij bepaalt wat hij mag doen en welke acties jouw goedkeuring nodig hebben. Voor deze toevoegingen zijn nog geen prijs of beschikbaarheidsdatum gepubliceerd.",
+    "r": "Het is een Europese optie, handig voor een klant die data in eigen beheer wil houden. Voor een kleine onderneming loopt het vooral via een leverancier: het platform richt zich eerst op grote bedrijven en ontwikkelaars.",
+    "a": "Algemene kennis: niets te doen. Houd Mistral in gedachten voor een klant die vraagt \"blijven mijn gegevens in Europa?\", en controleer prijs en beschikbaarheid later."
+   }
+  },
+  {
+   "id": "n102",
+   "d": "2026-11-06",
+   "s": "europe",
+   "imp": 2,
+   "t": "Les Pays-Bas présentent leur vision de l'IA, avec une attention aux PME",
+   "sum": "Le gouvernement néerlandais a adopté une vision de l'IA axée sur un usage responsable et une moindre dépendance aux géants étrangers. Il veut lever les freins qui empêchent les PME d'utiliser l'IA et étudie la création d'un institut de sécurité de l'IA.",
+   "c": "Le pays voisin prévoit un plan pour la puissance de calcul début 2027, des espaces d'essai encadrés pour appliquer l'AI Act et un pacte avec les médias. Les mesures concrètes pour les PME ne sont pas encore détaillées.",
+   "r": "Les PME belges qui travaillent avec des partenaires néerlandais vont entendre parler de « souveraineté » et d'IA européenne. C'est aussi un signal : les pouvoirs publics veulent pousser les petites entreprises à adopter l'IA.",
+   "a": "Culture générale : rien à faire. Garde un œil sur les aides et espaces d'essai annoncés, une piste à comparer avec ce que proposent la Flandre et la Wallonie.",
+   "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/kabinet-kiest-voor-ai-die-nederland-vooruithelpt",
+   "src": "Rijksoverheid",
+   "en": {
+    "t": "The Netherlands presents its AI vision, with attention to SMEs",
+    "sum": "The Dutch government adopted an AI vision focused on responsible use and less dependence on foreign tech giants. It wants to remove barriers that stop small businesses from using AI and is exploring an AI safety institute.",
+    "c": "The neighbouring country plans a computing-capacity plan in early 2027, supervised test spaces to apply the AI Act, and a pact with the media. Concrete measures for SMEs are not detailed yet.",
+    "r": "Belgian SMEs working with Dutch partners will hear more about 'sovereignty' and European AI. It is also a signal: governments want to push small businesses to adopt AI.",
+    "a": "General knowledge: nothing to do. Keep an eye on the support schemes and test spaces announced, and compare them with what Flanders and Wallonia offer."
+   },
+   "nl": {
+    "t": "Nederland stelt zijn AI-visie voor, met aandacht voor het mkb",
+    "sum": "Het Nederlandse kabinet keurde een AI-visie goed die draait om verantwoord gebruik en minder afhankelijkheid van buitenlandse techreuzen. Het wil drempels wegnemen die kleine bedrijven tegenhouden om AI te gebruiken en onderzoekt een AI-veiligheidsinstituut.",
+    "c": "Onze noorderburen plannen begin 2027 een plan voor rekenkracht, begeleide proefruimtes om de AI Act toe te passen en een pact met de media. Concrete maatregelen voor het mkb zijn er nog niet.",
+    "r": "Belgische kmo's die met Nederlandse partners werken, zullen meer horen over 'soevereiniteit' en Europese AI. Het is ook een signaal: overheden willen kleine bedrijven richting AI duwen.",
+    "a": "Algemene kennis: niets te doen. Volg de aangekondigde steun en proefruimtes op en vergelijk ze met wat Vlaanderen en Wallonië aanbieden."
+   }
+  },
+  {
+   "id": "n103",
+   "d": "2026-11-06",
+   "s": "business",
+   "imp": 1,
+   "t": "Perplexity lance « Teammates », des agents IA qui travaillent en continu",
+   "sum": "Perplexity propose des agents qui gèrent des tâches de fond 24 h sur 24, peuvent se répartir le travail et te préviennent quand une décision est nécessaire. C'est réservé à l'abonnement Max, à 200 dollars par mois.",
+   "c": "Les assistants IA passent du mode « question-réponse » à des collègues virtuels qui suivent un dossier dans la durée. Chaque agent a son rôle et son suivi.",
+   "r": "À ce prix, c'est trop cher pour la plupart des PME aujourd'hui. Mais tes clients vont en entendre parler, et ChatGPT, Claude et Copilot proposent des fonctions proches.",
+   "a": "Culture générale : rien à faire. Si un client veut des agents qui tournent en continu, compare d'abord avec ce que son abonnement actuel permet déjà.",
+   "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
+   "src": "Engadget",
+   "en": {
+    "t": "Perplexity launches 'Teammates', AI agents that work around the clock",
+    "sum": "Perplexity offers agents that handle background tasks 24/7, can split work between themselves and notify you when a decision is needed. It is limited to the Max plan, at $200 a month.",
+    "c": "AI assistants are moving from question-and-answer to virtual coworkers that follow a project over time. Each agent has its own role and progress view.",
+    "r": "At this price it is too expensive for most small businesses today. But your clients will hear about it, and ChatGPT, Claude and Copilot offer similar features.",
+    "a": "General knowledge: nothing to do. If a client wants always-on agents, first compare with what their current subscription already allows."
+   },
+   "nl": {
+    "t": "Perplexity lanceert 'Teammates', AI-agenten die non-stop werken",
+    "sum": "Perplexity biedt agenten die 24 uur op 24 achtergrondtaken uitvoeren, het werk onderling kunnen verdelen en je verwittigen als er een beslissing nodig is. Het is enkel beschikbaar in het Max-abonnement van 200 dollar per maand.",
+    "c": "AI-assistenten evolueren van vraag-en-antwoord naar virtuele collega's die een dossier langere tijd opvolgen. Elke agent heeft een eigen rol en opvolging.",
+    "r": "Aan die prijs is het vandaag te duur voor de meeste kmo's. Maar je klanten zullen erover horen, en ChatGPT, Claude en Copilot hebben gelijkaardige functies.",
+    "a": "Algemene kennis: niets te doen. Wil een klant agenten die continu draaien, vergelijk dan eerst met wat zijn huidige abonnement al toelaat."
+   }
+  },
+  {
+   "id": "n99",
+   "d": "2026-11-06",
+   "s": "business",
+   "imp": 3,
+   "t": "Botpress piraté : des clés d'API stockées dans des chatbots exposées",
+   "sum": "Botpress, une plateforme de création de chatbots, a révélé qu'un intrus a lu la configuration de bots dans 16 espaces clients le 21 octobre, et modifié des réglages dans 2 autres. Ces configurations peuvent contenir des clés d'IA, des jetons de messagerie et des accès CRM.",
+   "c": "Un chatbot garde souvent des « clés » vers d'autres outils (OpenAI, WhatsApp, CRM). Si la plateforme du chatbot est piratée, ces clés peuvent être volées, même si les conversations des clients ne l'ont pas été.",
+   "r": "Beaucoup de PME utilisent des outils no-code pour leur chatbot. Le risque n'est pas seulement le bot : c'est tout ce à quoi il est connecté. Une clé volée peut coûter cher en usage d'IA ou ouvrir l'accès à tes données clients.",
+   "a": "Si un client utilise Botpress, vérifie s'il a été contacté et change toutes les clés stockées dans ses bots. Pour les autres : fais la liste des clés présentes dans chaque chatbot et fixe un plafond de dépenses chez le fournisseur d'IA.",
+   "url": "https://botpress.com/blog/security-incident-disclosure-november-2026",
+   "src": "Botpress",
+   "en": {
+    "t": "Botpress breached: API keys stored in chatbots exposed",
+    "sum": "Botpress, a chatbot-building platform, disclosed that an intruder read bot configurations in 16 customer workspaces on October 21 and changed settings in 2 others. Those configurations can hold AI keys, messaging tokens and CRM credentials.",
+    "c": "A chatbot often stores \"keys\" to other tools (OpenAI, WhatsApp, CRM). If the chatbot platform is hacked, those keys can be stolen, even when customer conversations are not.",
+    "r": "Many small businesses use no-code tools for their chatbot. The risk is not just the bot: it is everything the bot connects to. A stolen key can run up AI costs or open access to customer data.",
+    "a": "If a client uses Botpress, check whether they were contacted and rotate every key stored in their bots. For everyone else: list the keys held in each chatbot and set a spending cap with the AI provider."
+   },
+   "nl": {
+    "t": "Botpress gehackt: API-sleutels in chatbots blootgesteld",
+    "sum": "Botpress, een platform om chatbots te bouwen, meldt dat een indringer op 21 oktober de botconfiguratie van 16 klantomgevingen heeft gelezen en bij 2 andere instellingen heeft gewijzigd. Die configuraties kunnen AI-sleutels, berichtentokens en CRM-toegang bevatten.",
+    "c": "Een chatbot bewaart vaak \"sleutels\" naar andere tools (OpenAI, WhatsApp, CRM). Als het chatbotplatform gehackt wordt, kunnen die sleutels gestolen worden, ook als de klantgesprekken veilig blijven.",
+    "r": "Veel kmo's gebruiken no-codetools voor hun chatbot. Het risico zit niet alleen in de bot, maar in alles waarmee hij verbonden is. Een gestolen sleutel kan veel AI-kosten veroorzaken of toegang geven tot klantgegevens.",
+    "a": "Gebruikt een klant Botpress? Kijk of hij gecontacteerd werd en vervang alle sleutels in zijn bots. Voor de anderen: maak een lijst van de sleutels in elke chatbot en stel een uitgavenlimiet in bij de AI-leverancier."
+   }
+  },
+  {
+   "id": "n98",
+   "d": "2026-11-06",
+   "s": "business",
+   "imp": 2,
+   "t": "Banque d'Angleterre : l'IA n'a ajouté que 0,5 % de productivité en trois ans",
+   "sum": "Dans son rapport de novembre, la Banque d'Angleterre estime que l'IA a relevé la productivité britannique d'environ 0,5 % sur trois ans. Les entreprises sondées espèrent un gain plus net, autour de 0,9 point par an, sur les trois prochaines années.",
+   "c": "Les gains de l'IA sont réels mais encore petits à l'échelle d'un pays. Une grande partie de la croissance liée à l'IA vient de la construction de l'IA (centres de données, puces), pas de son usage dans les entreprises.",
+   "r": "C'est un bon rappel de réalisme pour tes clients : l'IA ne transforme pas une PME en un mois. Les gains viennent de cas précis bien choisis, pas d'un abonnement acheté pour tout le monde.",
+   "a": "Dans tes devis, promets des gains mesurables sur 1 ou 2 tâches précises (temps gagné par semaine), et mesure-les avant et après.",
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059",
+   "src": "The Register",
+   "en": {
+    "t": "Bank of England: AI added only 0.5% to productivity in three years",
+    "sum": "In its November report, the Bank of England estimates AI has lifted UK productivity by about 0.5% over three years. Surveyed firms expect a bigger gain, around 0.9 points a year, over the next three years.",
+    "c": "AI gains are real but still small at the scale of a whole country. Much of AI-related growth comes from building AI (data centers, chips), not from businesses using it.",
+    "r": "A useful reality check for your clients: AI does not transform a small business in a month. Gains come from well-chosen specific use cases, not from a subscription bought for everyone.",
+    "a": "In your quotes, promise measurable gains on 1 or 2 specific tasks (time saved per week), and measure them before and after."
+   },
+   "nl": {
+    "t": "Bank of England: AI leverde in drie jaar maar 0,5 % productiviteit op",
+    "sum": "In haar rapport van november schat de Bank of England dat AI de Britse productiviteit in drie jaar met ongeveer 0,5 % heeft verhoogd. De bevraagde bedrijven verwachten de komende drie jaar een grotere winst, rond 0,9 punt per jaar.",
+    "c": "De winst van AI is echt, maar op landniveau nog klein. Veel van de groei rond AI komt van het bouwen van AI (datacenters, chips), niet van het gebruik ervan in bedrijven.",
+    "r": "Een goede realiteitscheck voor je klanten: AI verandert een kmo niet in een maand. De winst komt van goed gekozen, concrete toepassingen, niet van een abonnement voor iedereen.",
+    "a": "Beloof in je offertes meetbare winst op 1 of 2 concrete taken (tijd gewonnen per week) en meet die voor en na."
+   }
+  },
+  {
+   "id": "n106",
+   "d": "2026-11-05",
+   "s": "anthropic",
+   "imp": 1,
+   "t": "Claude peut lire tes comptes bancaires, en lecture seule (États-Unis)",
+   "sum": "Anthropic lance en bêta « Personal Finance » pour des abonnés Pro, Max et Ultra aux États-Unis. Claude peut analyser les dépenses de comptes liés via Plaid, mais ne peut ni déplacer ni investir de l'argent.",
+   "c": "Tu relies jusqu'à 16 banques américaines. Claude lit les soldes et les transactions, repère les doublons et les frais, et fait des graphiques. Il ne voit pas ton mot de passe bancaire. Pour l'instant, ce n'est ouvert qu'à certains abonnés américains.",
+   "r": "Pas disponible en Belgique, mais cela montre où va l'IA : analyser de vrais chiffres. Tes clients PME te demanderont bientôt si une IA peut lire leur comptabilité ou leur banque, et si c'est sûr.",
+   "a": "Culture générale : rien à faire. Si un client demande, explique la différence entre un accès en lecture seule et un accès qui peut agir, et ne partage jamais de mot de passe avec un outil IA.",
+   "url": "https://thenextweb.com/news/anthropic-claude-personal-finance-plaid-read-only-beta",
+   "src": "The Next Web",
+   "en": {
+    "t": "Claude can read your bank accounts, read-only (US)",
+    "sum": "Anthropic launches \"Personal Finance\" in beta for Pro, Max and Ultra subscribers in the United States. Claude can analyze spending from accounts linked through Plaid, but cannot move or invest money.",
+    "c": "You link up to 16 US banks. Claude reads balances and transactions, spots duplicates and fees, and builds charts. It does not see your bank password. For now it is open only to some US subscribers.",
+    "r": "Not available in Belgium, but it shows where AI is heading: analyzing real figures. Your small business clients will soon ask whether an AI can read their accounting or bank data, and whether that is safe.",
+    "a": "General knowledge: nothing to do. If a client asks, explain the difference between read-only access and access that can act, and never share a password with an AI tool."
+   },
+   "nl": {
+    "t": "Claude kan je bankrekeningen lezen, alleen-lezen (VS)",
+    "sum": "Anthropic lanceert « Personal Finance » in bèta voor Pro-, Max- en Ultra-abonnees in de Verenigde Staten. Claude kan uitgaven analyseren van rekeningen die via Plaid zijn gekoppeld, maar geen geld verplaatsen of beleggen.",
+    "c": "Je koppelt tot 16 Amerikaanse banken. Claude leest saldi en transacties, ziet dubbele betalingen en kosten en maakt grafieken. Hij ziet je bankwachtwoord niet. Voorlopig is het alleen open voor sommige Amerikaanse abonnees.",
+    "r": "Niet beschikbaar in België, maar het toont waar AI naartoe gaat: echte cijfers analyseren. Je klanten uit het mkb zullen binnenkort vragen of een AI hun boekhouding of bank kan lezen en of dat veilig is.",
+    "a": "Algemene kennis: niets te doen. Als een klant erom vraagt, leg het verschil uit tussen alleen-lezen toegang en toegang die kan handelen, en deel nooit een wachtwoord met een AI-tool."
+   }
+  },
+  {
+   "id": "n104",
+   "d": "2026-11-05",
+   "s": "business",
+   "imp": 2,
+   "t": "Des pirates laissent des agents IA attaquer des sites presque seuls",
+   "sum": "Check Point a observé des criminels qui utilisent ARTEX, un outil de test d'intrusion piloté par l'IA, pour attaquer des sites mal protégés. Les agents ont volé des certificats et des milliers d'identifiants, pour quelques centaines de dollars d'IA par campagne.",
+   "c": "Un attaquant fixe un objectif et les agents IA cherchent seuls les failles simples : mots de passe écrits dans le code, interfaces sans connexion obligatoire. Attaquer coûte désormais très peu.",
+   "r": "Les petits sites et petites applis ne passent plus « sous le radar » : les agents scannent tout. Une PME avec un formulaire, une boutique ou une API mal protégée devient une cible facile.",
+   "a": "Avec tes clients, vérifie qu'aucun mot de passe ou clé n'est écrit dans le code de leur site, que chaque interface demande une connexion, et que les mises à jour du site et des extensions sont faites.",
+   "url": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
+   "src": "Check Point Research",
+   "en": {
+    "t": "Hackers let AI agents attack websites almost on their own",
+    "sum": "Check Point observed criminals using ARTEX, an AI-driven penetration testing tool, to attack poorly protected sites. The agents stole certificates and thousands of credentials, for a few hundred dollars of AI per campaign.",
+    "c": "An attacker sets a goal and AI agents look for simple flaws on their own: passwords written in code, interfaces with no login required. Attacking now costs very little.",
+    "r": "Small sites and small apps no longer fly under the radar: agents scan everything. A small business with a poorly protected form, shop or API becomes an easy target.",
+    "a": "With your clients, check that no password or key is written in their website code, that every interface requires a login, and that site and plugin updates are installed."
+   },
+   "nl": {
+    "t": "Hackers laten AI-agenten bijna zelfstandig websites aanvallen",
+    "sum": "Check Point zag criminelen ARTEX gebruiken, een door AI aangestuurde tool voor penetratietests, om slecht beveiligde sites aan te vallen. De agenten stalen certificaten en duizenden inloggegevens, voor enkele honderden dollars aan AI per campagne.",
+    "c": "Een aanvaller stelt een doel en AI-agenten zoeken zelf naar eenvoudige lekken: wachtwoorden in de code, interfaces zonder verplichte login. Aanvallen kost nu heel weinig.",
+    "r": "Kleine sites en apps vallen niet meer buiten de radar: agenten scannen alles. Een kmo met een slecht beveiligd formulier, webshop of API wordt een makkelijk doelwit.",
+    "a": "Controleer met je klanten dat er geen wachtwoord of sleutel in de code van hun site staat, dat elke interface een login vraagt en dat updates van site en plug-ins geïnstalleerd zijn."
+   }
+  },
+  {
+   "id": "n97",
+   "d": "2026-11-05",
+   "s": "business",
+   "imp": 2,
+   "t": "Meta suspend ses nouvelles conditions qui permettaient d'aspirer les sites des annonceurs",
+   "sum": "Meta a mis en pause, sans date de reprise, ses nouvelles conditions commerciales prévues le 20 novembre. Elles auraient permis d'aspirer le contenu des sites liés aux comptes Meta Business ; des tribunaux en Norvège et au Brésil les avaient bloquées.",
+   "c": "Les conditions actuelles restent en vigueur. Meta dit vouloir consulter les acteurs concernés avant de revenir avec une nouvelle version.",
+   "r": "Tes clients qui font de la pub sur Facebook ou Instagram ont un compte Meta Business. Ce dossier montre que leurs contenus web peuvent devenir une matière première pour l'IA d'un géant, souvent via des conditions que personne ne lit.",
+   "a": "Surveille le retour de ces conditions et préviens tes clients annonceurs Meta. Profite-en pour vérifier avec eux le fichier robots.txt de leur site.",
+   "url": "https://www.niemanlab.org/2026/11/meta-pulls-down-controversial-terms-of-service/",
+   "src": "Nieman Lab",
+   "en": {
+    "t": "Meta pauses new terms that would let it scrape advertisers' websites",
+    "sum": "Meta has paused, with no restart date, the new commercial terms planned for November 20. They would have allowed it to scrape websites linked to Meta Business accounts; courts in Norway and Brazil had blocked them.",
+    "c": "The current terms stay in force. Meta says it wants to consult stakeholders before coming back with a new version.",
+    "r": "Your clients who advertise on Facebook or Instagram have a Meta Business account. This case shows their web content can become raw material for a tech giant's AI, often through terms nobody reads.",
+    "a": "Watch for these terms to return and warn your Meta advertiser clients. Use the moment to check their website's robots.txt file with them."
+   },
+   "nl": {
+    "t": "Meta zet nieuwe voorwaarden stop die het scrapen van adverteerderssites toelieten",
+    "sum": "Meta heeft de nieuwe commerciële voorwaarden die op 20 november zouden ingaan voor onbepaalde tijd gepauzeerd. Ze hadden Meta toegelaten de websites van Meta Business-accounts te scrapen; rechtbanken in Noorwegen en Brazilië hadden ze geblokkeerd.",
+    "c": "De huidige voorwaarden blijven gelden. Meta zegt eerst de betrokken partijen te willen raadplegen voor het met een nieuwe versie komt.",
+    "r": "Je klanten die adverteren op Facebook of Instagram hebben een Meta Business-account. Dit dossier toont dat hun webinhoud grondstof kan worden voor de AI van een techreus, vaak via voorwaarden die niemand leest.",
+    "a": "Volg of deze voorwaarden terugkomen en waarschuw je klanten die op Meta adverteren. Controleer meteen samen met hen het robots.txt-bestand van hun website."
+   }
+  },
+  {
+   "id": "n96",
+   "d": "2026-11-05",
+   "s": "business",
+   "imp": 2,
+   "t": "Airbnb lancera son agent IA de voyage au premier semestre 2027",
+   "sum": "Airbnb a annoncé avec ses résultats trimestriels que son agent IA arrivera chez les voyageurs au premier semestre 2027. Il aidera à planifier, comparer logements et hôtels, puis à modifier une réservation ou régler un souci pendant le séjour.",
+   "c": "L'agent ne se limite pas à un chat : il affiche cartes, photos, comparatifs et calendriers selon la demande. Airbnb veut l'étendre ensuite aux services et aux expériences.",
+   "r": "Sur la côte, beaucoup de tes clients vivent du tourisme. Si les voyageurs passent par un agent IA pour choisir, une annonce claire, complète et à jour pèsera encore plus lourd.",
+   "a": "Propose aux loueurs et hébergeurs de la côte un audit de leurs annonces : photos, description précise, équipements et règles bien renseignés.",
+   "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+   "src": "TechCrunch",
+   "en": {
+    "t": "Airbnb to launch its AI travel agent in the first half of 2027",
+    "sum": "Airbnb announced with its quarterly results that its AI agent will reach travelers in the first half of 2027. It will help plan trips, compare homes and hotels, then change a booking or fix a problem during the stay.",
+    "c": "The agent is more than a chat: it shows maps, photos, comparisons and calendars depending on the request. Airbnb plans to extend it to services and experiences later.",
+    "r": "On the coast, many of your clients live from tourism. If travelers use an AI agent to choose, a clear, complete and up-to-date listing will matter even more.",
+    "a": "Offer coastal hosts and accommodation owners a review of their listings: photos, precise description, amenities and house rules filled in."
+   },
+   "nl": {
+    "t": "Airbnb lanceert zijn AI-reisagent in de eerste helft van 2027",
+    "sum": "Airbnb kondigde bij zijn kwartaalcijfers aan dat zijn AI-agent in de eerste helft van 2027 beschikbaar wordt voor reizigers. Hij helpt bij het plannen, het vergelijken van woningen en hotels, en bij het wijzigen van een boeking of een probleem tijdens het verblijf.",
+    "c": "De agent is meer dan een chat: hij toont kaarten, foto's, vergelijkingen en kalenders naargelang de vraag. Airbnb wil hem later uitbreiden naar diensten en belevenissen.",
+    "r": "Aan de kust leven veel van je klanten van toerisme. Als reizigers via een AI-agent kiezen, wordt een duidelijke, volledige en actuele advertentie nog belangrijker.",
+    "a": "Bied verhuurders en logiesuitbaters aan de kust een check van hun advertenties aan: foto's, precieze beschrijving, voorzieningen en huisregels goed ingevuld."
+   }
+  },
+  {
+   "id": "n93",
+   "d": "2026-11-05",
+   "s": "google",
+   "imp": 2,
+   "t": "Google Forms : Gemini analyse tes réponses de questionnaire",
+   "sum": "Dans l'onglet Réponses de Google Forms, Gemini peut maintenant repérer les tendances, croiser les questions, résumer les points clés et proposer des actions. Il fait ses calculs avec du code sur les vraies réponses. Ça arrive dans Workspace Business Standard et Plus, avec un déploiement progressif en novembre.",
+   "c": "Avant, il fallait exporter les réponses dans un tableur et faire les calculs soi-même. Maintenant, l'analyse se fait directement dans le formulaire.",
+   "r": "Une PME qui fait des enquêtes de satisfaction, des inscriptions ou des sondages clients peut obtenir une synthèse en quelques minutes. Vérifie quand même les chiffres importants avant de décider.",
+   "a": "Si un client utilise Google Forms avec Workspace Business Standard ou Plus, teste la fonction sur un ancien questionnaire et compare avec son analyse habituelle.",
+   "url": "http://workspaceupdates.googleblog.com/2026/11/get-actionable-insights-with-gemini-in-Google-Forms.html",
+   "src": "Google Workspace Updates",
+   "en": {
+    "t": "Google Forms: Gemini analyzes your survey responses",
+    "sum": "In the Google Forms Responses tab, Gemini can now spot trends, cross-reference questions, summarize key points and suggest next steps. It runs code on the actual responses to do its calculations. It is coming to Workspace Business Standard and Plus, with a gradual rollout in November.",
+    "c": "Before, you had to export responses to a spreadsheet and do the math yourself. Now the analysis happens right inside the form.",
+    "r": "A small business running satisfaction surveys, sign-ups or customer polls can get a summary in minutes. Still double-check the key numbers before making a decision.",
+    "a": "If a client uses Google Forms with Workspace Business Standard or Plus, test the feature on an old survey and compare it with their usual analysis."
+   },
+   "nl": {
+    "t": "Google Forms: Gemini analyseert je enquêteantwoorden",
+    "sum": "In het tabblad Antwoorden van Google Forms kan Gemini nu trends opsporen, vragen met elkaar vergelijken, de kernpunten samenvatten en vervolgstappen voorstellen. Het rekent met code op de echte antwoorden. De functie komt naar Workspace Business Standard en Plus, met een geleidelijke uitrol in november.",
+    "c": "Vroeger moest je de antwoorden naar een spreadsheet exporteren en zelf rekenen. Nu gebeurt de analyse rechtstreeks in het formulier.",
+    "r": "Een kmo die tevredenheidsenquêtes, inschrijvingen of klantpeilingen doet, krijgt in enkele minuten een samenvatting. Controleer de belangrijke cijfers wel voor je beslist.",
+    "a": "Gebruikt een klant Google Forms met Workspace Business Standard of Plus? Test de functie op een oude enquête en vergelijk met zijn gewone analyse."
+   }
+  },
+  {
+   "id": "n94",
+   "d": "2026-11-05",
+   "s": "openai",
+   "imp": 2,
+   "t": "OpenAI lance GPT-6 Cyber, une IA pour trouver les failles de sécurité",
+   "sum": "OpenAI a sorti GPT-6 Cyber, réservé à des équipes de sécurité approuvées. Selon OpenAI, des chercheurs l'ont utilisé pour trouver 81 failles graves inconnues dans Firefox et pour bâtir des attaques fonctionnelles sur 948 failles de Linux, signalées avec des correctifs proposés.",
+   "c": "Les IA spécialisées en sécurité trouvent maintenant des failles en masse, bien plus vite qu'un humain. OpenAI classe ce modèle au niveau de risque le plus élevé et en limite l'accès.",
+   "r": "Ces outils aident les défenseurs, mais des outils proches finiront chez les pirates. Pour une PME, les correctifs vont arriver plus souvent, et un logiciel pas à jour devient plus dangereux.",
+   "a": "Vérifie avec tes clients que les mises à jour automatiques sont activées sur les PC, le navigateur, la box et le site web.",
+   "url": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
+   "src": "The Register",
+   "en": {
+    "t": "OpenAI launches GPT-6 Cyber, an AI for finding security flaws",
+    "sum": "OpenAI released GPT-6 Cyber, limited to approved security teams. According to OpenAI, researchers used it to find 81 unknown high-severity flaws in Firefox and to build working exploits for 948 Linux flaws, which are being reported with proposed fixes.",
+    "c": "Security-focused AIs now find flaws in bulk, far faster than a human. OpenAI rates this model at its highest risk level and restricts access.",
+    "r": "These tools help defenders, but similar tools will end up with attackers. For a small business, patches will come more often, and outdated software becomes more dangerous.",
+    "a": "Check with your clients that automatic updates are on for their PCs, browser, internet router and website."
+   },
+   "nl": {
+    "t": "OpenAI lanceert GPT-6 Cyber, een AI om beveiligingslekken te vinden",
+    "sum": "OpenAI bracht GPT-6 Cyber uit, alleen voor goedgekeurde beveiligingsteams. Volgens OpenAI vonden onderzoekers er 81 onbekende ernstige lekken in Firefox mee en bouwden ze werkende aanvallen op 948 Linux-lekken, die met voorgestelde oplossingen worden gemeld.",
+    "c": "AI's die gespecialiseerd zijn in beveiliging vinden nu massaal lekken, veel sneller dan een mens. OpenAI plaatst dit model in zijn hoogste risiconiveau en beperkt de toegang.",
+    "r": "Deze tools helpen verdedigers, maar gelijkaardige tools komen ook bij hackers terecht. Voor een kmo komen er vaker updates, en verouderde software wordt gevaarlijker.",
+    "a": "Controleer met je klanten of automatische updates aanstaan op hun pc's, browser, modem en website."
+   }
+  },
+  {
+   "id": "n95",
+   "d": "2026-11-04",
+   "s": "business",
+   "imp": 1,
+   "t": "Uber : seulement 4 courses réservées par un agent IA en une semaine",
+   "sum": "Lors de ses résultats trimestriels, Uber a indiqué que pendant sa semaine la plus chargée d'octobre, seulement 4 courses et environ 500 commandes Uber Eats sont passées par un agent IA, sur quelque 320 millions de trajets et commandes. Son patron parle d'un usage encore très limité.",
+   "c": "Les agents IA qui commandent à ta place existent, mais presque personne ne s'en sert encore. Commander dans l'appli reste plus rapide pour la plupart des gens.",
+   "r": "Pas de panique pour un commerce local : les clients ne passent pas encore leurs commandes via ChatGPT ou Claude. Mieux vaut d'abord soigner sa fiche Google et son site.",
+   "a": "Culture générale : rien à faire.",
+   "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+   "src": "TechCrunch",
+   "en": {
+    "t": "Uber: only 4 rides booked by an AI agent in a week",
+    "sum": "On its quarterly earnings call, Uber said that during its busiest week in October, only 4 rides and about 500 Uber Eats orders came through an AI agent, out of roughly 320 million trips and orders. Its CEO called usage still very limited.",
+    "c": "AI agents that order for you exist, but almost nobody uses them yet. Ordering in the app is still faster for most people.",
+    "r": "No need to panic for a local shop: customers are not yet placing orders through ChatGPT or Claude. Better to polish the Google listing and website first.",
+    "a": "General knowledge: nothing to do."
+   },
+   "nl": {
+    "t": "Uber: slechts 4 ritten geboekt door een AI-agent in een week",
+    "sum": "Bij zijn kwartaalcijfers meldde Uber dat in zijn drukste week van oktober slechts 4 ritten en ongeveer 500 Uber Eats-bestellingen via een AI-agent liepen, op zo'n 320 miljoen ritten en bestellingen. De topman noemt het gebruik nog zeer beperkt.",
+    "c": "AI-agents die voor jou bestellen bestaan, maar bijna niemand gebruikt ze al. Bestellen in de app blijft voor de meeste mensen sneller.",
+    "r": "Geen paniek voor een lokale zaak: klanten bestellen nog niet via ChatGPT of Claude. Werk eerst aan je Google-bedrijfsprofiel en je website.",
+    "a": "Algemene kennis: niets te doen."
+   }
+  },
+  {
+   "id": "n89",
+   "d": "2026-11-04",
+   "s": "openai",
+   "imp": 2,
+   "t": "ChatGPT Images 2.6 crée des GIF animés",
+   "sum": "OpenAI a lancé Images 2.6 dans ChatGPT : tu peux transformer un texte ou une image en GIF animé et garder des images de référence (une personne, un personnage) pour les réutiliser. Deux nouveaux modèles d'image arrivent aussi dans l'API.",
+   "c": "Faire une petite animation ne demande plus de logiciel spécial. Et tu n'as plus besoin de renvoyer la même photo à chaque fois pour garder un personnage identique.",
+   "r": "Un commerce peut créer vite des visuels animés pour les réseaux sociaux ou une vitrine écran. Attention : les photos de personnes réelles restent des données personnelles, il faut leur accord.",
+   "a": "Teste avec un client : un GIF promo à partir de la photo d'un produit, et compare le temps passé avec sa méthode actuelle.",
+   "url": "https://community.openai.com/t/images-upgraded-introducing-chatgpt-images-2-6/1412901",
+   "src": "OpenAI (forum développeurs)",
+   "en": {
+    "t": "ChatGPT Images 2.6 makes animated GIFs",
+    "sum": "OpenAI launched Images 2.6 in ChatGPT: you can turn text or an image into an animated GIF and save reference images (a person, a character) to reuse them. Two new image models are also coming to the API.",
+    "c": "Making a short animation no longer needs special software. And you no longer have to re-upload the same photo to keep a character consistent.",
+    "r": "A shop can quickly create animated visuals for social media or an in-store screen. Careful: photos of real people are still personal data, so you need their consent.",
+    "a": "Try it with a client: a promo GIF from a product photo, and compare the time spent with their current method."
+   },
+   "nl": {
+    "t": "ChatGPT Images 2.6 maakt geanimeerde GIF's",
+    "sum": "OpenAI lanceerde Images 2.6 in ChatGPT: je kunt tekst of een afbeelding omzetten in een geanimeerde GIF en referentiebeelden (een persoon, een personage) bewaren om ze opnieuw te gebruiken. Er komen ook twee nieuwe beeldmodellen naar de API.",
+    "c": "Een korte animatie maken vraagt geen speciale software meer. En je hoeft niet telkens dezelfde foto op te laden om een personage gelijk te houden.",
+    "r": "Een winkel kan snel geanimeerde beelden maken voor sociale media of een scherm in de etalage. Let op: foto's van echte mensen blijven persoonsgegevens, je hebt hun toestemming nodig.",
+    "a": "Test het met een klant: een promo-GIF op basis van een productfoto, en vergelijk de tijd met hun huidige werkwijze."
+   }
+  },
+  {
+   "id": "n92",
+   "d": "2026-11-04",
+   "s": "anthropic",
+   "imp": 1,
+   "t": "Anthropic signe son premier accord de licence avec un média, l'AP",
+   "sum": "Selon Adweek, qui cite deux sources, Anthropic a conclu avec l'agence Associated Press son premier accord de licence avec un éditeur d'actualités, pour afficher dans Claude des résultats électoraux à jour. Les montants et la durée ne sont pas connus.",
+   "c": "Claude commence à payer des médias pour utiliser leurs contenus, comme OpenAI le fait déjà avec plus d'une dizaine d'éditeurs.",
+   "r": "Pour l'instant, c'est surtout des élections américaines. Mais cela montre que les réponses des IA sur l'actualité dépendront de plus en plus d'accords avec des médias précis.",
+   "a": "Culture générale : rien à faire.",
+   "url": "https://www.adweek.com/media/anthropic-licensing-deal-ap-election/",
+   "src": "Adweek",
+   "en": {
+    "t": "Anthropic signs its first media licensing deal, with AP",
+    "sum": "According to Adweek, citing two sources, Anthropic struck its first licensing deal with a news publisher, the Associated Press, to show up-to-date election results in Claude. Amounts and duration are not known.",
+    "c": "Claude is starting to pay media outlets to use their content, as OpenAI already does with more than a dozen publishers.",
+    "r": "For now it is mainly about US elections. But it shows AI answers about the news will increasingly depend on deals with specific media.",
+    "a": "General knowledge: nothing to do."
+   },
+   "nl": {
+    "t": "Anthropic sluit eerste licentiedeal met een medium, AP",
+    "sum": "Volgens Adweek, dat zich op twee bronnen baseert, sloot Anthropic met persbureau Associated Press zijn eerste licentieakkoord met een nieuwsuitgever, om actuele verkiezingsresultaten in Claude te tonen. Bedragen en looptijd zijn niet bekend.",
+    "c": "Claude begint media te betalen om hun inhoud te gebruiken, zoals OpenAI al doet met meer dan tien uitgevers.",
+    "r": "Voorlopig gaat het vooral om de Amerikaanse verkiezingen. Maar het toont dat AI-antwoorden over het nieuws steeds meer zullen afhangen van akkoorden met bepaalde media.",
+    "a": "Algemene kennis: niets te doen."
+   }
+  },
+  {
+   "id": "n90",
+   "d": "2026-11-03",
+   "s": "anthropic",
+   "imp": 2,
+   "t": "Claude connecte tout seul les plugins de l'entreprise",
+   "sum": "Anthropic a lancé en bêta, pour les offres Team et Enterprise, la connexion automatique des plugins : l'admin les configure, et chaque employé est connecté dès sa première utilisation. Une quinzaine de services sont compatibles au départ, dont Notion, HubSpot, Dropbox, Figma et Atlassian.",
+   "c": "Avant, chaque employé devait se connecter et autoriser chaque outil un par un. Maintenant, Claude peut prouver lui-même que la personne fait partie de l'entreprise, même sans fournisseur d'identité comme Okta.",
+   "r": "Pour une PME, c'est un déploiement plus simple et moins de tickets « je n'arrive pas à me connecter ». Mais quand quelqu'un quitte l'équipe, il faut le retirer de Claude ET de chaque service : le retirer d'un seul endroit ne suffit pas.",
+   "a": "Si un client a Claude Team et utilise HubSpot ou Notion, propose-lui de tester la connexion automatique, et ajoute une ligne « retirer l'accès Claude et services » à sa liste de départ d'un employé.",
+   "url": "https://thenewstack.io/claude-plugin-identity-issuer/",
+   "src": "The New Stack",
+   "en": {
+    "t": "Claude now connects company plugins automatically",
+    "sum": "Anthropic launched automatic plugin connection in beta for Team and Enterprise plans: the admin sets them up, and each employee is connected the first time they use one. About fifteen services work at launch, including Notion, HubSpot, Dropbox, Figma and Atlassian.",
+    "c": "Before, each employee had to sign in to and authorize every tool one by one. Now Claude can itself prove the person belongs to the company, even without an identity provider like Okta.",
+    "r": "For a small business, rollout gets simpler, with fewer 'I can't log in' requests. But when someone leaves, you must remove them from Claude AND from each service: removing them in one place is not enough.",
+    "a": "If a client has Claude Team and uses HubSpot or Notion, suggest testing auto-connect, and add a 'remove Claude and service access' line to their employee offboarding checklist."
+   },
+   "nl": {
+    "t": "Claude verbindt bedrijfsplugins nu automatisch",
+    "sum": "Anthropic lanceerde in bèta, voor Team- en Enterprise-abonnementen, het automatisch verbinden van plugins: de beheerder stelt ze in en elke medewerker wordt verbonden bij het eerste gebruik. Bij de start werken een vijftiental diensten, waaronder Notion, HubSpot, Dropbox, Figma en Atlassian.",
+    "c": "Vroeger moest elke medewerker zich bij elke tool apart aanmelden en toestemming geven. Nu kan Claude zelf bewijzen dat de persoon bij het bedrijf hoort, ook zonder identiteitsprovider zoals Okta.",
+    "r": "Voor een kmo wordt de uitrol eenvoudiger, met minder 'ik kan niet inloggen'-vragen. Maar als iemand vertrekt, moet je die persoon uit Claude ÉN uit elke dienst verwijderen: op één plek verwijderen volstaat niet.",
+    "a": "Heeft een klant Claude Team en gebruikt die HubSpot of Notion? Stel voor om automatisch verbinden te testen, en voeg 'toegang tot Claude en diensten intrekken' toe aan de checklist voor vertrekkende medewerkers."
+   }
+  },
+  {
+   "id": "n91",
+   "d": "2026-11-03",
+   "s": "business",
+   "imp": 2,
+   "t": "« Prompt adware » : un pack pour débrider Codex glisse de la pub dans ses réponses",
+   "sum": "Check Point Research a analysé un pack chinois qui contourne les règles de sécurité de Codex. Il modifie la configuration de l'agent pour qu'il affiche une publicité pour un service tiers quand on tape certains mots, avec des instructions chiffrées difficiles à vérifier.",
+   "c": "On peut détourner un agent IA sans virus, juste avec des instructions écrites en langage normal cachées dans ses fichiers de configuration. Check Point appelle ça du « prompt adware ».",
+   "r": "Les packs de prompts, « skills » ou extensions trouvés en ligne peuvent changer le comportement de l'agent d'un client sans qu'il le voie. Plus grave : passer par une passerelle IA inconnue peut ouvrir la porte à une attaque.",
+   "a": "Chez tes clients qui utilisent Codex ou Claude Code, interdis les packs de « jailbreak » et vérifie de temps en temps les fichiers d'instructions globaux de l'agent pour repérer du texte inattendu.",
+   "url": "https://research.checkpoint.com/2026/free-the-model-sell-the-gateway-prompt-adware-hidden-in-jailbreak-bundles/",
+   "src": "Check Point Research",
+   "en": {
+    "t": "'Prompt adware': a Codex jailbreak bundle slips ads into replies",
+    "sum": "Check Point Research analyzed a Chinese bundle that bypasses Codex safety rules. It changes the agent's configuration so it shows an ad for a third-party service when certain words are typed, using encrypted instructions that are hard to inspect.",
+    "c": "An AI agent can be hijacked without malware, just with plain-language instructions hidden in its configuration files. Check Point calls this 'prompt adware'.",
+    "r": "Prompt packs, skills or add-ons found online can change a client's agent behavior without them noticing. Worse: routing through an unknown AI gateway can open the door to an attack.",
+    "a": "For clients using Codex or Claude Code, ban jailbreak bundles and check the agent's global instruction files now and then for unexpected text."
+   },
+   "nl": {
+    "t": "'Prompt adware': een jailbreakpakket voor Codex stopt reclame in antwoorden",
+    "sum": "Check Point Research onderzocht een Chinees pakket dat de veiligheidsregels van Codex omzeilt. Het past de configuratie van de agent aan zodat die reclame toont voor een externe dienst wanneer je bepaalde woorden typt, met versleutelde instructies die moeilijk te controleren zijn.",
+    "c": "Je kunt een AI-agent kapen zonder virus, gewoon met instructies in gewone taal die in de configuratiebestanden verstopt zitten. Check Point noemt dat 'prompt adware'.",
+    "r": "Promptpakketten, skills of extensies van het internet kunnen het gedrag van de agent van een klant veranderen zonder dat die het merkt. Erger nog: via een onbekende AI-gateway werken kan de deur openzetten voor een aanval.",
+    "a": "Verbied bij klanten die Codex of Claude Code gebruiken jailbreakpakketten, en controleer af en toe de globale instructiebestanden van de agent op onverwachte tekst."
+   }
+  },
+  {
+   "id": "n85",
+   "d": "2026-11-03",
+   "s": "business",
+   "imp": 2,
+   "t": "Revolut divise par dix ses coûts d'IA pour coder avec un modèle hébergé chez lui",
+   "sum": "La fintech Revolut a remplacé en grande partie les services payants comme Claude Code par un modèle ouvert (GLM de Z.ai) qu'elle fait tourner sur ses propres serveurs. Ses coûts d'IA pour le code ont baissé d'environ 90 % en moins d'un an, pour environ 2 000 ingénieurs.",
+   "c": "Un modèle ouvert bien réglé peut couvrir une grosse partie du travail courant pour beaucoup moins cher. Revolut garde quand même d'autres modèles pour les images et certaines tâches.",
+   "r": "Pour une PME, héberger un tel modèle demande un matériel hors de portée. Mais l'idée compte : le plus gros gain chez Revolut venait du débogage et des tickets, pas de l'écriture de code, et les budgets explosaient sans plafond.",
+   "a": "Chez tes clients qui paient des abonnements IA par personne, fixe un plafond de dépenses et note pour quelles tâches l'IA sert vraiment.",
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+   "src": "The Register",
+   "en": {
+    "t": "Revolut cuts its AI coding costs tenfold with a self-hosted model",
+    "sum": "Fintech Revolut has largely replaced paid services such as Claude Code with an open model (Z.ai's GLM) running on its own servers. Its AI coding costs fell by about 90% in under a year, for roughly 2,000 engineers.",
+    "c": "A well-tuned open model can handle much of the everyday work for far less money. Revolut still keeps other models for images and some tasks.",
+    "r": "For an SME, hosting such a model needs hardware out of reach. But the lesson matters: Revolut's biggest gains came from debugging and tickets, not writing code, and budgets ran wild without a cap.",
+    "a": "For clients paying per-seat AI subscriptions, set a spending cap and note which tasks the AI really helps with."
+   },
+   "nl": {
+    "t": "Revolut verlaagt zijn AI-kosten voor programmeren tienvoudig met een eigen model",
+    "sum": "Fintech Revolut heeft betaalde diensten zoals Claude Code grotendeels vervangen door een open model (GLM van Z.ai) op eigen servers. De AI-kosten voor code daalden in minder dan een jaar met ongeveer 90%, voor zo'n 2.000 ingenieurs.",
+    "c": "Een goed afgesteld open model kan veel dagelijks werk aan voor veel minder geld. Revolut houdt wel andere modellen voor beelden en sommige taken.",
+    "r": "Voor een kmo is zo'n model hosten te duur qua hardware. Maar de les telt: de grootste winst bij Revolut kwam uit debuggen en tickets, niet uit code schrijven, en zonder plafond liepen de budgetten uit de hand.",
+    "a": "Stel bij klanten met AI-abonnementen per gebruiker een uitgavenplafond in en noteer voor welke taken AI echt helpt."
+   }
+  },
+  {
+   "id": "n86",
+   "d": "2026-11-03",
+   "s": "openai",
+   "imp": 2,
+   "t": "ChatGPT revendique 1,2 milliard d'utilisateurs par semaine",
+   "sum": "Selon un responsable produit d'OpenAI interrogé par Big Technology, ChatGPT est passé de 1 à 1,2 milliard d'utilisateurs hebdomadaires en deux mois. OpenAI estime que ses requêtes de type recherche représentent environ un cinquième du volume de Google, un chiffre qu'elle calcule elle-même.",
+   "c": "De plus en plus de gens cherchent une info ou un commerçant en posant la question à ChatGPT plutôt que sur Google.",
+   "r": "Les clients de tes PME ne passent plus tous par Google. Une PME absente ou mal décrite dans les réponses de ChatGPT peut perdre des contacts sans le savoir.",
+   "a": "Demande à ChatGPT de recommander un commerce du secteur de ton client sur la côte, et regarde s'il apparaît. Si non, revois avec lui sa fiche Google, son site et ses avis.",
+   "url": "https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20",
+   "src": "Big Technology",
+   "en": {
+    "t": "ChatGPT claims 1.2 billion weekly users",
+    "sum": "According to an OpenAI product lead interviewed by Big Technology, ChatGPT grew from 1 to 1.2 billion weekly users in two months. OpenAI estimates its search-like queries equal about one fifth of Google's volume, a figure it calculates itself.",
+    "c": "More and more people look for information or a local business by asking ChatGPT instead of Google.",
+    "r": "Your SME clients' customers don't all go through Google anymore. A business that is missing or poorly described in ChatGPT's answers may lose leads without knowing it.",
+    "a": "Ask ChatGPT to recommend a business in your client's sector on the coast and see if it shows up. If not, review their Google listing, website and reviews with them."
+   },
+   "nl": {
+    "t": "ChatGPT claimt 1,2 miljard gebruikers per week",
+    "sum": "Volgens een productverantwoordelijke van OpenAI, geïnterviewd door Big Technology, groeide ChatGPT in twee maanden van 1 naar 1,2 miljard wekelijkse gebruikers. OpenAI schat dat zijn zoekachtige vragen ongeveer een vijfde van het volume van Google halen, een cijfer dat het zelf berekent.",
+    "c": "Steeds meer mensen zoeken info of een lokale zaak door het aan ChatGPT te vragen in plaats van aan Google.",
+    "r": "De klanten van jouw kmo's gaan niet meer allemaal via Google. Een zaak die ontbreekt of slecht beschreven staat in de antwoorden van ChatGPT, kan ongemerkt klanten mislopen.",
+    "a": "Vraag ChatGPT een zaak uit de sector van je klant aan de kust aan te raden en kijk of die verschijnt. Zo niet, bekijk samen zijn Google-profiel, website en reviews."
+   }
+  },
+  {
+   "id": "n87",
+   "d": "2026-11-03",
+   "s": "business",
+   "imp": 1,
+   "t": "Apple ouvre Siri AI aux applications, mais pas dans l'UE sur iPhone",
+   "sum": "Apple permet aux développeurs de brancher les contenus et actions de leurs applis sur Siri AI, en préversion dans les bêtas iOS 27.3. Les applis arriveront chez les utilisateurs dans quelques mois, mais la fonction n'est pas disponible dans l'UE sur iPhone, iPad et Apple Watch.",
+   "c": "Siri pourra bientôt réserver une table ou suivre une livraison directement dans une appli, en langage naturel.",
+   "r": "Pour l'instant, tes clients belges ne verront pas cette fonction sur leur iPhone. Inutile de leur promettre un Siri qui gère leurs réservations.",
+   "a": "Culture générale : rien à faire.",
+   "url": "https://developer.apple.com/news/?id=gdk2umrf",
+   "src": "Apple Developer",
+   "en": {
+    "t": "Apple opens Siri AI to apps, but not in the EU on iPhone",
+    "sum": "Apple now lets developers connect their apps' content and actions to Siri AI, as a preview in the iOS 27.3 betas. Apps will reach users in a few months, but the feature isn't available in the EU on iPhone, iPad and Apple Watch.",
+    "c": "Siri will soon be able to book a table or track a delivery directly inside an app, in plain language.",
+    "r": "For now, your Belgian clients won't see this on their iPhones. No point promising them a Siri that handles their bookings.",
+    "a": "General knowledge: nothing to do."
+   },
+   "nl": {
+    "t": "Apple opent Siri AI voor apps, maar niet in de EU op iPhone",
+    "sum": "Apple laat ontwikkelaars nu de inhoud en acties van hun apps koppelen aan Siri AI, als preview in de bèta's van iOS 27.3. Apps komen over enkele maanden bij gebruikers, maar de functie is niet beschikbaar in de EU op iPhone, iPad en Apple Watch.",
+    "c": "Siri kan binnenkort een tafel reserveren of een levering volgen rechtstreeks in een app, in gewone taal.",
+    "r": "Voorlopig zien je Belgische klanten dit niet op hun iPhone. Beloof hen dus geen Siri die hun reservaties regelt.",
+    "a": "Algemene kennis: niets te doen."
+   }
+  }
+ ]
+}
