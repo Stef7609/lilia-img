@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "items": [
+  {
+   "id": "n20261114a",
+   "d": "2026-11-12",
+   "s": "microsoft",
+   "imp": 2,
+   "t": "Panne mondiale chez Microsoft : Outlook, Teams et Copilot coupés près d'une journée",
+   "sum": "Le 12 novembre, Outlook, Microsoft 365 et Copilot ont été fortement perturbés dans au moins 74 pays, Europe comprise. Selon Microsoft, la cause est un problème technique réseau, pas une cyberattaque.",
+   "c": "Comprendre : quand Microsoft tombe, la messagerie, les fichiers partagés et l'assistant IA tombent en même temps. Des e-mails peuvent arriver en retard même après le retour à la normale.",
+   "r": "Réfléchir : si toute ton entreprise dépend d'un seul fournisseur, une panne bloque tout le monde. Plus tu confies de tâches à Copilot, plus ce risque compte.",
+   "a": "Agir : note un plan B simple (numéros de téléphone clés, adresse e-mail de secours, fichiers importants disponibles hors ligne) et vérifie les e-mails reçus en retard le 12 et le 13 novembre.",
+   "url": "https://www.techradar.com/news/live/outlook-outage-nov-2026",
+   "src": "TechRadar",
+   "en": {
+    "t": "Global Microsoft outage: Outlook, Teams and Copilot down for almost a day",
+    "sum": "On 12 November, Outlook, Microsoft 365 and Copilot were heavily disrupted in at least 74 countries, including Europe. According to Microsoft, the cause was a technical network issue, not a cyberattack.",
+    "c": "Understand: when Microsoft goes down, email, shared files and the AI assistant all stop at once. Some emails may arrive late even after services recover.",
+    "r": "Think: if your whole business relies on one provider, a single outage stops everyone. The more tasks you hand to Copilot, the more this risk matters.",
+    "a": "Act: write down a simple plan B (key phone numbers, a backup email address, important files available offline) and check for delayed emails from 12 and 13 November."
+   },
+   "nl": {
+    "t": "Wereldwijde storing bij Microsoft: Outlook, Teams en Copilot bijna een dag plat",
+    "sum": "Op 12 november waren Outlook, Microsoft 365 en Copilot zwaar verstoord in minstens 74 landen, ook in Europa. Volgens Microsoft ging het om een technisch netwerkprobleem, niet om een cyberaanval.",
+    "c": "Begrijpen: als Microsoft uitvalt, vallen mail, gedeelde bestanden en de AI-assistent tegelijk weg. Sommige mails kunnen ook na het herstel nog later aankomen.",
+    "r": "Nadenken: als je hele kmo op één leverancier steunt, legt één storing iedereen stil. Hoe meer taken je aan Copilot geeft, hoe groter dat risico.",
+    "a": "Doen: schrijf een eenvoudig plan B op (belangrijke telefoonnummers, een reserve-mailadres, belangrijke bestanden offline beschikbaar) en controleer of er mails van 12 en 13 november te laat zijn binnengekomen."
+   }
+  },
+  {
+   "id": "n20261114b",
+   "d": "2026-11-12",
+   "s": "anthropic",
+   "imp": 2,
+   "t": "Claude for Manufacturing : 17 compétences IA pour les ateliers et les usines",
+   "sum": "Anthropic lance un plugin pour l'industrie, réservé aux forfaits Claude Team et Enterprise. Il prépare des devis, des rapports qualité et des demandes aux fournisseurs à partir des données de l'entreprise.",
+   "c": "Comprendre : le plugin se branche sur Microsoft 365, Oracle NetSuite, Infor et Autodesk Fusion. Pour les autres logiciels, il suffit d'exporter les données vers Microsoft 365. Une personne valide toujours le résultat avant envoi.",
+   "r": "Réfléchir : une PME industrielle peut gagner du temps sur les devis et les rapports de non-conformité. Mais il faut un forfait d'équipe payant et des données propres pour que ça marche bien.",
+   "a": "Agir : si tu travailles dans l'industrie, choisis une tâche répétitive (par exemple les devis) et teste le plugin sur quelques dossiers passés avant de l'utiliser pour de vrais clients.",
+   "url": "https://claude.com/resources/articles/claude-for-manufacturing",
+   "src": "Claude (Anthropic)",
+   "en": {
+    "t": "Claude for Manufacturing: 17 AI skills for workshops and factories",
+    "sum": "Anthropic is launching a plugin for manufacturing, available on Claude Team and Enterprise plans only. It drafts quotes, quality reports and supplier requests from the company's own records.",
+    "c": "Understand: the plugin connects to Microsoft 365, Oracle NetSuite, Infor and Autodesk Fusion. For other software, you can export data to Microsoft 365. A person always approves the output before it goes out.",
+    "r": "Think: an industrial SME can save time on quotes and non-conformity reports. But it needs a paid team plan and clean data to work well.",
+    "a": "Act: if you work in manufacturing, pick one repetitive task (quotes, for example) and test the plugin on a few past files before using it with real customers."
+   },
+   "nl": {
+    "t": "Claude for Manufacturing: 17 AI-vaardigheden voor werkplaatsen en fabrieken",
+    "sum": "Anthropic lanceert een plug-in voor de maakindustrie, alleen voor Claude Team en Enterprise. Hij maakt offertes, kwaliteitsrapporten en aanvragen aan leveranciers op basis van de eigen bedrijfsgegevens.",
+    "c": "Begrijpen: de plug-in koppelt met Microsoft 365, Oracle NetSuite, Infor en Autodesk Fusion. Voor andere software kun je gegevens naar Microsoft 365 exporteren. Een mens keurt het resultaat altijd goed voor het vertrekt.",
+    "r": "Nadenken: een industriële kmo kan tijd winnen op offertes en non-conformiteitsrapporten. Maar je hebt een betaald teamabonnement en nette gegevens nodig.",
+    "a": "Doen: werk je in de industrie? Kies één repetitieve taak (bijvoorbeeld offertes) en test de plug-in eerst op enkele oude dossiers voor je hem bij echte klanten gebruikt."
+   }
+  },
   {
    "id": "n114",
    "d": "2026-11-12",
