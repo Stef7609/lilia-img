@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "items": [
+  {
+   "id": "n20261115a",
+   "d": "2026-11-13",
+   "s": "google",
+   "imp": 2,
+   "t": "Failles de sécurité : Google les publiera plus vite, même sans correctif",
+   "sum": "L'équipe Project Zero de Google publiera les détails d'une faille 90 jours après l'avoir signalée, qu'elle soit corrigée ou non. Le délai passera à 60 jours en février 2027, puis à 30 jours en janvier 2028.",
+   "c": "Comprendre : avant, Google laissait encore 30 jours aux gens pour installer le correctif. C'est fini. Selon Google, l'IA permet aux pirates d'exploiter une faille presque dès qu'un correctif sort.",
+   "r": "Réfléchir : le temps entre la sortie d'un correctif et la première attaque devient très court. Une PME qui attend des semaines pour faire ses mises à jour prend un vrai risque.",
+   "a": "Agir : active les mises à jour automatiques sur tes PC, téléphones, navigateurs et routeur, et fixe un moment par semaine pour vérifier celles qui restent.",
+   "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+   "src": "Google Project Zero",
+   "en": {
+    "t": "Security flaws: Google will publish them faster, even without a fix",
+    "sum": "Google's Project Zero team will publish flaw details 90 days after reporting them, fixed or not. The window drops to 60 days in February 2027, then 30 days in January 2028.",
+    "c": "Understand: Google used to give people 30 extra days to install the fix. That is gone. According to Google, AI lets attackers exploit a flaw almost as soon as a patch is out.",
+    "r": "Reflect: the time between a patch and the first attack is getting very short. A small business that waits weeks to update is taking a real risk.",
+    "a": "Act: turn on automatic updates on your PCs, phones, browsers and router, and set a weekly slot to check the ones left."
+   },
+   "nl": {
+    "t": "Beveiligingslekken: Google maakt ze sneller bekend, ook zonder oplossing",
+    "sum": "Het Project Zero-team van Google publiceert de details van een lek 90 dagen na de melding, of het nu opgelost is of niet. Die termijn daalt naar 60 dagen in februari 2027 en naar 30 dagen in januari 2028.",
+    "c": "Begrijpen: vroeger gaf Google nog 30 dagen extra om de update te installeren. Dat valt weg. Volgens Google laat AI hackers een lek bijna meteen misbruiken zodra er een patch is.",
+    "r": "Nadenken: de tijd tussen een patch en de eerste aanval wordt heel kort. Een kmo die weken wacht met updaten, neemt een echt risico.",
+    "a": "Doen: zet automatische updates aan op je pc's, smartphones, browsers en router, en plan elke week een moment om de rest na te kijken."
+   }
+  },
+  {
+   "id": "n20261115b",
+   "d": "2026-11-13",
+   "s": "openai",
+   "imp": 1,
+   "t": "ChatGPT Wallet : les agents de ChatGPT peuvent payer tes achats (États-Unis)",
+   "sum": "Selon OpenAI, ChatGPT Wallet permet à ses agents « dots » d'acheter en ligne pour toi. Chaque achat doit être validé par Face ID ou empreinte, et le vendeur reçoit un numéro de carte de remplacement, pas ta vraie carte.",
+   "c": "Comprendre : c'est réservé pour l'instant aux abonnés ChatGPT Pro aux États-Unis, avec une carte américaine. Visa, Mastercard et American Express sont partenaires. Aucune date n'est donnée pour l'Europe.",
+   "r": "Réfléchir : les achats faits par des agents IA arrivent. Pour une boutique en ligne, ça veut dire de nouveaux clients « robots », mais certains sites risquent de les bloquer sans le vouloir.",
+   "a": "Culture générale : rien à faire pour l'instant en Belgique. Si tu as un e-shop, demande à ton prestataire s'il prévoit d'accepter les achats par agents IA.",
+   "url": "https://ppc.land/openai-hands-its-ai-agents-a-wallet-without-the-real-card-number-in-it/",
+   "src": "PPC Land",
+   "en": {
+    "t": "ChatGPT Wallet: ChatGPT agents can pay for your purchases (US)",
+    "sum": "According to OpenAI, ChatGPT Wallet lets its \"dots\" agents shop online for you. Each purchase must be approved with Face ID or a fingerprint, and the merchant gets a substitute card number, not your real card.",
+    "c": "Understand: for now it is limited to ChatGPT Pro subscribers in the US with a US card. Visa, Mastercard and American Express are partners. No date has been given for Europe.",
+    "r": "Reflect: purchases made by AI agents are coming. For an online shop, that means new \"robot\" customers, but some sites may block them by accident.",
+    "a": "General knowledge: nothing to do yet in Belgium. If you run an online shop, ask your provider whether they plan to accept AI agent purchases."
+   },
+   "nl": {
+    "t": "ChatGPT Wallet: agents van ChatGPT kunnen je aankopen betalen (VS)",
+    "sum": "Volgens OpenAI laat ChatGPT Wallet zijn \"dots\"-agents online aankopen doen voor jou. Elke aankoop moet je goedkeuren met Face ID of vingerafdruk, en de verkoper krijgt een vervangend kaartnummer, niet je echte kaart.",
+    "c": "Begrijpen: voorlopig enkel voor ChatGPT Pro-abonnees in de VS met een Amerikaanse kaart. Visa, Mastercard en American Express zijn partners. Er is nog geen datum voor Europa.",
+    "r": "Nadenken: aankopen door AI-agents komen eraan. Voor een webshop betekent dat nieuwe \"robot\"-klanten, maar sommige sites blokkeren ze misschien per ongeluk.",
+    "a": "Algemene kennis: voorlopig niets te doen in België. Heb je een webshop, vraag dan aan je leverancier of die aankopen via AI-agents zal aanvaarden."
+   }
+  },
   {
    "id": "n20261114a",
    "d": "2026-11-12",
