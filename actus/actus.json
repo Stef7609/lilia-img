@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "items": [
   {
    "id": "n20261115a",
@@ -53,6 +53,33 @@
     "c": "Begrijpen: voorlopig enkel voor ChatGPT Pro-abonnees in de VS met een Amerikaanse kaart. Visa, Mastercard en American Express zijn partners. Er is nog geen datum voor Europa.",
     "r": "Nadenken: aankopen door AI-agents komen eraan. Voor een webshop betekent dat nieuwe \"robot\"-klanten, maar sommige sites blokkeren ze misschien per ongeluk.",
     "a": "Algemene kennis: voorlopig niets te doen in België. Heb je een webshop, vraag dan aan je leverancier of die aankopen via AI-agents zal aanvaarden."
+   }
+  },
+  {
+   "id": "n20261116a",
+   "d": "2026-11-12",
+   "s": "business",
+   "imp": 3,
+   "t": "Faux sites ChatGPT, Claude ou Copilot : une faute de frappe peut installer un virus",
+   "sum": "La société de sécurité Island a repéré 186 faux domaines qui imitent 27 outils d'IA (Claude, ChatGPT, Gemini, Copilot, Mistral…). Une simple faute de frappe dans l'adresse mène à de fausses vérifications, des logiciels espions ou des extensions qui détournent tes recherches.",
+   "c": "Comprendre : des pirates achètent des adresses presque identiques aux vraies (par exemple « cluade » au lieu de « claude »). Le faux site te demande de copier-coller une commande « de vérification » : c'est elle qui installe le logiciel malveillant.",
+   "r": "Réfléchir : dans une PME, chacun tape l'adresse de son outil d'IA à la main. Une seule erreur suffit pour infecter un PC, et les extensions pirates peuvent voir les noms de clients ou de projets tapés dans la barre de recherche.",
+   "a": "Agir : crée des favoris officiels pour les outils d'IA de l'équipe, et rappelle à tous qu'aucun vrai site ne demande de coller une commande dans Windows ou le Terminal. Vérifie aussi les extensions installées dans Chrome.",
+   "url": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+   "src": "The Hacker News",
+   "en": {
+    "t": "Fake ChatGPT, Claude or Copilot sites: one typo can install malware",
+    "sum": "Security firm Island found 186 fake domains copying 27 AI tools (Claude, ChatGPT, Gemini, Copilot, Mistral…). A simple typo in the address leads to fake checks, spyware or extensions that hijack your searches.",
+    "c": "Understand: attackers buy addresses that look almost like the real ones (for example \"cluade\" instead of \"claude\"). The fake site asks you to copy and paste a \"verification\" command: that command installs the malware.",
+    "r": "Think: in a small business, everyone types their AI tool's address by hand. One mistake is enough to infect a PC, and rogue extensions can see client or project names typed into the search bar.",
+    "a": "Act: set up official bookmarks for your team's AI tools, and remind everyone that no real website asks you to paste a command into Windows or Terminal. Also check the extensions installed in Chrome."
+   },
+   "nl": {
+    "t": "Valse sites van ChatGPT, Claude of Copilot: één tikfout kan een virus installeren",
+    "sum": "Beveiligingsbedrijf Island vond 186 valse domeinen die 27 AI-tools nabootsen (Claude, ChatGPT, Gemini, Copilot, Mistral…). Een simpele tikfout in het adres leidt naar valse controles, spyware of extensies die je zoekopdrachten kapen.",
+    "c": "Begrijpen: hackers kopen adressen die bijna identiek zijn aan de echte (bijvoorbeeld \"cluade\" in plaats van \"claude\"). De valse site vraagt je een \"verificatie\"-commando te kopiëren en plakken: dat commando installeert de malware.",
+    "r": "Nadenken: in een kmo typt iedereen het adres van zijn AI-tool met de hand. Eén fout volstaat om een pc te besmetten, en valse extensies kunnen namen van klanten of projecten zien die je in de zoekbalk typt.",
+    "a": "Doen: maak officiële bladwijzers voor de AI-tools van je team en herinner iedereen eraan dat geen echte website vraagt om een commando in Windows of Terminal te plakken. Controleer ook de geïnstalleerde extensies in Chrome."
    }
   },
   {
@@ -242,6 +269,33 @@
     "c": "Het geld is sterk geconcentreerd: 1 % van de bedrijven zorgt voor 80 % van de inkomsten van OpenAI en Anthropic, vooral in tech en financiën. Een doorsnee bedrijf geeft ongeveer 16 dollar per medewerker per maand uit.",
     "r": "De meeste bedrijven houden het bij kleine AI-budgetten. Dat stelt je kmo-klanten gerust: je hebt geen grote investering nodig om te starten, maar je moet een concreet voordeel tonen om verder te gaan.",
     "a": "Algemene kennis: niets te doen."
+   }
+  },
+  {
+   "id": "n20261116b",
+   "d": "2026-11-10",
+   "s": "google",
+   "imp": 2,
+   "t": "Gmail : les résumés et l'aide à la rédaction Gemini arrivent pour tous les comptes Workspace",
+   "sum": "Selon Google, deux fonctions Gemini de Gmail s'ouvrent à tous les utilisateurs Workspace de 18 ans et plus : un résumé en haut des longues conversations et « Help me write » pour rédiger un e-mail. Le déploiement a commencé le 10 novembre et peut prendre jusqu'à 15 jours.",
+   "c": "Comprendre : ces outils étaient réservés à certaines formules Workspace. Ils sont maintenant activés par défaut pour tous ; chaque utilisateur peut les couper, et l'administrateur peut les bloquer pour toute l'entreprise.",
+   "r": "Réfléchir : ton équipe va voir apparaître l'IA dans Gmail sans rien demander. C'est pratique pour gagner du temps, mais il faut décider si c'est d'accord avec ta politique sur les données clients.",
+   "a": "Agir : si tu gères Google Workspace, ouvre la console d'administration et décide si tu laisses Gemini actif dans Gmail. Puis préviens l'équipe de ce qui change et des règles à suivre.",
+   "url": "http://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html",
+   "src": "Google Workspace Updates",
+   "en": {
+    "t": "Gmail: Gemini summaries and writing help come to all Workspace accounts",
+    "sum": "According to Google, two Gemini features in Gmail are opening to all Workspace users aged 18 and over: a summary at the top of long threads and \"Help me write\" to draft an email. Rollout started on 10 November and can take up to 15 days.",
+    "c": "Understand: these tools used to be limited to certain Workspace plans. They are now on by default for everyone; each user can turn them off, and the admin can block them for the whole company.",
+    "r": "Think: your team will see AI appear in Gmail without asking for it. It saves time, but you need to decide whether it fits your policy on client data.",
+    "a": "Act: if you manage Google Workspace, open the admin console and decide whether to keep Gemini on in Gmail. Then tell your team what is changing and which rules to follow."
+   },
+   "nl": {
+    "t": "Gmail: samenvattingen en schrijfhulp van Gemini voor alle Workspace-accounts",
+    "sum": "Volgens Google komen twee Gemini-functies in Gmail beschikbaar voor alle Workspace-gebruikers van 18 jaar en ouder: een samenvatting bovenaan lange gesprekken en \"Help me write\" om een e-mail op te stellen. De uitrol startte op 10 november en kan tot 15 dagen duren.",
+    "c": "Begrijpen: deze tools waren voorbehouden aan bepaalde Workspace-abonnementen. Ze staan nu standaard aan voor iedereen; elke gebruiker kan ze uitzetten en de beheerder kan ze voor het hele bedrijf blokkeren.",
+    "r": "Nadenken: je team ziet AI verschijnen in Gmail zonder erom te vragen. Handig om tijd te winnen, maar je moet beslissen of het past bij je beleid rond klantgegevens.",
+    "a": "Doen: beheer je Google Workspace, open dan de beheerconsole en beslis of Gemini actief blijft in Gmail. Laat je team daarna weten wat er verandert en welke regels gelden."
    }
   },
   {
@@ -1025,60 +1079,6 @@
     "c": "Een goed afgesteld open model kan veel dagelijks werk aan voor veel minder geld. Revolut houdt wel andere modellen voor beelden en sommige taken.",
     "r": "Voor een kmo is zo'n model hosten te duur qua hardware. Maar de les telt: de grootste winst bij Revolut kwam uit debuggen en tickets, niet uit code schrijven, en zonder plafond liepen de budgetten uit de hand.",
     "a": "Stel bij klanten met AI-abonnementen per gebruiker een uitgavenplafond in en noteer voor welke taken AI echt helpt."
-   }
-  },
-  {
-   "id": "n86",
-   "d": "2026-11-03",
-   "s": "openai",
-   "imp": 2,
-   "t": "ChatGPT revendique 1,2 milliard d'utilisateurs par semaine",
-   "sum": "Selon un responsable produit d'OpenAI interrogé par Big Technology, ChatGPT est passé de 1 à 1,2 milliard d'utilisateurs hebdomadaires en deux mois. OpenAI estime que ses requêtes de type recherche représentent environ un cinquième du volume de Google, un chiffre qu'elle calcule elle-même.",
-   "c": "De plus en plus de gens cherchent une info ou un commerçant en posant la question à ChatGPT plutôt que sur Google.",
-   "r": "Les clients de tes PME ne passent plus tous par Google. Une PME absente ou mal décrite dans les réponses de ChatGPT peut perdre des contacts sans le savoir.",
-   "a": "Demande à ChatGPT de recommander un commerce du secteur de ton client sur la côte, et regarde s'il apparaît. Si non, revois avec lui sa fiche Google, son site et ses avis.",
-   "url": "https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20",
-   "src": "Big Technology",
-   "en": {
-    "t": "ChatGPT claims 1.2 billion weekly users",
-    "sum": "According to an OpenAI product lead interviewed by Big Technology, ChatGPT grew from 1 to 1.2 billion weekly users in two months. OpenAI estimates its search-like queries equal about one fifth of Google's volume, a figure it calculates itself.",
-    "c": "More and more people look for information or a local business by asking ChatGPT instead of Google.",
-    "r": "Your SME clients' customers don't all go through Google anymore. A business that is missing or poorly described in ChatGPT's answers may lose leads without knowing it.",
-    "a": "Ask ChatGPT to recommend a business in your client's sector on the coast and see if it shows up. If not, review their Google listing, website and reviews with them."
-   },
-   "nl": {
-    "t": "ChatGPT claimt 1,2 miljard gebruikers per week",
-    "sum": "Volgens een productverantwoordelijke van OpenAI, geïnterviewd door Big Technology, groeide ChatGPT in twee maanden van 1 naar 1,2 miljard wekelijkse gebruikers. OpenAI schat dat zijn zoekachtige vragen ongeveer een vijfde van het volume van Google halen, een cijfer dat het zelf berekent.",
-    "c": "Steeds meer mensen zoeken info of een lokale zaak door het aan ChatGPT te vragen in plaats van aan Google.",
-    "r": "De klanten van jouw kmo's gaan niet meer allemaal via Google. Een zaak die ontbreekt of slecht beschreven staat in de antwoorden van ChatGPT, kan ongemerkt klanten mislopen.",
-    "a": "Vraag ChatGPT een zaak uit de sector van je klant aan de kust aan te raden en kijk of die verschijnt. Zo niet, bekijk samen zijn Google-profiel, website en reviews."
-   }
-  },
-  {
-   "id": "n87",
-   "d": "2026-11-03",
-   "s": "business",
-   "imp": 1,
-   "t": "Apple ouvre Siri AI aux applications, mais pas dans l'UE sur iPhone",
-   "sum": "Apple permet aux développeurs de brancher les contenus et actions de leurs applis sur Siri AI, en préversion dans les bêtas iOS 27.3. Les applis arriveront chez les utilisateurs dans quelques mois, mais la fonction n'est pas disponible dans l'UE sur iPhone, iPad et Apple Watch.",
-   "c": "Siri pourra bientôt réserver une table ou suivre une livraison directement dans une appli, en langage naturel.",
-   "r": "Pour l'instant, tes clients belges ne verront pas cette fonction sur leur iPhone. Inutile de leur promettre un Siri qui gère leurs réservations.",
-   "a": "Culture générale : rien à faire.",
-   "url": "https://developer.apple.com/news/?id=gdk2umrf",
-   "src": "Apple Developer",
-   "en": {
-    "t": "Apple opens Siri AI to apps, but not in the EU on iPhone",
-    "sum": "Apple now lets developers connect their apps' content and actions to Siri AI, as a preview in the iOS 27.3 betas. Apps will reach users in a few months, but the feature isn't available in the EU on iPhone, iPad and Apple Watch.",
-    "c": "Siri will soon be able to book a table or track a delivery directly inside an app, in plain language.",
-    "r": "For now, your Belgian clients won't see this on their iPhones. No point promising them a Siri that handles their bookings.",
-    "a": "General knowledge: nothing to do."
-   },
-   "nl": {
-    "t": "Apple opent Siri AI voor apps, maar niet in de EU op iPhone",
-    "sum": "Apple laat ontwikkelaars nu de inhoud en acties van hun apps koppelen aan Siri AI, als preview in de bèta's van iOS 27.3. Apps komen over enkele maanden bij gebruikers, maar de functie is niet beschikbaar in de EU op iPhone, iPad en Apple Watch.",
-    "c": "Siri kan binnenkort een tafel reserveren of een levering volgen rechtstreeks in een app, in gewone taal.",
-    "r": "Voorlopig zien je Belgische klanten dit niet op hun iPhone. Beloof hen dus geen Siri die hun reservaties regelt.",
-    "a": "Algemene kennis: niets te doen."
    }
   }
  ]
