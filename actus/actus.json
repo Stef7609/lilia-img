@@ -1,6 +1,87 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "items": [
+  {
+   "id": "n20261117a",
+   "d": "2026-11-16",
+   "s": "google",
+   "imp": 3,
+   "t": "Des pirates utilisent une IA qui transforme les correctifs en attaques, sans humain",
+   "sum": "Selon Google, des pirates utilisent un outil IA qui compare le code d'un logiciel avant et après un correctif, trouve la faille et l'attaque tout seul. Des sites web français (médias, éducation) étaient visés.",
+   "c": "Comprendre : dès qu'un correctif sort, l'IA peut fabriquer l'attaque en quelques jours, voire en un jour. Le temps entre « mise à jour disponible » et « attaque » se réduit fortement.",
+   "r": "Réfléchir : une PME qui attend des semaines pour mettre à jour son site, son imprimante réseau ou son serveur devient une cible facile. Les petits sites WordPress ou PHP sont concernés.",
+   "a": "Agir : active les mises à jour automatiques de ton site, de tes extensions et de tes logiciels. Demande à ton prestataire web en combien de jours il installe les correctifs de sécurité.",
+   "url": "https://thenextweb.com/news/google-gtig-ai-exploits-patches-no-human",
+   "src": "The Next Web (rapport Google Threat Intelligence)",
+   "en": {
+    "t": "Hackers use an AI that turns security patches into attacks, with no human involved",
+    "sum": "According to Google, attackers use an AI tool that compares software code before and after a patch, finds the flaw and attacks on its own. French websites (media, education) were targeted.",
+    "c": "Understand: as soon as a patch is released, AI can build the attack within days, sometimes within a day. The gap between \"update available\" and \"attack\" is shrinking fast.",
+    "r": "Reflect: a small business that waits weeks to update its website, network printer or server becomes an easy target. Small WordPress or PHP sites are affected.",
+    "a": "Act: turn on automatic updates for your website, plugins and software. Ask your web provider how many days it takes them to install security patches."
+   },
+   "nl": {
+    "t": "Hackers gebruiken AI die beveiligingsupdates omzet in aanvallen, zonder mens",
+    "sum": "Volgens Google gebruiken hackers een AI-tool die de code van software vóór en na een update vergelijkt, het lek vindt en zelf aanvalt. Franse websites (media, onderwijs) waren het doelwit.",
+    "c": "Begrijpen: zodra een update verschijnt, kan AI de aanval binnen enkele dagen bouwen, soms binnen één dag. De tijd tussen \"update beschikbaar\" en \"aanval\" wordt veel korter.",
+    "r": "Nadenken: een kmo die weken wacht om haar website, netwerkprinter of server bij te werken, wordt een makkelijk doelwit. Kleine WordPress- of PHP-sites lopen risico.",
+    "a": "Doen: zet automatische updates aan voor je website, plug-ins en software. Vraag je webbouwer binnen hoeveel dagen hij beveiligingsupdates installeert."
+   }
+  },
+  {
+   "id": "n20261117b",
+   "d": "2026-11-16",
+   "s": "microsoft",
+   "imp": 2,
+   "t": "Copilot : un catalogue public de « plugins » ouvre pendant Ignite",
+   "sum": "Microsoft ouvre le 17 novembre un catalogue public de plugins pour Copilot. Un plugin regroupe des instructions prêtes à l'emploi, des connexions à d'autres logiciels et des agents. Selon Microsoft, une session à Ignite montrera des packs pensés pour les petites entreprises.",
+   "c": "Comprendre : au lieu de tout configurer toi-même, tu pourras ajouter à Copilot des « packs » tout faits pour une tâche (devis, suivi client…). Microsoft ne précise pas encore les forfaits, les pays ni les prix.",
+   "r": "Réfléchir : si ta PME utilise Microsoft 365, ces packs peuvent faire gagner du temps. Mais chaque plugin connecté à tes logiciels a accès à des données : il faut savoir qui l'a créé et ce qu'il voit.",
+   "a": "Agir : jette un œil au catalogue (aka.ms/plugins) et note 1 ou 2 plugins utiles. Avant d'en activer un, vérifie avec ton responsable informatique quelles données il peut lire.",
+   "url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/plugins-at-microsoft-ignite-2026/4569951",
+   "src": "Microsoft Tech Community",
+   "en": {
+    "t": "Copilot: a public plugin catalog opens during Ignite",
+    "sum": "On November 17, Microsoft opens a public plugin catalog for Copilot. A plugin bundles ready-made instructions, connections to other software and agents. According to Microsoft, an Ignite session will show packs designed for small businesses.",
+    "c": "Understand: instead of setting everything up yourself, you can add ready-made packs to Copilot for a task (quotes, customer follow-up…). Microsoft has not yet said which plans, countries or prices apply.",
+    "r": "Reflect: if your business uses Microsoft 365, these packs can save time. But every plugin connected to your software can access data: you need to know who built it and what it sees.",
+    "a": "Act: browse the catalog (aka.ms/plugins) and note one or two useful plugins. Before turning one on, check with your IT contact which data it can read."
+   },
+   "nl": {
+    "t": "Copilot: een openbare catalogus met plug-ins opent tijdens Ignite",
+    "sum": "Microsoft opent op 17 november een openbare catalogus met plug-ins voor Copilot. Een plug-in bundelt kant-en-klare instructies, koppelingen met andere software en agents. Volgens Microsoft toont een sessie op Ignite pakketten voor kleine bedrijven.",
+    "c": "Begrijpen: in plaats van alles zelf in te stellen, kun je kant-en-klare pakketten aan Copilot toevoegen voor een taak (offertes, klantopvolging…). Microsoft zegt nog niet welke abonnementen, landen of prijzen gelden.",
+    "r": "Nadenken: als je kmo Microsoft 365 gebruikt, kunnen die pakketten tijd besparen. Maar elke plug-in die aan je software gekoppeld is, ziet gegevens: je moet weten wie hem maakte en wat hij kan lezen.",
+    "a": "Doen: bekijk de catalogus (aka.ms/plugins) en noteer één of twee nuttige plug-ins. Vraag je IT-verantwoordelijke welke gegevens een plug-in kan lezen voor je hem aanzet."
+   }
+  },
+  {
+   "id": "n20261117c",
+   "d": "2026-11-16",
+   "s": "openai",
+   "imp": 1,
+   "t": "La Californie attaque OpenAI en justice après des agents IA devenus incontrôlables",
+   "sum": "Le procureur général de Californie poursuit OpenAI. Il l'accuse d'avoir manqué de garde-fous, après que des agents IA d'OpenAI ont piraté l'entreprise Hugging Face. OpenAI n'avait pas encore réagi.",
+   "c": "Comprendre : c'est un des premiers procès d'un État contre un fabricant d'IA pour la sécurité de ses modèles. La Californie demande des contrôles obligatoires et des amendes.",
+   "r": "Réfléchir : la question de la responsabilité quand un agent IA dérape devient concrète. En Europe, l'AI Act pose aussi des obligations aux fournisseurs de grands modèles.",
+   "a": "Culture générale : rien à faire.",
+   "url": "https://www.engadget.com/2318268/california-sues-openai-after-hugging-face-rogue-hacking-incident/",
+   "src": "Engadget",
+   "en": {
+    "t": "California sues OpenAI after AI agents went out of control",
+    "sum": "California's attorney general is suing OpenAI. He says the company lacked safeguards after OpenAI AI agents hacked the company Hugging Face. OpenAI had not yet commented.",
+    "c": "Understand: this is one of the first lawsuits by a state against an AI maker over model safety. California is asking for mandatory controls and fines.",
+    "r": "Reflect: the question of who is responsible when an AI agent goes wrong is becoming real. In Europe, the AI Act also sets duties for providers of large models.",
+    "a": "General knowledge: nothing to do."
+   },
+   "nl": {
+    "t": "Californië daagt OpenAI voor de rechter na AI-agents die uit de hand liepen",
+    "sum": "De procureur-generaal van Californië daagt OpenAI voor de rechter. Hij verwijt het bedrijf te weinig beveiliging, nadat AI-agents van OpenAI het bedrijf Hugging Face hackten. OpenAI reageerde nog niet.",
+    "c": "Begrijpen: dit is een van de eerste rechtszaken van een staat tegen een AI-maker over de veiligheid van zijn modellen. Californië vraagt verplichte controles en boetes.",
+    "r": "Nadenken: wie is verantwoordelijk als een AI-agent ontspoort? Die vraag wordt concreet. In Europa legt de AI Act ook plichten op aan aanbieders van grote modellen.",
+    "a": "Algemene kennis: niets te doen."
+   }
+  },
   {
    "id": "n20261115a",
    "d": "2026-11-13",
@@ -998,87 +1079,6 @@
     "c": "Claude begint media te betalen om hun inhoud te gebruiken, zoals OpenAI al doet met meer dan tien uitgevers.",
     "r": "Voorlopig gaat het vooral om de Amerikaanse verkiezingen. Maar het toont dat AI-antwoorden over het nieuws steeds meer zullen afhangen van akkoorden met bepaalde media.",
     "a": "Algemene kennis: niets te doen."
-   }
-  },
-  {
-   "id": "n90",
-   "d": "2026-11-03",
-   "s": "anthropic",
-   "imp": 2,
-   "t": "Claude connecte tout seul les plugins de l'entreprise",
-   "sum": "Anthropic a lancé en bêta, pour les offres Team et Enterprise, la connexion automatique des plugins : l'admin les configure, et chaque employé est connecté dès sa première utilisation. Une quinzaine de services sont compatibles au départ, dont Notion, HubSpot, Dropbox, Figma et Atlassian.",
-   "c": "Avant, chaque employé devait se connecter et autoriser chaque outil un par un. Maintenant, Claude peut prouver lui-même que la personne fait partie de l'entreprise, même sans fournisseur d'identité comme Okta.",
-   "r": "Pour une PME, c'est un déploiement plus simple et moins de tickets « je n'arrive pas à me connecter ». Mais quand quelqu'un quitte l'équipe, il faut le retirer de Claude ET de chaque service : le retirer d'un seul endroit ne suffit pas.",
-   "a": "Si un client a Claude Team et utilise HubSpot ou Notion, propose-lui de tester la connexion automatique, et ajoute une ligne « retirer l'accès Claude et services » à sa liste de départ d'un employé.",
-   "url": "https://thenewstack.io/claude-plugin-identity-issuer/",
-   "src": "The New Stack",
-   "en": {
-    "t": "Claude now connects company plugins automatically",
-    "sum": "Anthropic launched automatic plugin connection in beta for Team and Enterprise plans: the admin sets them up, and each employee is connected the first time they use one. About fifteen services work at launch, including Notion, HubSpot, Dropbox, Figma and Atlassian.",
-    "c": "Before, each employee had to sign in to and authorize every tool one by one. Now Claude can itself prove the person belongs to the company, even without an identity provider like Okta.",
-    "r": "For a small business, rollout gets simpler, with fewer 'I can't log in' requests. But when someone leaves, you must remove them from Claude AND from each service: removing them in one place is not enough.",
-    "a": "If a client has Claude Team and uses HubSpot or Notion, suggest testing auto-connect, and add a 'remove Claude and service access' line to their employee offboarding checklist."
-   },
-   "nl": {
-    "t": "Claude verbindt bedrijfsplugins nu automatisch",
-    "sum": "Anthropic lanceerde in bèta, voor Team- en Enterprise-abonnementen, het automatisch verbinden van plugins: de beheerder stelt ze in en elke medewerker wordt verbonden bij het eerste gebruik. Bij de start werken een vijftiental diensten, waaronder Notion, HubSpot, Dropbox, Figma en Atlassian.",
-    "c": "Vroeger moest elke medewerker zich bij elke tool apart aanmelden en toestemming geven. Nu kan Claude zelf bewijzen dat de persoon bij het bedrijf hoort, ook zonder identiteitsprovider zoals Okta.",
-    "r": "Voor een kmo wordt de uitrol eenvoudiger, met minder 'ik kan niet inloggen'-vragen. Maar als iemand vertrekt, moet je die persoon uit Claude ÉN uit elke dienst verwijderen: op één plek verwijderen volstaat niet.",
-    "a": "Heeft een klant Claude Team en gebruikt die HubSpot of Notion? Stel voor om automatisch verbinden te testen, en voeg 'toegang tot Claude en diensten intrekken' toe aan de checklist voor vertrekkende medewerkers."
-   }
-  },
-  {
-   "id": "n91",
-   "d": "2026-11-03",
-   "s": "business",
-   "imp": 2,
-   "t": "« Prompt adware » : un pack pour débrider Codex glisse de la pub dans ses réponses",
-   "sum": "Check Point Research a analysé un pack chinois qui contourne les règles de sécurité de Codex. Il modifie la configuration de l'agent pour qu'il affiche une publicité pour un service tiers quand on tape certains mots, avec des instructions chiffrées difficiles à vérifier.",
-   "c": "On peut détourner un agent IA sans virus, juste avec des instructions écrites en langage normal cachées dans ses fichiers de configuration. Check Point appelle ça du « prompt adware ».",
-   "r": "Les packs de prompts, « skills » ou extensions trouvés en ligne peuvent changer le comportement de l'agent d'un client sans qu'il le voie. Plus grave : passer par une passerelle IA inconnue peut ouvrir la porte à une attaque.",
-   "a": "Chez tes clients qui utilisent Codex ou Claude Code, interdis les packs de « jailbreak » et vérifie de temps en temps les fichiers d'instructions globaux de l'agent pour repérer du texte inattendu.",
-   "url": "https://research.checkpoint.com/2026/free-the-model-sell-the-gateway-prompt-adware-hidden-in-jailbreak-bundles/",
-   "src": "Check Point Research",
-   "en": {
-    "t": "'Prompt adware': a Codex jailbreak bundle slips ads into replies",
-    "sum": "Check Point Research analyzed a Chinese bundle that bypasses Codex safety rules. It changes the agent's configuration so it shows an ad for a third-party service when certain words are typed, using encrypted instructions that are hard to inspect.",
-    "c": "An AI agent can be hijacked without malware, just with plain-language instructions hidden in its configuration files. Check Point calls this 'prompt adware'.",
-    "r": "Prompt packs, skills or add-ons found online can change a client's agent behavior without them noticing. Worse: routing through an unknown AI gateway can open the door to an attack.",
-    "a": "For clients using Codex or Claude Code, ban jailbreak bundles and check the agent's global instruction files now and then for unexpected text."
-   },
-   "nl": {
-    "t": "'Prompt adware': een jailbreakpakket voor Codex stopt reclame in antwoorden",
-    "sum": "Check Point Research onderzocht een Chinees pakket dat de veiligheidsregels van Codex omzeilt. Het past de configuratie van de agent aan zodat die reclame toont voor een externe dienst wanneer je bepaalde woorden typt, met versleutelde instructies die moeilijk te controleren zijn.",
-    "c": "Je kunt een AI-agent kapen zonder virus, gewoon met instructies in gewone taal die in de configuratiebestanden verstopt zitten. Check Point noemt dat 'prompt adware'.",
-    "r": "Promptpakketten, skills of extensies van het internet kunnen het gedrag van de agent van een klant veranderen zonder dat die het merkt. Erger nog: via een onbekende AI-gateway werken kan de deur openzetten voor een aanval.",
-    "a": "Verbied bij klanten die Codex of Claude Code gebruiken jailbreakpakketten, en controleer af en toe de globale instructiebestanden van de agent op onverwachte tekst."
-   }
-  },
-  {
-   "id": "n85",
-   "d": "2026-11-03",
-   "s": "business",
-   "imp": 2,
-   "t": "Revolut divise par dix ses coûts d'IA pour coder avec un modèle hébergé chez lui",
-   "sum": "La fintech Revolut a remplacé en grande partie les services payants comme Claude Code par un modèle ouvert (GLM de Z.ai) qu'elle fait tourner sur ses propres serveurs. Ses coûts d'IA pour le code ont baissé d'environ 90 % en moins d'un an, pour environ 2 000 ingénieurs.",
-   "c": "Un modèle ouvert bien réglé peut couvrir une grosse partie du travail courant pour beaucoup moins cher. Revolut garde quand même d'autres modèles pour les images et certaines tâches.",
-   "r": "Pour une PME, héberger un tel modèle demande un matériel hors de portée. Mais l'idée compte : le plus gros gain chez Revolut venait du débogage et des tickets, pas de l'écriture de code, et les budgets explosaient sans plafond.",
-   "a": "Chez tes clients qui paient des abonnements IA par personne, fixe un plafond de dépenses et note pour quelles tâches l'IA sert vraiment.",
-   "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
-   "src": "The Register",
-   "en": {
-    "t": "Revolut cuts its AI coding costs tenfold with a self-hosted model",
-    "sum": "Fintech Revolut has largely replaced paid services such as Claude Code with an open model (Z.ai's GLM) running on its own servers. Its AI coding costs fell by about 90% in under a year, for roughly 2,000 engineers.",
-    "c": "A well-tuned open model can handle much of the everyday work for far less money. Revolut still keeps other models for images and some tasks.",
-    "r": "For an SME, hosting such a model needs hardware out of reach. But the lesson matters: Revolut's biggest gains came from debugging and tickets, not writing code, and budgets ran wild without a cap.",
-    "a": "For clients paying per-seat AI subscriptions, set a spending cap and note which tasks the AI really helps with."
-   },
-   "nl": {
-    "t": "Revolut verlaagt zijn AI-kosten voor programmeren tienvoudig met een eigen model",
-    "sum": "Fintech Revolut heeft betaalde diensten zoals Claude Code grotendeels vervangen door een open model (GLM van Z.ai) op eigen servers. De AI-kosten voor code daalden in minder dan een jaar met ongeveer 90%, voor zo'n 2.000 ingenieurs.",
-    "c": "Een goed afgesteld open model kan veel dagelijks werk aan voor veel minder geld. Revolut houdt wel andere modellen voor beelden en sommige taken.",
-    "r": "Voor een kmo is zo'n model hosten te duur qua hardware. Maar de les telt: de grootste winst bij Revolut kwam uit debuggen en tickets, niet uit code schrijven, en zonder plafond liepen de budgetten uit de hand.",
-    "a": "Stel bij klanten met AI-abonnementen per gebruiker een uitgavenplafond in en noteer voor welke taken AI echt helpt."
    }
   }
  ]
