@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "items": [
+  {
+   "id": "n20261118a",
+   "d": "2026-11-17",
+   "s": "microsoft",
+   "imp": 2,
+   "t": "Ignite : Copilot devient une plateforme de travail, avec Word, Excel et PowerPoint intégrés",
+   "sum": "À Ignite, Microsoft a lancé « Home » et « Office in Copilot » : tu crées tes documents Word, Excel et PowerPoint directement dans l'appli Copilot. Un agent autonome, Autopilot, arrive aussi, mais seulement pour le programme d'essai Frontier.",
+   "c": "Comprendre : selon Microsoft, Copilot réunit maintenant le chat, les tâches confiées aux agents et les fichiers Office au même endroit. Les droits et étiquettes de sécurité de Microsoft 365 restent appliqués. Le prix mélange un abonnement par personne et un paiement à l'usage pour les tâches les plus lourdes.",
+   "r": "Réfléchir : pour une PME sous Microsoft 365, Copilot devient la porte d'entrée du travail quotidien. Mais une partie des coûts peut varier selon l'usage, et les agents autonomes ne sont pas encore pour tout le monde.",
+   "a": "Agir : vérifie quelle licence Copilot ton équipe possède. Si tu actives la facturation à l'usage, fixe tout de suite une limite de dépenses.",
+   "url": "https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/",
+   "src": "Microsoft Copilot Blog",
+   "en": {
+    "t": "Ignite: Copilot becomes a work platform, with Word, Excel and PowerPoint built in",
+    "sum": "At Ignite, Microsoft launched \"Home\" and \"Office in Copilot\": you create Word, Excel and PowerPoint files directly in the Copilot app. An autonomous agent, Autopilot, is also coming, but only for the Frontier early-access program.",
+    "c": "Understand: according to Microsoft, Copilot now brings chat, tasks handed to agents and Office files into one place. Microsoft 365 permissions and sensitivity labels still apply. Pricing mixes a per-user subscription with pay-as-you-go for the heaviest tasks.",
+    "r": "Think: for an SME on Microsoft 365, Copilot becomes the front door to daily work. But part of the cost can vary with usage, and autonomous agents are not available to everyone yet.",
+    "a": "Act: check which Copilot licence your team has. If you turn on usage-based billing, set a spending limit right away."
+   },
+   "nl": {
+    "t": "Ignite: Copilot wordt een werkplatform, met Word, Excel en PowerPoint ingebouwd",
+    "sum": "Op Ignite lanceerde Microsoft \"Home\" en \"Office in Copilot\": je maakt Word-, Excel- en PowerPoint-bestanden rechtstreeks in de Copilot-app. Er komt ook een autonome agent, Autopilot, maar enkel voor het testprogramma Frontier.",
+    "c": "Begrijpen: volgens Microsoft brengt Copilot nu chat, taken voor agents en Office-bestanden samen op één plek. De rechten en gevoeligheidslabels van Microsoft 365 blijven gelden. De prijs combineert een abonnement per gebruiker met betalen per gebruik voor de zwaarste taken.",
+    "r": "Nadenken: voor een kmo met Microsoft 365 wordt Copilot de toegangspoort tot het dagelijkse werk. Maar een deel van de kosten kan schommelen met het gebruik, en autonome agents zijn nog niet voor iedereen.",
+    "a": "Doen: kijk na welke Copilot-licentie je team heeft. Zet je facturatie per gebruik aan, stel dan meteen een uitgavenlimiet in."
+   }
+  },
+  {
+   "id": "n20261118b",
+   "d": "2026-11-17",
+   "s": "openai",
+   "imp": 2,
+   "t": "GPT-6.2 Astra et Sol : deux nouveaux modèles OpenAI, dont un nettement moins cher",
+   "sum": "OpenAI a lancé GPT-6.2 Astra, pour les gros projets, et GPT-6.2 Sol, plus rapide et environ cinq fois moins cher. Ils arrivent dans ChatGPT Work et Codex pour les forfaits Plus, Pro, Enterprise et Edu, et dans l'API.",
+   "c": "Comprendre : selon OpenAI, Astra coûte moins d'un tiers par tâche que GPT-6 Astra. Dans l'API, Sol coûte 2 $ par million de jetons en entrée et 10 $ en sortie, contre 8 $ et 40 $ pour Astra. Le forfait Business n'est pas cité dans l'annonce.",
+   "r": "Réfléchir : pour une PME, le plus intéressant est Sol. Il peut faire tourner des tâches répétitives (mails, résumés, petits agents) pour beaucoup moins cher. Astra se garde pour les dossiers complexes.",
+   "a": "Agir : si tu utilises l'API d'OpenAI, teste Sol sur une tâche courante et compare la qualité et la facture avec ton modèle actuel.",
+   "url": "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531",
+   "src": "OpenAI Developer Community",
+   "en": {
+    "t": "GPT-6.2 Astra and Sol: two new OpenAI models, one much cheaper",
+    "sum": "OpenAI launched GPT-6.2 Astra, for big projects, and GPT-6.2 Sol, faster and about five times cheaper. They come to ChatGPT Work and Codex for Plus, Pro, Enterprise and Edu plans, and to the API.",
+    "c": "Understand: according to OpenAI, Astra costs less than a third per task compared with GPT-6 Astra. In the API, Sol costs $2 per million input tokens and $10 output, versus $8 and $40 for Astra. The Business plan is not mentioned in the announcement.",
+    "r": "Think: for an SME, Sol is the most interesting one. It can run repetitive tasks (emails, summaries, small agents) for much less. Keep Astra for complex work.",
+    "a": "Act: if you use the OpenAI API, test Sol on an everyday task and compare quality and cost with your current model."
+   },
+   "nl": {
+    "t": "GPT-6.2 Astra en Sol: twee nieuwe OpenAI-modellen, waarvan één veel goedkoper",
+    "sum": "OpenAI lanceerde GPT-6.2 Astra, voor grote projecten, en GPT-6.2 Sol, sneller en ongeveer vijf keer goedkoper. Ze komen naar ChatGPT Work en Codex voor de abonnementen Plus, Pro, Enterprise en Edu, en naar de API.",
+    "c": "Begrijpen: volgens OpenAI kost Astra per taak minder dan een derde van GPT-6 Astra. In de API kost Sol 2 dollar per miljoen tokens invoer en 10 dollar uitvoer, tegenover 8 en 40 dollar voor Astra. Het Business-abonnement staat niet in de aankondiging.",
+    "r": "Nadenken: voor een kmo is Sol het interessantst. Het kan repetitieve taken (mails, samenvattingen, kleine agents) veel goedkoper uitvoeren. Astra hou je voor complexe dossiers.",
+    "a": "Doen: gebruik je de API van OpenAI, test Sol dan op een gewone taak en vergelijk kwaliteit en kostprijs met je huidige model."
+   }
+  },
   {
    "id": "n20261117a",
    "d": "2026-11-16",
@@ -1024,60 +1078,6 @@
     "sum": "Bij zijn kwartaalcijfers meldde Uber dat in zijn drukste week van oktober slechts 4 ritten en ongeveer 500 Uber Eats-bestellingen via een AI-agent liepen, op zo'n 320 miljoen ritten en bestellingen. De topman noemt het gebruik nog zeer beperkt.",
     "c": "AI-agents die voor jou bestellen bestaan, maar bijna niemand gebruikt ze al. Bestellen in de app blijft voor de meeste mensen sneller.",
     "r": "Geen paniek voor een lokale zaak: klanten bestellen nog niet via ChatGPT of Claude. Werk eerst aan je Google-bedrijfsprofiel en je website.",
-    "a": "Algemene kennis: niets te doen."
-   }
-  },
-  {
-   "id": "n89",
-   "d": "2026-11-04",
-   "s": "openai",
-   "imp": 2,
-   "t": "ChatGPT Images 2.6 crée des GIF animés",
-   "sum": "OpenAI a lancé Images 2.6 dans ChatGPT : tu peux transformer un texte ou une image en GIF animé et garder des images de référence (une personne, un personnage) pour les réutiliser. Deux nouveaux modèles d'image arrivent aussi dans l'API.",
-   "c": "Faire une petite animation ne demande plus de logiciel spécial. Et tu n'as plus besoin de renvoyer la même photo à chaque fois pour garder un personnage identique.",
-   "r": "Un commerce peut créer vite des visuels animés pour les réseaux sociaux ou une vitrine écran. Attention : les photos de personnes réelles restent des données personnelles, il faut leur accord.",
-   "a": "Teste avec un client : un GIF promo à partir de la photo d'un produit, et compare le temps passé avec sa méthode actuelle.",
-   "url": "https://community.openai.com/t/images-upgraded-introducing-chatgpt-images-2-6/1412901",
-   "src": "OpenAI (forum développeurs)",
-   "en": {
-    "t": "ChatGPT Images 2.6 makes animated GIFs",
-    "sum": "OpenAI launched Images 2.6 in ChatGPT: you can turn text or an image into an animated GIF and save reference images (a person, a character) to reuse them. Two new image models are also coming to the API.",
-    "c": "Making a short animation no longer needs special software. And you no longer have to re-upload the same photo to keep a character consistent.",
-    "r": "A shop can quickly create animated visuals for social media or an in-store screen. Careful: photos of real people are still personal data, so you need their consent.",
-    "a": "Try it with a client: a promo GIF from a product photo, and compare the time spent with their current method."
-   },
-   "nl": {
-    "t": "ChatGPT Images 2.6 maakt geanimeerde GIF's",
-    "sum": "OpenAI lanceerde Images 2.6 in ChatGPT: je kunt tekst of een afbeelding omzetten in een geanimeerde GIF en referentiebeelden (een persoon, een personage) bewaren om ze opnieuw te gebruiken. Er komen ook twee nieuwe beeldmodellen naar de API.",
-    "c": "Een korte animatie maken vraagt geen speciale software meer. En je hoeft niet telkens dezelfde foto op te laden om een personage gelijk te houden.",
-    "r": "Een winkel kan snel geanimeerde beelden maken voor sociale media of een scherm in de etalage. Let op: foto's van echte mensen blijven persoonsgegevens, je hebt hun toestemming nodig.",
-    "a": "Test het met een klant: een promo-GIF op basis van een productfoto, en vergelijk de tijd met hun huidige werkwijze."
-   }
-  },
-  {
-   "id": "n92",
-   "d": "2026-11-04",
-   "s": "anthropic",
-   "imp": 1,
-   "t": "Anthropic signe son premier accord de licence avec un média, l'AP",
-   "sum": "Selon Adweek, qui cite deux sources, Anthropic a conclu avec l'agence Associated Press son premier accord de licence avec un éditeur d'actualités, pour afficher dans Claude des résultats électoraux à jour. Les montants et la durée ne sont pas connus.",
-   "c": "Claude commence à payer des médias pour utiliser leurs contenus, comme OpenAI le fait déjà avec plus d'une dizaine d'éditeurs.",
-   "r": "Pour l'instant, c'est surtout des élections américaines. Mais cela montre que les réponses des IA sur l'actualité dépendront de plus en plus d'accords avec des médias précis.",
-   "a": "Culture générale : rien à faire.",
-   "url": "https://www.adweek.com/media/anthropic-licensing-deal-ap-election/",
-   "src": "Adweek",
-   "en": {
-    "t": "Anthropic signs its first media licensing deal, with AP",
-    "sum": "According to Adweek, citing two sources, Anthropic struck its first licensing deal with a news publisher, the Associated Press, to show up-to-date election results in Claude. Amounts and duration are not known.",
-    "c": "Claude is starting to pay media outlets to use their content, as OpenAI already does with more than a dozen publishers.",
-    "r": "For now it is mainly about US elections. But it shows AI answers about the news will increasingly depend on deals with specific media.",
-    "a": "General knowledge: nothing to do."
-   },
-   "nl": {
-    "t": "Anthropic sluit eerste licentiedeal met een medium, AP",
-    "sum": "Volgens Adweek, dat zich op twee bronnen baseert, sloot Anthropic met persbureau Associated Press zijn eerste licentieakkoord met een nieuwsuitgever, om actuele verkiezingsresultaten in Claude te tonen. Bedragen en looptijd zijn niet bekend.",
-    "c": "Claude begint media te betalen om hun inhoud te gebruiken, zoals OpenAI al doet met meer dan tien uitgevers.",
-    "r": "Voorlopig gaat het vooral om de Amerikaanse verkiezingen. Maar het toont dat AI-antwoorden over het nieuws steeds meer zullen afhangen van akkoorden met bepaalde media.",
     "a": "Algemene kennis: niets te doen."
    }
   }
