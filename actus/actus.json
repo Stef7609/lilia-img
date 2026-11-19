@@ -1,6 +1,87 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "items": [
+  {
+   "id": "n20261119a",
+   "d": "2026-11-18",
+   "s": "anthropic",
+   "imp": 1,
+   "t": "Anthropic entre en Bourse : la plus grosse introduction jamais vue",
+   "sum": "Anthropic, l'entreprise derrière Claude, a fixé son action à 83 dollars, au-dessus de la fourchette prévue. Elle lève environ 81 milliards de dollars et commence à être cotée au Nasdaq ce jeudi 19 novembre, selon l'agence AP.",
+   "c": "Comprendre : Anthropic devient une société cotée en Bourse. Elle devra publier ses résultats et rendre des comptes à ses actionnaires.",
+   "r": "Réfléchir : pour une PME, Claude ne change pas du jour au lendemain. Mais une entreprise cotée peut revoir ses prix et ses offres plus souvent.",
+   "a": "Culture générale : rien à faire.",
+   "url": "https://www.news4jax.com/news/2026/11/19/anthropic-set-to-begin-trading-after-pricing-its-stock-at-83-per-share-in-biggest-ipo-on-record/",
+   "src": "Associated Press (via News4JAX)",
+   "en": {
+    "t": "Anthropic goes public in the biggest IPO on record",
+    "sum": "Anthropic, the company behind Claude, priced its shares at $83, above the expected range. It raises about $81 billion and starts trading on Nasdaq on Thursday 19 November, according to AP.",
+    "c": "Understand: Anthropic becomes a listed company. It will have to publish results and answer to shareholders.",
+    "r": "Think: for a small business, Claude does not change overnight. But a listed company may adjust its prices and plans more often.",
+    "a": "General knowledge: nothing to do."
+   },
+   "nl": {
+    "t": "Anthropic gaat naar de beurs: de grootste beursgang ooit",
+    "sum": "Anthropic, het bedrijf achter Claude, prijst zijn aandeel op 83 dollar, boven de verwachte vork. Het haalt ongeveer 81 miljard dollar op en noteert vanaf donderdag 19 november op de Nasdaq, volgens persbureau AP.",
+    "c": "Begrijpen: Anthropic wordt een beursgenoteerd bedrijf. Het moet resultaten publiceren en verantwoording afleggen aan aandeelhouders.",
+    "r": "Nadenken: voor een kmo verandert Claude niet van vandaag op morgen. Maar een beursbedrijf kan zijn prijzen en formules vaker aanpassen.",
+    "a": "Algemene kennis: niets te doen."
+   }
+  },
+  {
+   "id": "n20261119b",
+   "d": "2026-11-17",
+   "s": "business",
+   "imp": 3,
+   "t": "Java4Shell : une faille grave dans Java, trouvée grâce à l'IA",
+   "sum": "Une faille critique (CVE-2026-114938) touche Java, utilisé dans beaucoup de logiciels d'entreprise. Oracle et OpenJDK ont publié des correctifs le 17 novembre. Les chercheurs de Calif disent l'avoir trouvée en une heure avec l'IA Codex d'OpenAI.",
+   "c": "Comprendre : un pirate pourrait prendre le contrôle d'un serveur qui fait tourner Java, sans mot de passe. Aucune attaque réelle n'était signalée au 17 novembre.",
+   "r": "Réfléchir : Java se cache dans des outils comme Jira, Confluence, Jenkins ou Elasticsearch. Et l'IA permet de trouver ces failles de plus en plus vite.",
+   "a": "Agir : demande à ton prestataire informatique si tes serveurs ou logiciels utilisent Java, et fais installer la mise à jour, puis redémarrer les services.",
+   "url": "https://cyberscoop.com/java4shell-critical-java-flaw-openjdk/",
+   "src": "CyberScoop",
+   "en": {
+    "t": "Java4Shell: a serious Java flaw found with AI",
+    "sum": "A critical flaw (CVE-2026-114938) affects Java, which runs inside many business applications. Oracle and OpenJDK released fixes on 17 November. Researchers at Calif say they found it in one hour using OpenAI's Codex.",
+    "c": "Understand: an attacker could take over a server running Java without a password. No real attacks had been reported as of 17 November.",
+    "r": "Think: Java hides inside tools like Jira, Confluence, Jenkins or Elasticsearch. And AI makes finding such flaws faster and faster.",
+    "a": "Act: ask your IT provider whether your servers or software use Java, have the update installed, then restart the services."
+   },
+   "nl": {
+    "t": "Java4Shell: ernstig lek in Java, gevonden met AI",
+    "sum": "Een kritiek lek (CVE-2026-114938) treft Java, dat in veel bedrijfssoftware draait. Oracle en OpenJDK brachten op 17 november updates uit. Onderzoekers van Calif zeggen dat ze het in een uur vonden met Codex van OpenAI.",
+    "c": "Begrijpen: een aanvaller kan een server met Java overnemen zonder wachtwoord. Op 17 november waren nog geen echte aanvallen gemeld.",
+    "r": "Nadenken: Java zit verstopt in tools zoals Jira, Confluence, Jenkins of Elasticsearch. En AI vindt zulke lekken steeds sneller.",
+    "a": "Doen: vraag je IT-partner of je servers of software Java gebruiken, laat de update installeren en de diensten herstarten."
+   }
+  },
+  {
+   "id": "n20261119c",
+   "d": "2026-11-17",
+   "s": "openai",
+   "imp": 2,
+   "t": "ChatGPT for Sales : ChatGPT se branche sur ton CRM",
+   "sum": "OpenAI lance ChatGPT for Sales, avec plus de 30 connexions vers des outils de vente comme Salesforce, HubSpot ou monday CRM. Un agent peut préparer tes rendez-vous et proposer les prochaines étapes. C'est réservé aux offres Business et Enterprise.",
+   "c": "Comprendre : ChatGPT peut lire et mettre à jour ton CRM, préparer un appel ou écrire un mail de suivi. L'administrateur doit l'activer.",
+   "r": "Réfléchir : ça peut faire gagner du temps à un petit commercial. Mais tes données clients passent par ChatGPT : vérifie le contrat et le RGPD. OpenAI précise que tout n'est pas dispo dans toutes les régions.",
+   "a": "Agir : si tu as ChatGPT Business, teste-le sur un seul compte client fictif avant de connecter ton vrai CRM.",
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales/",
+   "src": "OpenAI",
+   "en": {
+    "t": "ChatGPT for Sales: ChatGPT connects to your CRM",
+    "sum": "OpenAI launches ChatGPT for Sales, with over 30 connections to sales tools such as Salesforce, HubSpot or monday CRM. An agent can prepare your meetings and suggest next steps. It is limited to Business and Enterprise plans.",
+    "c": "Understand: ChatGPT can read and update your CRM, prepare a call or draft a follow-up email. An admin has to switch it on.",
+    "r": "Think: it can save time for a small sales team. But your customer data goes through ChatGPT, so check the contract and GDPR. OpenAI says not everything is available in every region.",
+    "a": "Act: if you have ChatGPT Business, test it on a single dummy customer before connecting your real CRM."
+   },
+   "nl": {
+    "t": "ChatGPT for Sales: ChatGPT koppelt aan je CRM",
+    "sum": "OpenAI lanceert ChatGPT for Sales, met meer dan 30 koppelingen naar verkooptools zoals Salesforce, HubSpot of monday CRM. Een agent kan je afspraken voorbereiden en volgende stappen voorstellen. Enkel voor Business- en Enterprise-abonnementen.",
+    "c": "Begrijpen: ChatGPT kan je CRM lezen en bijwerken, een gesprek voorbereiden of een opvolgmail schrijven. Een beheerder moet het inschakelen.",
+    "r": "Nadenken: dat kan tijd besparen voor een klein verkoopteam. Maar je klantgegevens gaan via ChatGPT: check het contract en de GDPR. OpenAI zegt dat niet alles in elke regio beschikbaar is.",
+    "a": "Doen: heb je ChatGPT Business, test het eerst op één fictieve klant voor je je echte CRM koppelt."
+   }
+  },
   {
    "id": "n20261118a",
    "d": "2026-11-17",
@@ -53,6 +134,33 @@
     "c": "Begrijpen: volgens OpenAI kost Astra per taak minder dan een derde van GPT-6 Astra. In de API kost Sol 2 dollar per miljoen tokens invoer en 10 dollar uitvoer, tegenover 8 en 40 dollar voor Astra. Het Business-abonnement staat niet in de aankondiging.",
     "r": "Nadenken: voor een kmo is Sol het interessantst. Het kan repetitieve taken (mails, samenvattingen, kleine agents) veel goedkoper uitvoeren. Astra hou je voor complexe dossiers.",
     "a": "Doen: gebruik je de API van OpenAI, test Sol dan op een gewone taak en vergelijk kwaliteit en kostprijs met je huidige model."
+   }
+  },
+  {
+   "id": "n20261119d",
+   "d": "2026-11-16",
+   "s": "google",
+   "imp": 2,
+   "t": "Gemini : tu peux refuser l'entraînement, mais tes chats restent deux mois",
+   "sum": "Google sépare deux réglages dans l'appli Gemini : garder ton historique et laisser Google entraîner ses modèles avec. Mais quand l'historique est coupé, les chats sont gardés environ deux mois. Le déploiement mondial commence dans les prochaines semaines.",
+   "c": "Comprendre : avant, couper l'historique voulait dire peu de conservation. Désormais, Google garde quand même ces chats environ deux mois, pour la sécurité et le service, selon Google.",
+   "r": "Réfléchir : si ton équipe colle des infos clients dans Gemini avec un compte perso, elles restent chez Google plus longtemps. Google ne précise pas si les comptes Workspace sont concernés.",
+   "a": "Agir : dans les réglages de Gemini, coupe l'option d'entraînement, et rappelle à ton équipe de ne jamais coller de données clients dans un compte perso.",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/updated-controls/",
+   "src": "Blog Google",
+   "en": {
+    "t": "Gemini: you can refuse training, but chats stay two months",
+    "sum": "Google splits two settings in the Gemini app: keeping your history and letting Google train its models on it. But when history is off, chats are kept for about two months. The global rollout starts in the coming weeks.",
+    "c": "Understand: turning history off used to mean little storage. Now Google still keeps those chats for about two months, for safety and service reasons, according to Google.",
+    "r": "Think: if your team pastes customer data into Gemini on a personal account, it stays with Google longer. Google does not say whether Workspace accounts are affected.",
+    "a": "Act: in Gemini settings, turn off the training option, and remind your team never to paste customer data into a personal account."
+   },
+   "nl": {
+    "t": "Gemini: training weigeren kan, maar chats blijven twee maanden",
+    "sum": "Google splitst twee instellingen in de Gemini-app: je geschiedenis bewaren en Google er zijn modellen mee laten trainen. Maar als de geschiedenis uitstaat, worden chats ongeveer twee maanden bewaard. De wereldwijde uitrol start de komende weken.",
+    "c": "Begrijpen: vroeger betekende geschiedenis uitzetten weinig bewaring. Nu houdt Google die chats toch ongeveer twee maanden bij, voor veiligheid en dienstverlening, volgens Google.",
+    "r": "Nadenken: plakt je team klantgegevens in Gemini met een persoonlijk account, dan blijven die langer bij Google. Google zegt niet of Workspace-accounts meedoen.",
+    "a": "Doen: zet in de instellingen van Gemini de trainingsoptie uit en herinner je team eraan nooit klantgegevens in een persoonlijk account te plakken."
    }
   },
   {
@@ -971,114 +1079,6 @@
     "c": "De huidige voorwaarden blijven gelden. Meta zegt eerst de betrokken partijen te willen raadplegen voor het met een nieuwe versie komt.",
     "r": "Je klanten die adverteren op Facebook of Instagram hebben een Meta Business-account. Dit dossier toont dat hun webinhoud grondstof kan worden voor de AI van een techreus, vaak via voorwaarden die niemand leest.",
     "a": "Volg of deze voorwaarden terugkomen en waarschuw je klanten die op Meta adverteren. Controleer meteen samen met hen het robots.txt-bestand van hun website."
-   }
-  },
-  {
-   "id": "n96",
-   "d": "2026-11-05",
-   "s": "business",
-   "imp": 2,
-   "t": "Airbnb lancera son agent IA de voyage au premier semestre 2027",
-   "sum": "Airbnb a annoncé avec ses résultats trimestriels que son agent IA arrivera chez les voyageurs au premier semestre 2027. Il aidera à planifier, comparer logements et hôtels, puis à modifier une réservation ou régler un souci pendant le séjour.",
-   "c": "L'agent ne se limite pas à un chat : il affiche cartes, photos, comparatifs et calendriers selon la demande. Airbnb veut l'étendre ensuite aux services et aux expériences.",
-   "r": "Sur la côte, beaucoup de tes clients vivent du tourisme. Si les voyageurs passent par un agent IA pour choisir, une annonce claire, complète et à jour pèsera encore plus lourd.",
-   "a": "Propose aux loueurs et hébergeurs de la côte un audit de leurs annonces : photos, description précise, équipements et règles bien renseignés.",
-   "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-   "src": "TechCrunch",
-   "en": {
-    "t": "Airbnb to launch its AI travel agent in the first half of 2027",
-    "sum": "Airbnb announced with its quarterly results that its AI agent will reach travelers in the first half of 2027. It will help plan trips, compare homes and hotels, then change a booking or fix a problem during the stay.",
-    "c": "The agent is more than a chat: it shows maps, photos, comparisons and calendars depending on the request. Airbnb plans to extend it to services and experiences later.",
-    "r": "On the coast, many of your clients live from tourism. If travelers use an AI agent to choose, a clear, complete and up-to-date listing will matter even more.",
-    "a": "Offer coastal hosts and accommodation owners a review of their listings: photos, precise description, amenities and house rules filled in."
-   },
-   "nl": {
-    "t": "Airbnb lanceert zijn AI-reisagent in de eerste helft van 2027",
-    "sum": "Airbnb kondigde bij zijn kwartaalcijfers aan dat zijn AI-agent in de eerste helft van 2027 beschikbaar wordt voor reizigers. Hij helpt bij het plannen, het vergelijken van woningen en hotels, en bij het wijzigen van een boeking of een probleem tijdens het verblijf.",
-    "c": "De agent is meer dan een chat: hij toont kaarten, foto's, vergelijkingen en kalenders naargelang de vraag. Airbnb wil hem later uitbreiden naar diensten en belevenissen.",
-    "r": "Aan de kust leven veel van je klanten van toerisme. Als reizigers via een AI-agent kiezen, wordt een duidelijke, volledige en actuele advertentie nog belangrijker.",
-    "a": "Bied verhuurders en logiesuitbaters aan de kust een check van hun advertenties aan: foto's, precieze beschrijving, voorzieningen en huisregels goed ingevuld."
-   }
-  },
-  {
-   "id": "n93",
-   "d": "2026-11-05",
-   "s": "google",
-   "imp": 2,
-   "t": "Google Forms : Gemini analyse tes réponses de questionnaire",
-   "sum": "Dans l'onglet Réponses de Google Forms, Gemini peut maintenant repérer les tendances, croiser les questions, résumer les points clés et proposer des actions. Il fait ses calculs avec du code sur les vraies réponses. Ça arrive dans Workspace Business Standard et Plus, avec un déploiement progressif en novembre.",
-   "c": "Avant, il fallait exporter les réponses dans un tableur et faire les calculs soi-même. Maintenant, l'analyse se fait directement dans le formulaire.",
-   "r": "Une PME qui fait des enquêtes de satisfaction, des inscriptions ou des sondages clients peut obtenir une synthèse en quelques minutes. Vérifie quand même les chiffres importants avant de décider.",
-   "a": "Si un client utilise Google Forms avec Workspace Business Standard ou Plus, teste la fonction sur un ancien questionnaire et compare avec son analyse habituelle.",
-   "url": "http://workspaceupdates.googleblog.com/2026/11/get-actionable-insights-with-gemini-in-Google-Forms.html",
-   "src": "Google Workspace Updates",
-   "en": {
-    "t": "Google Forms: Gemini analyzes your survey responses",
-    "sum": "In the Google Forms Responses tab, Gemini can now spot trends, cross-reference questions, summarize key points and suggest next steps. It runs code on the actual responses to do its calculations. It is coming to Workspace Business Standard and Plus, with a gradual rollout in November.",
-    "c": "Before, you had to export responses to a spreadsheet and do the math yourself. Now the analysis happens right inside the form.",
-    "r": "A small business running satisfaction surveys, sign-ups or customer polls can get a summary in minutes. Still double-check the key numbers before making a decision.",
-    "a": "If a client uses Google Forms with Workspace Business Standard or Plus, test the feature on an old survey and compare it with their usual analysis."
-   },
-   "nl": {
-    "t": "Google Forms: Gemini analyseert je enquêteantwoorden",
-    "sum": "In het tabblad Antwoorden van Google Forms kan Gemini nu trends opsporen, vragen met elkaar vergelijken, de kernpunten samenvatten en vervolgstappen voorstellen. Het rekent met code op de echte antwoorden. De functie komt naar Workspace Business Standard en Plus, met een geleidelijke uitrol in november.",
-    "c": "Vroeger moest je de antwoorden naar een spreadsheet exporteren en zelf rekenen. Nu gebeurt de analyse rechtstreeks in het formulier.",
-    "r": "Een kmo die tevredenheidsenquêtes, inschrijvingen of klantpeilingen doet, krijgt in enkele minuten een samenvatting. Controleer de belangrijke cijfers wel voor je beslist.",
-    "a": "Gebruikt een klant Google Forms met Workspace Business Standard of Plus? Test de functie op een oude enquête en vergelijk met zijn gewone analyse."
-   }
-  },
-  {
-   "id": "n94",
-   "d": "2026-11-05",
-   "s": "openai",
-   "imp": 2,
-   "t": "OpenAI lance GPT-6 Cyber, une IA pour trouver les failles de sécurité",
-   "sum": "OpenAI a sorti GPT-6 Cyber, réservé à des équipes de sécurité approuvées. Selon OpenAI, des chercheurs l'ont utilisé pour trouver 81 failles graves inconnues dans Firefox et pour bâtir des attaques fonctionnelles sur 948 failles de Linux, signalées avec des correctifs proposés.",
-   "c": "Les IA spécialisées en sécurité trouvent maintenant des failles en masse, bien plus vite qu'un humain. OpenAI classe ce modèle au niveau de risque le plus élevé et en limite l'accès.",
-   "r": "Ces outils aident les défenseurs, mais des outils proches finiront chez les pirates. Pour une PME, les correctifs vont arriver plus souvent, et un logiciel pas à jour devient plus dangereux.",
-   "a": "Vérifie avec tes clients que les mises à jour automatiques sont activées sur les PC, le navigateur, la box et le site web.",
-   "url": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
-   "src": "The Register",
-   "en": {
-    "t": "OpenAI launches GPT-6 Cyber, an AI for finding security flaws",
-    "sum": "OpenAI released GPT-6 Cyber, limited to approved security teams. According to OpenAI, researchers used it to find 81 unknown high-severity flaws in Firefox and to build working exploits for 948 Linux flaws, which are being reported with proposed fixes.",
-    "c": "Security-focused AIs now find flaws in bulk, far faster than a human. OpenAI rates this model at its highest risk level and restricts access.",
-    "r": "These tools help defenders, but similar tools will end up with attackers. For a small business, patches will come more often, and outdated software becomes more dangerous.",
-    "a": "Check with your clients that automatic updates are on for their PCs, browser, internet router and website."
-   },
-   "nl": {
-    "t": "OpenAI lanceert GPT-6 Cyber, een AI om beveiligingslekken te vinden",
-    "sum": "OpenAI bracht GPT-6 Cyber uit, alleen voor goedgekeurde beveiligingsteams. Volgens OpenAI vonden onderzoekers er 81 onbekende ernstige lekken in Firefox mee en bouwden ze werkende aanvallen op 948 Linux-lekken, die met voorgestelde oplossingen worden gemeld.",
-    "c": "AI's die gespecialiseerd zijn in beveiliging vinden nu massaal lekken, veel sneller dan een mens. OpenAI plaatst dit model in zijn hoogste risiconiveau en beperkt de toegang.",
-    "r": "Deze tools helpen verdedigers, maar gelijkaardige tools komen ook bij hackers terecht. Voor een kmo komen er vaker updates, en verouderde software wordt gevaarlijker.",
-    "a": "Controleer met je klanten of automatische updates aanstaan op hun pc's, browser, modem en website."
-   }
-  },
-  {
-   "id": "n95",
-   "d": "2026-11-04",
-   "s": "business",
-   "imp": 1,
-   "t": "Uber : seulement 4 courses réservées par un agent IA en une semaine",
-   "sum": "Lors de ses résultats trimestriels, Uber a indiqué que pendant sa semaine la plus chargée d'octobre, seulement 4 courses et environ 500 commandes Uber Eats sont passées par un agent IA, sur quelque 320 millions de trajets et commandes. Son patron parle d'un usage encore très limité.",
-   "c": "Les agents IA qui commandent à ta place existent, mais presque personne ne s'en sert encore. Commander dans l'appli reste plus rapide pour la plupart des gens.",
-   "r": "Pas de panique pour un commerce local : les clients ne passent pas encore leurs commandes via ChatGPT ou Claude. Mieux vaut d'abord soigner sa fiche Google et son site.",
-   "a": "Culture générale : rien à faire.",
-   "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-   "src": "TechCrunch",
-   "en": {
-    "t": "Uber: only 4 rides booked by an AI agent in a week",
-    "sum": "On its quarterly earnings call, Uber said that during its busiest week in October, only 4 rides and about 500 Uber Eats orders came through an AI agent, out of roughly 320 million trips and orders. Its CEO called usage still very limited.",
-    "c": "AI agents that order for you exist, but almost nobody uses them yet. Ordering in the app is still faster for most people.",
-    "r": "No need to panic for a local shop: customers are not yet placing orders through ChatGPT or Claude. Better to polish the Google listing and website first.",
-    "a": "General knowledge: nothing to do."
-   },
-   "nl": {
-    "t": "Uber: slechts 4 ritten geboekt door een AI-agent in een week",
-    "sum": "Bij zijn kwartaalcijfers meldde Uber dat in zijn drukste week van oktober slechts 4 ritten en ongeveer 500 Uber Eats-bestellingen via een AI-agent liepen, op zo'n 320 miljoen ritten en bestellingen. De topman noemt het gebruik nog zeer beperkt.",
-    "c": "AI-agents die voor jou bestellen bestaan, maar bijna niemand gebruikt ze al. Bestellen in de app blijft voor de meeste mensen sneller.",
-    "r": "Geen paniek voor een lokale zaak: klanten bestellen nog niet via ChatGPT of Claude. Werk eerst aan je Google-bedrijfsprofiel en je website.",
-    "a": "Algemene kennis: niets te doen."
    }
   }
  ]
