@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Atlas — le poste de pilotage d'agents IA de Stéphane</title>
+<meta name="description" content="Atlas : un orchestrateur qui pilote plusieurs agents IA en parallèle, sur sa propre machine. Présenté par Stéphane Boelaert, consultant IA.">
+<meta property="og:title" content="Atlas — mes agents IA en orbite">
+<meta property="og:description" content="Un orchestrateur, une équipe d'agents IA, un tableau Kanban. Tout tourne sur ma propre machine.">
+<meta name="theme-color" content="#0a0a0c">
+<style>
+  :root{
+    --noir:#0a0a0c; --noir2:#121216; --ligne:#26262d;
+    --rubis:#c0123c; --rubis-clair:#ff2d5a; --blanc:#f5f5f7; --gris:#a1a1aa;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{background:var(--noir);color:var(--blanc);font-family:"Segoe UI",system-ui,-apple-system,Roboto,sans-serif;line-height:1.6;overflow-x:hidden}
+  a{color:var(--rubis-clair)}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 24px}
+
+  /* Hero */
+  header{position:relative;min-height:92vh;display:flex;align-items:center;border-bottom:1px solid var(--ligne);overflow:hidden}
+  .orbit{position:absolute;right:-180px;top:50%;width:720px;height:720px;transform:translateY(-50%);pointer-events:none;opacity:.9}
+  .orbit circle{fill:none;stroke:var(--ligne);stroke-width:1}
+  .orbit .core{fill:var(--rubis);filter:drop-shadow(0 0 30px var(--rubis))}
+  .orbit .sat{fill:var(--blanc)}
+  .spin{transform-origin:360px 360px;animation:spin linear infinite}
+  .s1{animation-duration:26s}.s2{animation-duration:40s;animation-direction:reverse}.s3{animation-duration:60s}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @media (prefers-reduced-motion:reduce){.spin{animation:none}}
+  .badge{display:inline-block;font-size:.75rem;letter-spacing:.2em;text-transform:uppercase;color:var(--rubis-clair);border:1px solid var(--rubis);padding:6px 12px;border-radius:999px;margin-bottom:24px}
+  h1{font-size:clamp(2.6rem,7vw,5rem);line-height:1.05;font-weight:800;letter-spacing:-.02em;max-width:640px}
+  h1 em{font-style:normal;color:var(--rubis-clair)}
+  .lead{margin-top:20px;font-size:1.2rem;color:var(--gris);max-width:520px}
+  .cta{display:inline-block;margin-top:32px;background:var(--rubis);color:var(--blanc);text-decoration:none;font-weight:600;padding:14px 26px;border-radius:10px;transition:background .2s}
+  .cta:hover{background:var(--rubis-clair)}
+
+  section{padding:96px 0;border-bottom:1px solid var(--ligne)}
+  h2{font-size:clamp(1.8rem,4vw,2.6rem);font-weight:800;letter-spacing:-.01em;margin-bottom:12px}
+  .sub{color:var(--gris);max-width:640px;margin-bottom:48px}
+
+  /* Étapes */
+  .steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:20px;counter-reset:n}
+  .step{background:var(--noir2);border:1px solid var(--ligne);border-radius:14px;padding:28px;position:relative}
+  .step::before{counter-increment:n;content:counter(n,decimal-leading-zero);font-size:.8rem;font-weight:700;color:var(--rubis-clair);letter-spacing:.15em}
+  .step h3{font-size:1.15rem;margin:10px 0 8px}
+  .step p{color:var(--gris);font-size:.95rem}
+
+  /* Capacités */
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:1px;background:var(--ligne);border:1px solid var(--ligne);border-radius:14px;overflow:hidden}
+  .cell{background:var(--noir);padding:28px}
+  .cell h3{font-size:1.05rem;margin-bottom:6px;display:flex;align-items:center;gap:10px}
+  .cell h3::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--rubis);box-shadow:0 0 12px var(--rubis)}
+  .cell p{color:var(--gris);font-size:.95rem}
+
+  /* Pourquoi */
+  .why{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:start}
+  .why ul{list-style:none}
+  .why li{padding:14px 0;border-bottom:1px solid var(--ligne)}
+  .why li strong{color:var(--blanc)}
+  .why li span{color:var(--gris)}
+  .quote{font-size:1.4rem;font-weight:600;line-height:1.4;border-left:3px solid var(--rubis);padding-left:20px}
+  @media (max-width:760px){.why{grid-template-columns:1fr}.orbit{opacity:.35;right:-320px}}
+
+  /* Auteur */
+  .author{display:flex;gap:28px;align-items:center;flex-wrap:wrap}
+  .avatar{width:84px;height:84px;border-radius:50%;background:radial-gradient(circle at 35% 35%,var(--rubis-clair),var(--rubis) 55%,#3a0010);display:grid;place-items:center;font-weight:800;font-size:1.6rem;box-shadow:0 0 40px rgba(192,18,60,.4)}
+  .author p{color:var(--gris);max-width:620px}
+  .author h3{font-size:1.3rem}
+
+  footer{padding:40px 0;color:var(--gris);font-size:.85rem}
+  footer p+p{margin-top:6px}
+</style>
+</head>
+<body>
+
+<header>
+  <svg class="orbit" viewBox="0 0 720 720" aria-hidden="true">
+    <circle cx="360" cy="360" r="120"/><circle cx="360" cy="360" r="210"/><circle cx="360" cy="360" r="300"/>
+    <circle class="core" cx="360" cy="360" r="38"/>
+    <g class="spin s1"><circle class="sat" cx="480" cy="360" r="7"/></g>
+    <g class="spin s2"><circle class="sat" cx="360" cy="150" r="6"/><circle class="sat" cx="150" cy="360" r="5"/></g>
+    <g class="spin s3"><circle class="sat" cx="660" cy="360" r="6"/><circle class="sat" cx="360" cy="660" r="4"/><circle class="sat" cx="148" cy="148" r="5"/></g>
+  </svg>
+  <div class="wrap">
+    <span class="badge">Poste de pilotage agentique</span>
+    <h1>Mes agents IA <em>en orbite.</em></h1>
+    <p class="lead">Atlas, c'est mon chef d'orchestre : je lui confie une mission, il la découpe en tâches et répartit le travail entre plusieurs agents IA, sur ma propre machine.</p>
+    <a class="cta" href="#comment">Voir comment ça marche</a>
+  </div>
+</header>
+
+<section id="comment">
+  <div class="wrap">
+    <h2>Comment ça marche</h2>
+    <p class="sub">On ne jongle plus entre dix fenêtres d'IA. Une seule demande, et l'équipe se met au travail.</p>
+    <div class="steps">
+      <div class="step"><h3>Je décris la mission</h3><p>En français, simplement, comme à un collègue.</p></div>
+      <div class="step"><h3>L'orchestrateur planifie</h3><p>Il propose un plan, je le valide, puis il le découpe en tâches.</p></div>
+      <div class="step"><h3>Les agents travaillent</h3><p>Chaque tâche part chez l'agent le plus adapté, en parallèle, sur un tableau Kanban.</p></div>
+      <div class="step"><h3>Je relis et je décide</h3><p>Rien n'est validé sans mon accord : je garde la main du début à la fin.</p></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>Ce qu'Atlas sait faire</h2>
+    <p class="sub">Une vraie équipe d'agents, avec les bons outils.</p>
+    <div class="grid">
+      <div class="cell"><h3>Plusieurs modèles d'IA</h3><p>Claude, et des dizaines d'autres modèles via OpenRouter : le bon modèle pour chaque tâche, sans exploser le budget.</p></div>
+      <div class="cell"><h3>Tableau Kanban</h3><p>Chaque tâche avance sous mes yeux : à faire, en cours, à relire, terminé.</p></div>
+      <div class="cell"><h3>Des skills sur mesure</h3><p>Des savoir-faire prêts à l'emploi : lire des flux d'actualité, planifier des publications, produire des documents…</p></div>
+      <div class="cell"><h3>Navigateur intégré</h3><p>Les agents peuvent consulter le web pour chercher et vérifier l'information.</p></div>
+      <div class="cell"><h3>Mémoire et routines</h3><p>Atlas retient le contexte et peut lancer des tâches automatiquement, même la nuit.</p></div>
+      <div class="cell"><h3>Chez moi, pas dans le cloud</h3><p>Tout tourne sur ma propre machine, avec mes propres clés. Je garde le contrôle de mes données.</p></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap why">
+    <div>
+      <h2>Pourquoi je l'utilise</h2>
+      <p class="quote">« L'IA ne remplace pas le travail : elle se met au service de quelqu'un qui sait ce qu'il veut. »</p>
+    </div>
+    <ul>
+      <li><strong>Gagner du temps</strong><br><span>Les tâches répétitives se font pendant que je me concentre sur l'essentiel.</span></li>
+      <li><strong>Garder la main</strong><br><span>Chaque étape importante passe par moi avant d'être validée.</span></li>
+      <li><strong>Apprendre en faisant</strong><br><span>Piloter une équipe d'agents, c'est le cœur du métier de consultant IA.</span></li>
+      <li><strong>Rester gratuit et ouvert</strong><br><span>Un outil open source, des modèles gratuits ou peu chers, aucun abonnement imposé.</span></li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <div class="wrap author">
+    <div class="avatar" aria-hidden="true">SB</div>
+    <div>
+      <h3>Stéphane Boelaert</h3>
+      <p>Consultant IA — profil junior. J'apprends et j'expérimente chaque jour avec les agents IA, et je partage ce que je découvre.</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <p>Atlas est basé sur <a href="https://timon-ai.com" rel="noopener">Timon</a>, une station de travail agentique open source (licence AGPL-3.0). Cette page présente mon utilisation personnelle ; elle n'est pas affiliée à l'éditeur.</p>
+    <p>© 2026 Stéphane Boelaert</p>
+  </div>
+</footer>
+
+</body>
+</html>
