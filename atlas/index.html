@@ -67,6 +67,30 @@ nav .links a{color:var(--gris);text-decoration:none}nav .links a:hover{color:var
 .banner .cap p{color:#c8d6f0;max-width:560px}
 @media(max-width:640px){.banner{aspect-ratio:4/5;background-position:30% center}.banner .cap{left:20px;right:20px}}
 
+/* bulle de la perruche */
+.birdzone{position:absolute;right:2%;bottom:2vh;height:min(80vh,780px);aspect-ratio:700/931;z-index:3;cursor:pointer;perspective:900px}
+.birdzone .bird{position:static;height:100%;transition:transform .15s ease-out;animation:none}
+.birdzone .floater{height:100%;animation:float 6s ease-in-out infinite}
+.bubble{position:absolute;left:8%;top:4%;max-width:230px;background:rgba(10,17,34,.92);border:1px solid rgba(62,232,255,.5);color:var(--blanc);padding:12px 16px;border-radius:16px 16px 16px 4px;font-size:.92rem;box-shadow:0 10px 40px -10px rgba(62,232,255,.6);transform-origin:bottom left;transition:opacity .3s,transform .3s}
+.bubble.hide{opacity:0;transform:scale(.8)}
+@media(max-width:1100px){.birdzone{right:-6%;height:66vh}}
+@media(max-width:820px){.birdzone{right:-14%;height:50vh;opacity:.32;bottom:10vh;pointer-events:none}.bubble{display:none}}
+/* démo mission */
+.demo{background:linear-gradient(160deg,rgba(62,232,255,.08),rgba(167,123,255,.06) 60%,transparent);border:1px solid var(--ligne);border-radius:22px;padding:28px}
+.demo form{display:flex;gap:12px;flex-wrap:wrap}
+.demo input{flex:1;min-width:240px;background:var(--noir);border:1px solid var(--ligne);color:var(--blanc);border-radius:12px;padding:15px 18px;font-size:1rem;font-family:inherit;outline:none;transition:border-color .2s,box-shadow .2s}
+.demo input:focus{border-color:var(--rubis2);box-shadow:0 0 0 4px rgba(62,232,255,.12)}
+.demo button{border:0;cursor:pointer;font-family:inherit;font-size:1rem}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0 0}
+.chip{background:var(--noir3);border:1px solid var(--ligne);color:var(--gris);border-radius:999px;padding:6px 14px;font-size:.85rem;cursor:pointer;transition:all .2s}
+.chip:hover{color:var(--blanc);border-color:var(--rubis2)}
+.term{margin-top:22px;background:#030611;border:1px solid var(--ligne);border-radius:14px;padding:18px 20px;font-family:ui-monospace,Consolas,monospace;font-size:.88rem;min-height:150px;color:#b9c7e2;white-space:pre-wrap}
+.term .o{color:var(--rubis2)}.term .v{color:var(--violet)}.term .ok{color:#3ddc84}
+.term .cur{display:inline-block;width:8px;height:1em;background:var(--rubis2);vertical-align:-2px;animation:pulse 1s infinite}
+/* étincelles */
+.spark{position:fixed;width:6px;height:6px;border-radius:50%;pointer-events:none;z-index:50;background:radial-gradient(circle,#fff,#3ee8ff 40%,transparent 70%);animation:spark .8s ease-out forwards}
+@keyframes spark{to{opacity:0;transform:translate(var(--dx),var(--dy)) scale(.2)}}
+
 /* ---------- SECTIONS ---------- */
 section{position:relative;padding:110px 0;border-top:1px solid var(--ligne)}
 .kicker{font-family:ui-monospace,Consolas,monospace;font-size:.75rem;letter-spacing:.2em;color:var(--rubis2);text-transform:uppercase;margin-bottom:12px}
@@ -145,9 +169,12 @@ footer p+p{margin-top:6px}
   <canvas id="scene" aria-hidden="true"></canvas>
   <nav><div class="wrap">
     <a class="brand" href="#"><img src="img/atlas-logo.webp" alt="Logo Atlas" width="44" height="44">ATLAS</a>
-    <div class="links"><a href="#comment">Principe</a><a href="#capacites">Capacités</a><a href="#kanban">En direct</a><a href="#vision">Vision</a></div>
+    <div class="links"><a href="#comment">Principe</a><a href="#capacites">Capacités</a><a href="#essai">Essaie</a><a href="#kanban">En direct</a><a href="#vision">Vision</a></div>
   </div></nav>
-  <img class="bird" src="img/atlas-parakeet.webp" alt="La perruche d'Atlas, perchée sur un globe holographique" width="700" height="931">
+  <div class="birdzone" id="birdzone" title="Clique-moi !">
+    <div class="bubble hide" id="bubble">Salut ! Confie-moi une mission 👋</div>
+    <div class="floater"><img class="bird" id="bird" src="img/atlas-parakeet.webp" alt="La perruche d'Atlas, perchée sur un globe holographique" width="700" height="931"></div>
+  </div>
   <div class="wrap">
     <span class="badge"><i></i>Poste de pilotage agentique</span>
     <h1>Mes agents IA <em>en orbite.</em></h1>
@@ -214,6 +241,29 @@ footer p+p{margin-top:6px}
       <div class="card reveal"><div class="ico"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18"/></svg></div><h3>Navigateur intégré</h3><p>Les agents consultent le web pour chercher et vérifier l'information.</p></div>
       <div class="card reveal"><div class="ico"><svg viewBox="0 0 24 24"><path d="M12 3a9 9 0 1 0 9 9"/><path d="M12 7v5l3 2"/><path d="M17 3l4 0 0 4"/></svg></div><h3>Mémoire et routines</h3><p>Atlas retient le contexte et lance des tâches automatiquement, même la nuit.</p></div>
       <div class="card reveal"><div class="ico"><svg viewBox="0 0 24 24"><rect x="4" y="10" width="16" height="11" rx="2"/><path d="M8 10V7a4 4 0 0 1 8 0v3"/><circle cx="12" cy="15.5" r="1.5"/></svg></div><h3>Chez moi, pas dans le cloud</h3><p>Tout tourne sur ma propre machine, avec mes propres clés. Je garde le contrôle de mes données.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="essai">
+  <div class="wrap">
+    <div class="reveal">
+      <div class="kicker">// À toi de jouer</div>
+      <h2>Confie une mission à Atlas</h2>
+      <p class="sub">Tape une idée : l'orchestrateur la découpe en tâches et les envoie à son équipe, juste en dessous. (Démo simulée dans ton navigateur : rien n'est envoyé.)</p>
+    </div>
+    <div class="demo reveal">
+      <form id="missionForm" autocomplete="off">
+        <input id="missionIn" maxlength="120" placeholder="Ex. : lancer ma page Instagram sur la cuisine belge" aria-label="Ta mission">
+        <button class="cta" type="submit">Lancer la mission 🚀</button>
+      </form>
+      <div class="chips">
+        <span class="chip">Écrire un ebook de 30 pages</span>
+        <span class="chip">Faire ma veille IA de la semaine</span>
+        <span class="chip">Créer une vidéo promo</span>
+        <span class="chip">Refaire le site de mon resto</span>
+      </div>
+      <div class="term" id="term"><span class="o">atlas</span> › en attente d'une mission <span class="cur"></span></div>
     </div>
   </div>
 </section>
@@ -362,7 +412,7 @@ document.querySelectorAll('.card').forEach(c=>c.addEventListener('pointermove',e
 /* ===== Kanban vivant ===== */
 const cols=[...document.querySelectorAll('#board .col')];
 const tasks=[['Résumer les actus IA du jour','Veille'],['Rédiger un post LinkedIn','Rédaction'],['Comparer 3 outils no-code','Recherche'],['Créer un visuel de campagne','Design'],['Corriger un script','Code'],['Relire le compte rendu','Relecture'],['Planifier la semaine de contenu','Rédaction'],['Vérifier les sources d\'un article','Recherche']];
-let done=0, ti=0;
+let done=0, ti=0, missionMode=false;
 function count(){cols.forEach((c,i)=>c.querySelector('span').textContent=c.querySelectorAll('.tk').length);document.getElementById('hudDone').textContent=done;}
 function make(){const [txt,ag]=tasks[ti++%tasks.length];const d=document.createElement('div');d.className='tk';d.innerHTML=`${txt}<small><i></i>Agent ${ag}</small>`;return d;}
 for(let i=0;i<3;i++)cols[0].appendChild(make());
@@ -371,10 +421,54 @@ function tick(){
   // terminé : garder 3 max
   const fin=cols[3].querySelectorAll('.tk');if(fin.length>3)fin[0].remove();
   for(let c=2;c>=0;c--){const t=cols[c].querySelector('.tk');if(t&&(c>0||Math.random()<.9)&&Math.random()<.75){t.remove();const n=t.cloneNode(true);if(c+1===3){n.classList.add('done');done++;}cols[c+1].appendChild(n);break;}}
-  if(cols[0].querySelectorAll('.tk').length<2)cols[0].appendChild(make());
+  if(cols[0].querySelectorAll('.tk').length<2&&(!missionMode||ti<tasks.length))cols[0].appendChild(make());
   count();
 }
 if(!reduce)setInterval(tick,1800);
+
+/* ===== Perruche : inclinaison 3D + bulle ===== */
+const zone=document.getElementById('birdzone'), bird=document.getElementById('bird'), bubble=document.getElementById('bubble');
+const lines=['Salut ! Confie-moi une mission 👋','Je coordonne toute l\'équipe 🌍','Psst… essaie la démo plus bas !','Six agents, zéro pause café ☕','Je ne dors jamais. Enfin… presque 😴','Tout tourne en local, chez Stéphane 🏠'];
+let li2=0;
+function say(txt){bubble.textContent=txt;bubble.classList.remove('hide');clearTimeout(say.t);say.t=setTimeout(()=>bubble.classList.add('hide'),3800);}
+setTimeout(()=>say(lines[0]),1600);
+zone.addEventListener('click',()=>{li2=(li2+1)%lines.length;say(lines[li2]);bird.animate([{transform:'scale(1)'},{transform:'scale(1.06) rotate(-3deg)'},{transform:'scale(1)'}],{duration:400});});
+addEventListener('pointermove',e=>{if(innerWidth<820)return;const x=(e.clientX/innerWidth-.5),y=(e.clientY/innerHeight-.5);bird.style.transform=`rotateY(${x*14}deg) rotateX(${-y*8}deg)`;});
+
+/* ===== Étincelles au curseur ===== */
+let last=0;
+if(matchMedia('(pointer:fine)').matches&&!reduce)addEventListener('pointermove',e=>{const n=performance.now();if(n-last<28)return;last=n;const s=document.createElement('i');s.className='spark';s.style.left=e.clientX-3+'px';s.style.top=e.clientY-3+'px';s.style.setProperty('--dx',(Math.random()-.5)*40+'px');s.style.setProperty('--dy',(Math.random()*30+10)+'px');document.body.appendChild(s);setTimeout(()=>s.remove(),800);});
+
+/* ===== Démo : découper une mission ===== */
+const plans=[
+ [/ebook|livre|roman|histoire|nouvelle/i,[['Définir le plan et les chapitres','Rédaction'],['Rédiger les chapitres','Rédaction'],['Vérifier la cohérence','Relecture'],['Créer la couverture','Design'],['Exporter en PDF et EPUB','Code']]],
+ [/veille|actu|news|tendance/i,[['Lister les sources fiables','Recherche'],['Lire les flux RSS du jour','Veille'],['Trier les infos importantes','Recherche'],['Rédiger le résumé','Rédaction'],['Vérifier les sources','Relecture']]],
+ [/vid[ée]o|youtube|tiktok|reel|clip/i,[['Écrire le script','Rédaction'],['Créer le storyboard','Design'],['Préparer les visuels','Design'],['Rédiger titre et description','Rédaction'],['Relire avant publication','Relecture']]],
+ [/site|page|web|landing|boutique/i,[['Analyser les concurrents','Recherche'],['Écrire les textes','Rédaction'],['Créer la maquette','Design'],['Coder la page','Code'],['Tester sur mobile','Relecture']]],
+ [/insta|linkedin|facebook|post|r[ée]seau|social|campagne/i,[['Étudier l\'audience','Recherche'],['Créer le calendrier de posts','Rédaction'],['Rédiger les légendes','Rédaction'],['Créer les visuels','Design'],['Relire et valider','Relecture']]]
+];
+const generic=[['Comprendre l\'objectif','Recherche'],['Rassembler les informations','Recherche'],['Produire un premier jet','Rédaction'],['Améliorer le rendu','Design'],['Relire et valider','Relecture']];
+const term=document.getElementById('term'), form=document.getElementById('missionForm'), inp=document.getElementById('missionIn');
+document.querySelectorAll('.chip').forEach(c=>c.addEventListener('click',()=>{inp.value=c.textContent;form.requestSubmit();}));
+let busy=false;
+const esc=t=>t.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+form.addEventListener('submit',async e=>{
+  e.preventDefault(); const m=inp.value.trim(); if(!m||busy)return; busy=true;
+  const plan=(plans.find(([re])=>re.test(m))||[0,generic])[1];
+  const wait=ms=>new Promise(r=>setTimeout(r,reduce?0:ms));
+  let html=`<span class="o">toi</span> › ${esc(m)}\n`; term.innerHTML=html+'<span class="cur"></span>';
+  await wait(500); html+=`<span class="o">atlas</span> › j'analyse la mission…\n`; term.innerHTML=html+'<span class="cur"></span>';
+  await wait(900); html+=`<span class="o">atlas</span> › plan en ${plan.length} tâches :\n`; term.innerHTML=html;
+  for(const [i,[t,a]] of plan.entries()){await wait(380);html+=`   <span class="v">${String(i+1).padStart(2,'0')}</span> ${esc(t)}  → agent ${a}\n`;term.innerHTML=html+'<span class="cur"></span>';}
+  await wait(500); html+=`<span class="ok">✓ tâches envoyées au tableau Kanban</span>`; term.innerHTML=html;
+  // remplir le kanban avec la mission
+  cols.forEach(c=>c.querySelectorAll('.tk').forEach(x=>x.remove()));
+  tasks.length=0; plan.forEach(p=>tasks.push(p)); ti=0; missionMode=true;
+  for(let i=0;i<2;i++)cols[0].appendChild(make()); count();
+  say('Mission reçue ! L\'équipe s\'y met 💪');
+  setTimeout(()=>document.getElementById('kanban').scrollIntoView({behavior:'smooth'}),900);
+  busy=false;
+});
 })();
 </script>
 </body>
