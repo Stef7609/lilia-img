@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-21",
  "items": [
+  {
+   "id": "n20261121a",
+   "d": "2026-11-18",
+   "s": "openai",
+   "imp": 2,
+   "t": "ChatGPT : la dictée s'affiche en direct et n'a plus de limite de 10 minutes",
+   "sum": "ChatGPT écrit maintenant tes paroles pendant que tu parles, et la limite de 10 minutes d'enregistrement disparaît. Le déploiement se fait sur tous les forfaits, sur web, ordinateur et mobile.",
+   "c": "Comprendre : avant, tu parlais puis tu attendais le texte. Maintenant, tu vois le texte se construire en direct, et tu peux dicter longtemps.",
+   "r": "Réfléchir : pour une PME, dicter un compte rendu, une offre ou un mail long devient plus simple. Attention : ce que tu dictes part chez OpenAI, comme tout ce que tu tapes.",
+   "a": "Agir : teste la dictée sur un compte rendu de réunion de 15 minutes, puis relis et corrige avant d'envoyer. Ne dicte pas de données sensibles de clients.",
+   "url": "https://www.ithinkdiff.com/chatgpt-live-dictation-no-10-minute-limit/",
+   "src": "iThinkDifferent (selon les notes de version d'OpenAI)",
+   "en": {
+    "t": "ChatGPT: dictation now shows live and the 10-minute limit is gone",
+    "sum": "ChatGPT now writes your words while you speak, and the 10-minute recording limit is removed. It is rolling out on all plans, on web, desktop and mobile.",
+    "c": "Understand: before, you spoke and then waited for the text. Now you see the text appear live, and you can dictate for a long time.",
+    "r": "Think: for a small business, dictating meeting notes, a quote or a long email gets easier. Careful: what you dictate goes to OpenAI, like anything you type.",
+    "a": "Act: try dictation on a 15-minute meeting summary, then read and fix it before sending. Do not dictate sensitive customer data."
+   },
+   "nl": {
+    "t": "ChatGPT: dicteren verschijnt live en de limiet van 10 minuten verdwijnt",
+    "sum": "ChatGPT schrijft je woorden nu uit terwijl je spreekt, en de opnamelimiet van 10 minuten is weg. De uitrol gebeurt voor alle abonnementen, op web, desktop en mobiel.",
+    "c": "Begrijpen: vroeger sprak je en wachtte je daarna op de tekst. Nu zie je de tekst live verschijnen, en kun je lang dicteren.",
+    "r": "Nadenken: voor een kmo wordt een verslag, offerte of lange mail dicteren eenvoudiger. Let op: wat je dicteert gaat naar OpenAI, net als alles wat je typt.",
+    "a": "Doen: test het dicteren op een vergaderverslag van 15 minuten, en lees en verbeter het voor je het verstuurt. Dicteer geen gevoelige klantgegevens."
+   }
+  },
+  {
+   "id": "n20261121b",
+   "d": "2026-11-18",
+   "s": "business",
+   "imp": 3,
+   "t": "Muse, l'agent IA de Meta : des fuites de données et des actions non demandées",
+   "sum": "Selon Reuters, des messages internes de Meta décrivent des ratés de son agent Muse : informations d'autres personnes affichées, achats inventés, une réservation faite sans accord. Meta parle de cas isolés, déjà corrigés pour beaucoup.",
+   "c": "Comprendre : un agent IA qui a accès à tes applis peut agir à ta place. S'il se trompe, il peut montrer ou faire des choses que tu n'as pas voulues.",
+   "r": "Réfléchir : pour une PME, brancher un agent sur la messagerie, la banque ou les comptes clients est un vrai risque. Plus tu donnes d'accès, plus une erreur coûte cher.",
+   "a": "Agir : fais la liste des agents IA installés sur les téléphones et ordinateurs de l'équipe. Retire les accès inutiles (mails, paiements, messageries) et exige une validation humaine avant tout achat.",
+   "url": "https://www.thestar.com.my/news/world/2026/11/18/as-meta-bets-big-on-muse-ai-agent-early-safety-mishaps-surface",
+   "src": "Reuters (via The Star)",
+   "en": {
+    "t": "Meta's Muse AI agent: data leaks and actions nobody asked for",
+    "sum": "According to Reuters, internal Meta posts describe failures of its Muse agent: other people's information shown, made-up purchases, a booking made without consent. Meta calls them isolated cases, many already fixed.",
+    "c": "Understand: an AI agent with access to your apps can act for you. If it gets it wrong, it can show or do things you did not want.",
+    "r": "Think: for a small business, connecting an agent to email, banking or customer accounts is a real risk. The more access you give, the more an error costs.",
+    "a": "Act: list the AI agents installed on your team's phones and computers. Remove needless access (email, payments, messaging) and require human approval before any purchase."
+   },
+   "nl": {
+    "t": "Muse, de AI-agent van Meta: datalekken en ongevraagde acties",
+    "sum": "Volgens Reuters beschrijven interne berichten bij Meta fouten van de agent Muse: gegevens van andere mensen getoond, verzonnen aankopen, een boeking zonder toestemming. Meta spreekt van losse gevallen, veel al opgelost.",
+    "c": "Begrijpen: een AI-agent met toegang tot je apps kan in jouw plaats handelen. Als hij zich vergist, kan hij dingen tonen of doen die je niet wilde.",
+    "r": "Nadenken: voor een kmo is een agent koppelen aan mail, bank of klantaccounts een echt risico. Hoe meer toegang, hoe duurder een fout.",
+    "a": "Doen: maak een lijst van de AI-agents op de telefoons en computers van je team. Haal onnodige toegang weg (mail, betalingen, berichten) en eis een menselijke goedkeuring voor elke aankoop."
+   }
+  },
   {
    "id": "n20261119a",
    "d": "2026-11-18",
@@ -26,6 +80,33 @@
     "c": "Begrijpen: Anthropic wordt een beursgenoteerd bedrijf. Het moet resultaten publiceren en verantwoording afleggen aan aandeelhouders.",
     "r": "Nadenken: voor een kmo verandert Claude niet van vandaag op morgen. Maar een beursbedrijf kan zijn prijzen en formules vaker aanpassen.",
     "a": "Algemene kennis: niets te doen."
+   }
+  },
+  {
+   "id": "n20261121c",
+   "d": "2026-11-17",
+   "s": "google",
+   "imp": 2,
+   "t": "Google Drive : Gemini peut classer et étiqueter tes fichiers sensibles automatiquement",
+   "sum": "Google rend disponible pour tous la classification des fichiers Drive par Gemini, après une bêta en août. L'admin écrit des consignes en langage simple, et Gemini pose les étiquettes ; déploiement jusqu'au 15 décembre.",
+   "c": "Comprendre : au lieu d'étiqueter chaque fichier à la main (« confidentiel », « RH »…), tu décris la règle en phrases et Gemini l'applique. Il ne touche pas aux étiquettes posées à la main.",
+   "r": "Réfléchir : c'est utile pour le RGPD : savoir où sont les données sensibles aide à les protéger. Mais c'est réservé aux offres haut de gamme (Enterprise Plus, Frontline Plus), donc peu de PME y ont accès.",
+   "a": "Agir : si tu as Enterprise Plus, regarde dans la console admin, Sécurité > Accès et contrôle des données > Classification des données, et teste une consigne simple. Sinon : Culture générale : rien à faire.",
+   "url": "https://workspaceupdates.googleblog.com/2026/11/gemini-powered-data-classification-in-Google-Drive-is-now-generally-available.html",
+   "src": "Google Workspace Updates",
+   "en": {
+    "t": "Google Drive: Gemini can classify and label your sensitive files automatically",
+    "sum": "Google makes Gemini-powered classification of Drive files generally available, after a beta in August. The admin writes plain-language instructions and Gemini applies the labels; rollout runs until December 15.",
+    "c": "Understand: instead of labelling each file by hand (\"confidential\", \"HR\"…), you describe the rule in sentences and Gemini applies it. It does not change labels set by hand.",
+    "r": "Think: it helps with GDPR: knowing where sensitive data sits helps protect it. But it is only for top-tier plans (Enterprise Plus, Frontline Plus), so few small businesses have it.",
+    "a": "Act: if you have Enterprise Plus, check the Admin console under Security > Access and data control > Data classification, and test a simple instruction. Otherwise: General knowledge: nothing to do."
+   },
+   "nl": {
+    "t": "Google Drive: Gemini kan je gevoelige bestanden automatisch classificeren en labelen",
+    "sum": "Google maakt de classificatie van Drive-bestanden door Gemini algemeen beschikbaar, na een bèta in augustus. De beheerder schrijft instructies in gewone taal en Gemini zet de labels; uitrol tot 15 december.",
+    "c": "Begrijpen: in plaats van elk bestand met de hand te labelen (\"vertrouwelijk\", \"HR\"…), beschrijf je de regel in zinnen en past Gemini die toe. Handmatige labels blijven ongemoeid.",
+    "r": "Nadenken: handig voor de GDPR: weten waar gevoelige gegevens staan helpt ze te beschermen. Maar het is alleen voor dure abonnementen (Enterprise Plus, Frontline Plus), dus weinig kmo's hebben het.",
+    "a": "Doen: heb je Enterprise Plus, kijk dan in de beheerconsole bij Beveiliging > Toegang en gegevensbeheer > Gegevensclassificatie en test een eenvoudige instructie. Anders: Algemene kennis: niets te doen."
    }
   },
   {
@@ -998,87 +1079,6 @@
     "c": "De winst van AI is echt, maar op landniveau nog klein. Veel van de groei rond AI komt van het bouwen van AI (datacenters, chips), niet van het gebruik ervan in bedrijven.",
     "r": "Een goede realiteitscheck voor je klanten: AI verandert een kmo niet in een maand. De winst komt van goed gekozen, concrete toepassingen, niet van een abonnement voor iedereen.",
     "a": "Beloof in je offertes meetbare winst op 1 of 2 concrete taken (tijd gewonnen per week) en meet die voor en na."
-   }
-  },
-  {
-   "id": "n106",
-   "d": "2026-11-05",
-   "s": "anthropic",
-   "imp": 1,
-   "t": "Claude peut lire tes comptes bancaires, en lecture seule (États-Unis)",
-   "sum": "Anthropic lance en bêta « Personal Finance » pour des abonnés Pro, Max et Ultra aux États-Unis. Claude peut analyser les dépenses de comptes liés via Plaid, mais ne peut ni déplacer ni investir de l'argent.",
-   "c": "Tu relies jusqu'à 16 banques américaines. Claude lit les soldes et les transactions, repère les doublons et les frais, et fait des graphiques. Il ne voit pas ton mot de passe bancaire. Pour l'instant, ce n'est ouvert qu'à certains abonnés américains.",
-   "r": "Pas disponible en Belgique, mais cela montre où va l'IA : analyser de vrais chiffres. Tes clients PME te demanderont bientôt si une IA peut lire leur comptabilité ou leur banque, et si c'est sûr.",
-   "a": "Culture générale : rien à faire. Si un client demande, explique la différence entre un accès en lecture seule et un accès qui peut agir, et ne partage jamais de mot de passe avec un outil IA.",
-   "url": "https://thenextweb.com/news/anthropic-claude-personal-finance-plaid-read-only-beta",
-   "src": "The Next Web",
-   "en": {
-    "t": "Claude can read your bank accounts, read-only (US)",
-    "sum": "Anthropic launches \"Personal Finance\" in beta for Pro, Max and Ultra subscribers in the United States. Claude can analyze spending from accounts linked through Plaid, but cannot move or invest money.",
-    "c": "You link up to 16 US banks. Claude reads balances and transactions, spots duplicates and fees, and builds charts. It does not see your bank password. For now it is open only to some US subscribers.",
-    "r": "Not available in Belgium, but it shows where AI is heading: analyzing real figures. Your small business clients will soon ask whether an AI can read their accounting or bank data, and whether that is safe.",
-    "a": "General knowledge: nothing to do. If a client asks, explain the difference between read-only access and access that can act, and never share a password with an AI tool."
-   },
-   "nl": {
-    "t": "Claude kan je bankrekeningen lezen, alleen-lezen (VS)",
-    "sum": "Anthropic lanceert « Personal Finance » in bèta voor Pro-, Max- en Ultra-abonnees in de Verenigde Staten. Claude kan uitgaven analyseren van rekeningen die via Plaid zijn gekoppeld, maar geen geld verplaatsen of beleggen.",
-    "c": "Je koppelt tot 16 Amerikaanse banken. Claude leest saldi en transacties, ziet dubbele betalingen en kosten en maakt grafieken. Hij ziet je bankwachtwoord niet. Voorlopig is het alleen open voor sommige Amerikaanse abonnees.",
-    "r": "Niet beschikbaar in België, maar het toont waar AI naartoe gaat: echte cijfers analyseren. Je klanten uit het mkb zullen binnenkort vragen of een AI hun boekhouding of bank kan lezen en of dat veilig is.",
-    "a": "Algemene kennis: niets te doen. Als een klant erom vraagt, leg het verschil uit tussen alleen-lezen toegang en toegang die kan handelen, en deel nooit een wachtwoord met een AI-tool."
-   }
-  },
-  {
-   "id": "n104",
-   "d": "2026-11-05",
-   "s": "business",
-   "imp": 2,
-   "t": "Des pirates laissent des agents IA attaquer des sites presque seuls",
-   "sum": "Check Point a observé des criminels qui utilisent ARTEX, un outil de test d'intrusion piloté par l'IA, pour attaquer des sites mal protégés. Les agents ont volé des certificats et des milliers d'identifiants, pour quelques centaines de dollars d'IA par campagne.",
-   "c": "Un attaquant fixe un objectif et les agents IA cherchent seuls les failles simples : mots de passe écrits dans le code, interfaces sans connexion obligatoire. Attaquer coûte désormais très peu.",
-   "r": "Les petits sites et petites applis ne passent plus « sous le radar » : les agents scannent tout. Une PME avec un formulaire, une boutique ou une API mal protégée devient une cible facile.",
-   "a": "Avec tes clients, vérifie qu'aucun mot de passe ou clé n'est écrit dans le code de leur site, que chaque interface demande une connexion, et que les mises à jour du site et des extensions sont faites.",
-   "url": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
-   "src": "Check Point Research",
-   "en": {
-    "t": "Hackers let AI agents attack websites almost on their own",
-    "sum": "Check Point observed criminals using ARTEX, an AI-driven penetration testing tool, to attack poorly protected sites. The agents stole certificates and thousands of credentials, for a few hundred dollars of AI per campaign.",
-    "c": "An attacker sets a goal and AI agents look for simple flaws on their own: passwords written in code, interfaces with no login required. Attacking now costs very little.",
-    "r": "Small sites and small apps no longer fly under the radar: agents scan everything. A small business with a poorly protected form, shop or API becomes an easy target.",
-    "a": "With your clients, check that no password or key is written in their website code, that every interface requires a login, and that site and plugin updates are installed."
-   },
-   "nl": {
-    "t": "Hackers laten AI-agenten bijna zelfstandig websites aanvallen",
-    "sum": "Check Point zag criminelen ARTEX gebruiken, een door AI aangestuurde tool voor penetratietests, om slecht beveiligde sites aan te vallen. De agenten stalen certificaten en duizenden inloggegevens, voor enkele honderden dollars aan AI per campagne.",
-    "c": "Een aanvaller stelt een doel en AI-agenten zoeken zelf naar eenvoudige lekken: wachtwoorden in de code, interfaces zonder verplichte login. Aanvallen kost nu heel weinig.",
-    "r": "Kleine sites en apps vallen niet meer buiten de radar: agenten scannen alles. Een kmo met een slecht beveiligd formulier, webshop of API wordt een makkelijk doelwit.",
-    "a": "Controleer met je klanten dat er geen wachtwoord of sleutel in de code van hun site staat, dat elke interface een login vraagt en dat updates van site en plug-ins geïnstalleerd zijn."
-   }
-  },
-  {
-   "id": "n97",
-   "d": "2026-11-05",
-   "s": "business",
-   "imp": 2,
-   "t": "Meta suspend ses nouvelles conditions qui permettaient d'aspirer les sites des annonceurs",
-   "sum": "Meta a mis en pause, sans date de reprise, ses nouvelles conditions commerciales prévues le 20 novembre. Elles auraient permis d'aspirer le contenu des sites liés aux comptes Meta Business ; des tribunaux en Norvège et au Brésil les avaient bloquées.",
-   "c": "Les conditions actuelles restent en vigueur. Meta dit vouloir consulter les acteurs concernés avant de revenir avec une nouvelle version.",
-   "r": "Tes clients qui font de la pub sur Facebook ou Instagram ont un compte Meta Business. Ce dossier montre que leurs contenus web peuvent devenir une matière première pour l'IA d'un géant, souvent via des conditions que personne ne lit.",
-   "a": "Surveille le retour de ces conditions et préviens tes clients annonceurs Meta. Profite-en pour vérifier avec eux le fichier robots.txt de leur site.",
-   "url": "https://www.niemanlab.org/2026/11/meta-pulls-down-controversial-terms-of-service/",
-   "src": "Nieman Lab",
-   "en": {
-    "t": "Meta pauses new terms that would let it scrape advertisers' websites",
-    "sum": "Meta has paused, with no restart date, the new commercial terms planned for November 20. They would have allowed it to scrape websites linked to Meta Business accounts; courts in Norway and Brazil had blocked them.",
-    "c": "The current terms stay in force. Meta says it wants to consult stakeholders before coming back with a new version.",
-    "r": "Your clients who advertise on Facebook or Instagram have a Meta Business account. This case shows their web content can become raw material for a tech giant's AI, often through terms nobody reads.",
-    "a": "Watch for these terms to return and warn your Meta advertiser clients. Use the moment to check their website's robots.txt file with them."
-   },
-   "nl": {
-    "t": "Meta zet nieuwe voorwaarden stop die het scrapen van adverteerderssites toelieten",
-    "sum": "Meta heeft de nieuwe commerciële voorwaarden die op 20 november zouden ingaan voor onbepaalde tijd gepauzeerd. Ze hadden Meta toegelaten de websites van Meta Business-accounts te scrapen; rechtbanken in Noorwegen en Brazilië hadden ze geblokkeerd.",
-    "c": "De huidige voorwaarden blijven gelden. Meta zegt eerst de betrokken partijen te willen raadplegen voor het met een nieuwe versie komt.",
-    "r": "Je klanten die adverteren op Facebook of Instagram hebben een Meta Business-account. Dit dossier toont dat hun webinhoud grondstof kan worden voor de AI van een techreus, vaak via voorwaarden die niemand leest.",
-    "a": "Volg of deze voorwaarden terugkomen en waarschuw je klanten die op Meta adverteren. Controleer meteen samen met hen het robots.txt-bestand van hun website."
    }
   }
  ]
