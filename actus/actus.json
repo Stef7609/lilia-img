@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "items": [
+  {
+   "id": "n20261122a",
+   "d": "2026-11-19",
+   "s": "europe",
+   "imp": 3,
+   "t": "La Commission européenne visée par une cyberattaque menée avec l'aide de l'IA",
+   "sum": "La Commission confirme une attaque informatique repérée le 22 octobre. Ses outils de paie, de congés et de remboursements médicaux ont été coupés plus de 10 jours. Selon Politico, les pirates utilisaient ARTEX, un outil de piratage gratuit qui s'appuie sur l'IA.",
+   "c": "Comprendre : des outils d'attaque automatisés par l'IA circulent librement. Ils trouvent et exploitent les failles plus vite, même pour des pirates peu doués.",
+   "r": "Réfléchir : si une grande administration est touchée, une PME l'est aussi. Les équipements visibles sur Internet (VPN, pare-feu, serveurs) sont les premières cibles.",
+   "a": "Agir : fais la liste de tes équipements accessibles depuis Internet et installe les mises à jour de sécurité cette semaine. Active la double authentification partout.",
+   "url": "https://therecord.media/european-commission-confirms-cyberattack-using-ai",
+   "src": "The Record",
+   "en": {
+    "t": "European Commission hit by an AI-assisted cyberattack",
+    "sum": "The Commission confirmed a cyberattack first detected on 22 October. Its payroll, leave and medical claims systems were down for over 10 days. According to Politico, the attackers used ARTEX, a free AI-powered hacking tool.",
+    "c": "Understand: automated AI attack tools are freely available. They find and exploit flaws faster, even for low-skilled attackers.",
+    "r": "Think: if a large administration can be hit, so can a small business. Devices exposed to the internet (VPN, firewall, servers) are the first targets.",
+    "a": "Act: list your internet-facing devices and install security updates this week. Turn on two-factor authentication everywhere."
+   },
+   "nl": {
+    "t": "Europese Commissie getroffen door cyberaanval met hulp van AI",
+    "sum": "De Commissie bevestigt een cyberaanval die op 22 oktober werd ontdekt. Haar systemen voor loon, verlof en medische terugbetalingen lagen meer dan 10 dagen plat. Volgens Politico gebruikten de hackers ARTEX, een gratis hacktool met AI.",
+    "c": "Begrijpen: geautomatiseerde aanvalstools met AI zijn vrij beschikbaar. Ze vinden en misbruiken lekken sneller, ook voor minder ervaren hackers.",
+    "r": "Nadenken: als een grote administratie getroffen wordt, kan een kmo dat ook. Toestellen die bereikbaar zijn via internet (VPN, firewall, servers) zijn het eerste doelwit.",
+    "a": "Doen: maak een lijst van je toestellen die via internet bereikbaar zijn en installeer deze week de beveiligingsupdates. Zet overal tweestapsverificatie aan."
+   }
+  },
+  {
+   "id": "n20261122b",
+   "d": "2026-11-19",
+   "s": "business",
+   "imp": 2,
+   "t": "Canva : tu peux maintenant couper les fonctions d'IA générative",
+   "sum": "Canva ajoute un réglage pour désactiver ses outils d'IA générative, comme Magic Write ou Magic Design. Un autre réglage affiche moins de contenus créés par IA dans les résultats de recherche. Le déploiement se fait progressivement.",
+   "c": "Comprendre : sur les comptes Free et Pro, chacun choisit pour lui-même. Sur les comptes Teams, c'est l'administrateur qui décide pour toute l'équipe. Le détourage d'image reste actif.",
+   "r": "Réfléchir : c'est utile si tes clients ou ta charte interdisent les visuels créés par IA. Tu gardes un contrôle clair sur ce que ton équipe produit.",
+   "a": "Agir : si tu utilises Canva Teams, décide avec ton équipe quelles fonctions d'IA garder, puis règle-le dans l'espace administrateur.",
+   "url": "https://petapixel.com/2026/11/19/canva-now-lets-users-turn-off-generative-ai-features/",
+   "src": "PetaPixel",
+   "en": {
+    "t": "Canva now lets you turn off generative AI features",
+    "sum": "Canva is adding a setting to switch off its generative AI tools, such as Magic Write or Magic Design. Another setting shows less AI-made content in search results. The rollout is gradual.",
+    "c": "Understand: on Free and Pro accounts, each user decides for themselves. On Teams accounts, the admin decides for the whole team. Background removal stays on.",
+    "r": "Think: this helps if your clients or your brand rules ban AI-made visuals. You keep clear control over what your team produces.",
+    "a": "Act: if you use Canva Teams, agree with your team which AI features to keep, then set it in the admin area."
+   },
+   "nl": {
+    "t": "Canva: je kunt nu de generatieve AI-functies uitschakelen",
+    "sum": "Canva voegt een instelling toe om zijn generatieve AI-tools uit te zetten, zoals Magic Write of Magic Design. Een andere instelling toont minder AI-inhoud in de zoekresultaten. De uitrol gebeurt geleidelijk.",
+    "c": "Begrijpen: bij Free- en Pro-accounts kiest iedereen voor zichzelf. Bij Teams-accounts beslist de beheerder voor het hele team. Achtergrond verwijderen blijft actief.",
+    "r": "Nadenken: handig als je klanten of je huisstijl geen AI-beelden willen. Je houdt duidelijk controle over wat je team maakt.",
+    "a": "Doen: gebruik je Canva Teams? Spreek met je team af welke AI-functies je houdt en stel dat in bij het beheer."
+   }
+  },
   {
    "id": "n20261121a",
    "d": "2026-11-18",
@@ -1025,60 +1079,6 @@
     "c": "AI-assistenten evolueren van vraag-en-antwoord naar virtuele collega's die een dossier langere tijd opvolgen. Elke agent heeft een eigen rol en opvolging.",
     "r": "Aan die prijs is het vandaag te duur voor de meeste kmo's. Maar je klanten zullen erover horen, en ChatGPT, Claude en Copilot hebben gelijkaardige functies.",
     "a": "Algemene kennis: niets te doen. Wil een klant agenten die continu draaien, vergelijk dan eerst met wat zijn huidige abonnement al toelaat."
-   }
-  },
-  {
-   "id": "n99",
-   "d": "2026-11-06",
-   "s": "business",
-   "imp": 3,
-   "t": "Botpress piraté : des clés d'API stockées dans des chatbots exposées",
-   "sum": "Botpress, une plateforme de création de chatbots, a révélé qu'un intrus a lu la configuration de bots dans 16 espaces clients le 21 octobre, et modifié des réglages dans 2 autres. Ces configurations peuvent contenir des clés d'IA, des jetons de messagerie et des accès CRM.",
-   "c": "Un chatbot garde souvent des « clés » vers d'autres outils (OpenAI, WhatsApp, CRM). Si la plateforme du chatbot est piratée, ces clés peuvent être volées, même si les conversations des clients ne l'ont pas été.",
-   "r": "Beaucoup de PME utilisent des outils no-code pour leur chatbot. Le risque n'est pas seulement le bot : c'est tout ce à quoi il est connecté. Une clé volée peut coûter cher en usage d'IA ou ouvrir l'accès à tes données clients.",
-   "a": "Si un client utilise Botpress, vérifie s'il a été contacté et change toutes les clés stockées dans ses bots. Pour les autres : fais la liste des clés présentes dans chaque chatbot et fixe un plafond de dépenses chez le fournisseur d'IA.",
-   "url": "https://botpress.com/blog/security-incident-disclosure-november-2026",
-   "src": "Botpress",
-   "en": {
-    "t": "Botpress breached: API keys stored in chatbots exposed",
-    "sum": "Botpress, a chatbot-building platform, disclosed that an intruder read bot configurations in 16 customer workspaces on October 21 and changed settings in 2 others. Those configurations can hold AI keys, messaging tokens and CRM credentials.",
-    "c": "A chatbot often stores \"keys\" to other tools (OpenAI, WhatsApp, CRM). If the chatbot platform is hacked, those keys can be stolen, even when customer conversations are not.",
-    "r": "Many small businesses use no-code tools for their chatbot. The risk is not just the bot: it is everything the bot connects to. A stolen key can run up AI costs or open access to customer data.",
-    "a": "If a client uses Botpress, check whether they were contacted and rotate every key stored in their bots. For everyone else: list the keys held in each chatbot and set a spending cap with the AI provider."
-   },
-   "nl": {
-    "t": "Botpress gehackt: API-sleutels in chatbots blootgesteld",
-    "sum": "Botpress, een platform om chatbots te bouwen, meldt dat een indringer op 21 oktober de botconfiguratie van 16 klantomgevingen heeft gelezen en bij 2 andere instellingen heeft gewijzigd. Die configuraties kunnen AI-sleutels, berichtentokens en CRM-toegang bevatten.",
-    "c": "Een chatbot bewaart vaak \"sleutels\" naar andere tools (OpenAI, WhatsApp, CRM). Als het chatbotplatform gehackt wordt, kunnen die sleutels gestolen worden, ook als de klantgesprekken veilig blijven.",
-    "r": "Veel kmo's gebruiken no-codetools voor hun chatbot. Het risico zit niet alleen in de bot, maar in alles waarmee hij verbonden is. Een gestolen sleutel kan veel AI-kosten veroorzaken of toegang geven tot klantgegevens.",
-    "a": "Gebruikt een klant Botpress? Kijk of hij gecontacteerd werd en vervang alle sleutels in zijn bots. Voor de anderen: maak een lijst van de sleutels in elke chatbot en stel een uitgavenlimiet in bij de AI-leverancier."
-   }
-  },
-  {
-   "id": "n98",
-   "d": "2026-11-06",
-   "s": "business",
-   "imp": 2,
-   "t": "Banque d'Angleterre : l'IA n'a ajouté que 0,5 % de productivité en trois ans",
-   "sum": "Dans son rapport de novembre, la Banque d'Angleterre estime que l'IA a relevé la productivité britannique d'environ 0,5 % sur trois ans. Les entreprises sondées espèrent un gain plus net, autour de 0,9 point par an, sur les trois prochaines années.",
-   "c": "Les gains de l'IA sont réels mais encore petits à l'échelle d'un pays. Une grande partie de la croissance liée à l'IA vient de la construction de l'IA (centres de données, puces), pas de son usage dans les entreprises.",
-   "r": "C'est un bon rappel de réalisme pour tes clients : l'IA ne transforme pas une PME en un mois. Les gains viennent de cas précis bien choisis, pas d'un abonnement acheté pour tout le monde.",
-   "a": "Dans tes devis, promets des gains mesurables sur 1 ou 2 tâches précises (temps gagné par semaine), et mesure-les avant et après.",
-   "url": "https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059",
-   "src": "The Register",
-   "en": {
-    "t": "Bank of England: AI added only 0.5% to productivity in three years",
-    "sum": "In its November report, the Bank of England estimates AI has lifted UK productivity by about 0.5% over three years. Surveyed firms expect a bigger gain, around 0.9 points a year, over the next three years.",
-    "c": "AI gains are real but still small at the scale of a whole country. Much of AI-related growth comes from building AI (data centers, chips), not from businesses using it.",
-    "r": "A useful reality check for your clients: AI does not transform a small business in a month. Gains come from well-chosen specific use cases, not from a subscription bought for everyone.",
-    "a": "In your quotes, promise measurable gains on 1 or 2 specific tasks (time saved per week), and measure them before and after."
-   },
-   "nl": {
-    "t": "Bank of England: AI leverde in drie jaar maar 0,5 % productiviteit op",
-    "sum": "In haar rapport van november schat de Bank of England dat AI de Britse productiviteit in drie jaar met ongeveer 0,5 % heeft verhoogd. De bevraagde bedrijven verwachten de komende drie jaar een grotere winst, rond 0,9 punt per jaar.",
-    "c": "De winst van AI is echt, maar op landniveau nog klein. Veel van de groei rond AI komt van het bouwen van AI (datacenters, chips), niet van het gebruik ervan in bedrijven.",
-    "r": "Een goede realiteitscheck voor je klanten: AI verandert een kmo niet in een maand. De winst komt van goed gekozen, concrete toepassingen, niet van een abonnement voor iedereen.",
-    "a": "Beloof in je offertes meetbare winst op 1 of 2 concrete taken (tijd gewonnen per week) en meet die voor en na."
    }
   }
  ]
