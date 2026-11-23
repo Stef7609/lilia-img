@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "items": [
+  {
+   "id": "n20261123a",
+   "d": "2026-11-22",
+   "s": "europe",
+   "imp": 2,
+   "t": "AI Act : deux nouvelles interdictions et le marquage des contenus IA dès le 2 décembre",
+   "sum": "Le 2 décembre 2026, l'AI Act interdit les outils qui créent des images intimes sans consentement ou des contenus pédocriminels. Le même jour, les outils d'IA générative déjà vendus avant août 2026 doivent marquer leurs contenus de façon lisible par une machine.",
+   "c": "Comprendre : le marquage vise d'abord les fournisseurs d'outils (OpenAI, Google, etc.). Les règles « haut risque » restent reportées à décembre 2027. La réforme du RGPD et des cookies, elle, n'est pas encore votée : les règles actuelles s'appliquent toujours.",
+   "r": "Réfléchir : une PME qui utilise ChatGPT ou Canva n'a presque rien à faire. Mais si tu publies des images ou vidéos créées par IA, l'obligation de les signaler comme telles reste en place depuis août 2026.",
+   "a": "Agir : fais la liste des outils IA qui créent des images, des vidéos ou des textes publiés chez toi. Demande par écrit à tes fournisseurs s'ils respectent le marquage AI Act.",
+   "url": "https://kohenavocats.fr/2026/11/22/digital-omnibus-ia-2-decembre-2026-reforme-rgpd-cookies-ce-qui-change-entreprise",
+   "src": "Kohen Avocats",
+   "en": {
+    "t": "AI Act: two new bans and AI content marking from 2 December",
+    "sum": "On 2 December 2026, the AI Act bans tools that create non-consensual intimate images or child sexual abuse material. On the same day, generative AI tools already sold before August 2026 must mark their content in a machine-readable way.",
+    "c": "Understand: marking mainly applies to tool providers (OpenAI, Google, etc.). The \"high-risk\" rules are still postponed to December 2027. The GDPR and cookie reform has not been voted yet: current rules still apply.",
+    "r": "Think: a small business using ChatGPT or Canva has almost nothing to do. But if you publish AI-made images or videos, the duty to label them has applied since August 2026.",
+    "a": "Act: list the AI tools that create images, videos or texts you publish. Ask your providers in writing whether they comply with AI Act marking."
+   },
+   "nl": {
+    "t": "AI Act: twee nieuwe verboden en markering van AI-inhoud vanaf 2 december",
+    "sum": "Op 2 december 2026 verbiedt de AI Act tools die intieme beelden zonder toestemming of kindermisbruikmateriaal maken. Op dezelfde dag moeten generatieve AI-tools die al vóór augustus 2026 verkocht werden, hun inhoud machineleesbaar markeren.",
+    "c": "Begrijpen: de markering geldt vooral voor de aanbieders van tools (OpenAI, Google enz.). De regels voor \"hoog risico\" blijven uitgesteld tot december 2027. De hervorming van de AVG en de cookies is nog niet gestemd: de huidige regels blijven gelden.",
+    "r": "Nadenken: een kmo die ChatGPT of Canva gebruikt, moet bijna niets doen. Maar publiceer je beelden of video's gemaakt met AI, dan moet je dat sinds augustus 2026 al vermelden.",
+    "a": "Doen: maak een lijst van de AI-tools die beelden, video's of teksten maken die je publiceert. Vraag je leveranciers schriftelijk of ze de markering van de AI Act naleven."
+   }
+  },
+  {
+   "id": "n20261123b",
+   "d": "2026-11-21",
+   "s": "openai",
+   "imp": 2,
+   "t": "ChatGPT en panne pendant 3 h 30 : jusqu'à 75 % des demandes en échec",
+   "sum": "Le 21 novembre, ChatGPT et l'API d'OpenAI ont mal fonctionné pendant environ 3 h 30, en matinée en Europe. Selon OpenAI, une maintenance de base de données a fait tomber le système de connexion. Jusqu'à 75 % des demandes ont échoué, pour les comptes gratuits comme payants.",
+   "c": "Comprendre : un seul incident technique chez OpenAI a bloqué la connexion, les conversations, l'envoi de fichiers et les outils branchés sur l'API. OpenAI dit avoir suspendu ce type de maintenance et renforcé ses secours.",
+   "r": "Réfléchir : si ton équipe ou un outil client dépend de ChatGPT, une panne de quelques heures peut bloquer le travail. Les gros fournisseurs d'IA tombent aussi en panne.",
+   "a": "Agir : prévois un plan B simple, par exemple un deuxième assistant (Claude, Gemini, Copilot ou Mistral) déjà configuré. Garde tes prompts importants dans un document à part.",
+   "url": "https://aiweekly.co/alerts/openai-postgres-replica-failure-peaked-api-chatgpt-errors-at-75",
+   "src": "AI Weekly (d'après la page de statut d'OpenAI)",
+   "en": {
+    "t": "ChatGPT down for 3.5 hours: up to 75% of requests failed",
+    "sum": "On 21 November, ChatGPT and the OpenAI API had problems for about 3.5 hours, in the European morning. According to OpenAI, database maintenance took down the login system. Up to 75% of requests failed, for free and paid accounts alike.",
+    "c": "Understand: one technical incident at OpenAI blocked logins, chats, file uploads and tools built on the API. OpenAI says it paused this kind of maintenance and improved its backups.",
+    "r": "Think: if your team or a customer tool relies on ChatGPT, a few hours of outage can stop work. Big AI providers go down too.",
+    "a": "Act: set up a simple plan B, such as a second assistant (Claude, Gemini, Copilot or Mistral) ready to use. Keep your key prompts in a separate document."
+   },
+   "nl": {
+    "t": "ChatGPT 3,5 uur in storing: tot 75 % van de verzoeken mislukt",
+    "sum": "Op 21 november werkten ChatGPT en de API van OpenAI ongeveer 3,5 uur slecht, in de Europese ochtend. Volgens OpenAI legde onderhoud aan een database het inlogsysteem plat. Tot 75 % van de verzoeken mislukte, voor gratis en betalende accounts.",
+    "c": "Begrijpen: één technisch incident bij OpenAI blokkeerde het inloggen, de gesprekken, het uploaden van bestanden en tools die op de API draaien. OpenAI zegt dat het dit soort onderhoud heeft stopgezet en zijn back-ups versterkt.",
+    "r": "Nadenken: als je team of een klanttool op ChatGPT steunt, kan een storing van enkele uren het werk stilleggen. Ook grote AI-aanbieders vallen uit.",
+    "a": "Doen: voorzie een eenvoudig plan B, bijvoorbeeld een tweede assistent (Claude, Gemini, Copilot of Mistral) die al klaarstaat. Bewaar je belangrijke prompts in een apart document."
+   }
+  },
   {
    "id": "n20261122a",
    "d": "2026-11-19",
@@ -1025,60 +1079,6 @@
     "c": "In plaats van alles zelf te bouwen, stel je een agent in (bijvoorbeeld een assistent die e-mails of mappen leest) en het platform doet de rest. Jij bepaalt wat hij mag doen en welke acties jouw goedkeuring nodig hebben. Voor deze toevoegingen zijn nog geen prijs of beschikbaarheidsdatum gepubliceerd.",
     "r": "Het is een Europese optie, handig voor een klant die data in eigen beheer wil houden. Voor een kleine onderneming loopt het vooral via een leverancier: het platform richt zich eerst op grote bedrijven en ontwikkelaars.",
     "a": "Algemene kennis: niets te doen. Houd Mistral in gedachten voor een klant die vraagt \"blijven mijn gegevens in Europa?\", en controleer prijs en beschikbaarheid later."
-   }
-  },
-  {
-   "id": "n102",
-   "d": "2026-11-06",
-   "s": "europe",
-   "imp": 2,
-   "t": "Les Pays-Bas présentent leur vision de l'IA, avec une attention aux PME",
-   "sum": "Le gouvernement néerlandais a adopté une vision de l'IA axée sur un usage responsable et une moindre dépendance aux géants étrangers. Il veut lever les freins qui empêchent les PME d'utiliser l'IA et étudie la création d'un institut de sécurité de l'IA.",
-   "c": "Le pays voisin prévoit un plan pour la puissance de calcul début 2027, des espaces d'essai encadrés pour appliquer l'AI Act et un pacte avec les médias. Les mesures concrètes pour les PME ne sont pas encore détaillées.",
-   "r": "Les PME belges qui travaillent avec des partenaires néerlandais vont entendre parler de « souveraineté » et d'IA européenne. C'est aussi un signal : les pouvoirs publics veulent pousser les petites entreprises à adopter l'IA.",
-   "a": "Culture générale : rien à faire. Garde un œil sur les aides et espaces d'essai annoncés, une piste à comparer avec ce que proposent la Flandre et la Wallonie.",
-   "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/kabinet-kiest-voor-ai-die-nederland-vooruithelpt",
-   "src": "Rijksoverheid",
-   "en": {
-    "t": "The Netherlands presents its AI vision, with attention to SMEs",
-    "sum": "The Dutch government adopted an AI vision focused on responsible use and less dependence on foreign tech giants. It wants to remove barriers that stop small businesses from using AI and is exploring an AI safety institute.",
-    "c": "The neighbouring country plans a computing-capacity plan in early 2027, supervised test spaces to apply the AI Act, and a pact with the media. Concrete measures for SMEs are not detailed yet.",
-    "r": "Belgian SMEs working with Dutch partners will hear more about 'sovereignty' and European AI. It is also a signal: governments want to push small businesses to adopt AI.",
-    "a": "General knowledge: nothing to do. Keep an eye on the support schemes and test spaces announced, and compare them with what Flanders and Wallonia offer."
-   },
-   "nl": {
-    "t": "Nederland stelt zijn AI-visie voor, met aandacht voor het mkb",
-    "sum": "Het Nederlandse kabinet keurde een AI-visie goed die draait om verantwoord gebruik en minder afhankelijkheid van buitenlandse techreuzen. Het wil drempels wegnemen die kleine bedrijven tegenhouden om AI te gebruiken en onderzoekt een AI-veiligheidsinstituut.",
-    "c": "Onze noorderburen plannen begin 2027 een plan voor rekenkracht, begeleide proefruimtes om de AI Act toe te passen en een pact met de media. Concrete maatregelen voor het mkb zijn er nog niet.",
-    "r": "Belgische kmo's die met Nederlandse partners werken, zullen meer horen over 'soevereiniteit' en Europese AI. Het is ook een signaal: overheden willen kleine bedrijven richting AI duwen.",
-    "a": "Algemene kennis: niets te doen. Volg de aangekondigde steun en proefruimtes op en vergelijk ze met wat Vlaanderen en Wallonië aanbieden."
-   }
-  },
-  {
-   "id": "n103",
-   "d": "2026-11-06",
-   "s": "business",
-   "imp": 1,
-   "t": "Perplexity lance « Teammates », des agents IA qui travaillent en continu",
-   "sum": "Perplexity propose des agents qui gèrent des tâches de fond 24 h sur 24, peuvent se répartir le travail et te préviennent quand une décision est nécessaire. C'est réservé à l'abonnement Max, à 200 dollars par mois.",
-   "c": "Les assistants IA passent du mode « question-réponse » à des collègues virtuels qui suivent un dossier dans la durée. Chaque agent a son rôle et son suivi.",
-   "r": "À ce prix, c'est trop cher pour la plupart des PME aujourd'hui. Mais tes clients vont en entendre parler, et ChatGPT, Claude et Copilot proposent des fonctions proches.",
-   "a": "Culture générale : rien à faire. Si un client veut des agents qui tournent en continu, compare d'abord avec ce que son abonnement actuel permet déjà.",
-   "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
-   "src": "Engadget",
-   "en": {
-    "t": "Perplexity launches 'Teammates', AI agents that work around the clock",
-    "sum": "Perplexity offers agents that handle background tasks 24/7, can split work between themselves and notify you when a decision is needed. It is limited to the Max plan, at $200 a month.",
-    "c": "AI assistants are moving from question-and-answer to virtual coworkers that follow a project over time. Each agent has its own role and progress view.",
-    "r": "At this price it is too expensive for most small businesses today. But your clients will hear about it, and ChatGPT, Claude and Copilot offer similar features.",
-    "a": "General knowledge: nothing to do. If a client wants always-on agents, first compare with what their current subscription already allows."
-   },
-   "nl": {
-    "t": "Perplexity lanceert 'Teammates', AI-agenten die non-stop werken",
-    "sum": "Perplexity biedt agenten die 24 uur op 24 achtergrondtaken uitvoeren, het werk onderling kunnen verdelen en je verwittigen als er een beslissing nodig is. Het is enkel beschikbaar in het Max-abonnement van 200 dollar per maand.",
-    "c": "AI-assistenten evolueren van vraag-en-antwoord naar virtuele collega's die een dossier langere tijd opvolgen. Elke agent heeft een eigen rol en opvolging.",
-    "r": "Aan die prijs is het vandaag te duur voor de meeste kmo's. Maar je klanten zullen erover horen, en ChatGPT, Claude en Copilot hebben gelijkaardige functies.",
-    "a": "Algemene kennis: niets te doen. Wil een klant agenten die continu draaien, vergelijk dan eerst met wat zijn huidige abonnement al toelaat."
    }
   }
  ]
