@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "items": [
+  {
+   "id": "n20261124a",
+   "d": "2026-11-23",
+   "s": "openai",
+   "imp": 2,
+   "t": "ChatGPT : GPT-6.2 Sol arrive dans les discussions, GPT-5.6 part le 23 décembre",
+   "sum": "Depuis le 23 novembre, les abonnés Plus, Pro, Business et Enterprise ont une version de GPT-6.2 Sol réglée pour les conversations de tous les jours. Selon OpenAI, GPT-5.6 Sol et GPT-5.6 Terra seront retirés de ChatGPT le 23 décembre 2026.",
+   "c": "Comprendre : selon les tests d'OpenAI, le modèle suit mieux les consignes détaillées et lit mieux les photos. Les comptes gratuits et Go ne l'ont pas encore. En Enterprise, c'est l'administrateur qui l'active.",
+   "r": "Réfléchir : si ton équipe a des consignes ou des GPT réglés sur GPT-5.6, les réponses vont changer d'ici un mois. Mieux vaut tester avant que l'ancien modèle disparaisse.",
+   "a": "Agir : avant le 23 décembre, relance tes 3 prompts les plus utilisés avec le nouveau modèle et compare les réponses.",
+   "url": "https://www.digitaltrends.com/computing/chatgpt-is-getting-a-chat-tuned-gpt-6-2-sol-and-it-can-offer-to-watch-for-a-price-drop/",
+   "src": "Digital Trends",
+   "en": {
+    "t": "ChatGPT: GPT-6.2 Sol comes to chats, GPT-5.6 leaves on 23 December",
+    "sum": "Since 23 November, Plus, Pro, Business and Enterprise subscribers get a version of GPT-6.2 Sol tuned for everyday conversations. According to OpenAI, GPT-5.6 Sol and GPT-5.6 Terra will be removed from ChatGPT on 23 December 2026.",
+    "c": "Understand: according to OpenAI's own tests, the model follows detailed instructions better and reads photos better. Free and Go accounts don't have it yet. On Enterprise, the admin turns it on.",
+    "r": "Think: if your team has instructions or GPTs tuned on GPT-5.6, answers will change within a month. Better to test before the old model disappears.",
+    "a": "Act: before 23 December, rerun your 3 most used prompts with the new model and compare the answers."
+   },
+   "nl": {
+    "t": "ChatGPT: GPT-6.2 Sol komt naar de chats, GPT-5.6 verdwijnt op 23 december",
+    "sum": "Sinds 23 november krijgen Plus-, Pro-, Business- en Enterprise-abonnees een versie van GPT-6.2 Sol die afgesteld is op gewone gesprekken. Volgens OpenAI verdwijnen GPT-5.6 Sol en GPT-5.6 Terra op 23 december 2026 uit ChatGPT.",
+    "c": "Begrijpen: volgens OpenAI's eigen tests volgt het model gedetailleerde instructies beter en leest het foto's beter. Gratis en Go-accounts hebben het nog niet. Bij Enterprise zet de beheerder het aan.",
+    "r": "Nadenken: heeft je team instructies of GPT's die op GPT-5.6 afgesteld zijn? Dan veranderen de antwoorden binnen een maand. Test dus voor het oude model verdwijnt.",
+    "a": "Doen: herhaal voor 23 december je 3 meest gebruikte prompts met het nieuwe model en vergelijk de antwoorden."
+   }
+  },
+  {
+   "id": "n20261124b",
+   "d": "2026-11-23",
+   "s": "anthropic",
+   "imp": 1,
+   "t": "Claude Ship : des agents qui relisent et corrigent le code sur GitHub",
+   "sum": "Anthropic propose en bêta Claude Ship, trois agents pour GitHub : un qui relit le code, un qui corrige selon les remarques, et un qui valide les petits changements selon tes règles. C'est réservé aux offres Claude Team et Enterprise.",
+   "c": "Comprendre : les changements sensibles demandent toujours un humain, et la fusion du code reste aux personnes. C'est facturé à l'usage, avec un plafond mensuel réglable. Anthropic prévient que l'outil peut rater des bugs ou des failles.",
+   "r": "Réfléchir : utile seulement si ta PME (ou ton prestataire) développe un logiciel ou un site sur GitHub. Sinon, ça ne te concerne pas.",
+   "a": "Agir : si tu as du code sur GitHub, teste d'abord la relecture sur un seul projet, avec un plafond de dépense bas. Sinon, Culture générale : rien à faire.",
+   "url": "https://claude.com/product/claude-ship",
+   "src": "Anthropic",
+   "en": {
+    "t": "Claude Ship: agents that review and fix code on GitHub",
+    "sum": "Anthropic is offering Claude Ship in beta: three agents for GitHub. One reviews code, one fixes it based on feedback, and one approves small changes according to your rules. It is only for Claude Team and Enterprise plans.",
+    "c": "Understand: sensitive changes still need a human, and merging stays with people. It is billed by usage, with a monthly cap you can set. Anthropic warns the tool can miss bugs or security flaws.",
+    "r": "Think: only useful if your SME (or your provider) builds software or a website on GitHub. Otherwise it doesn't concern you.",
+    "a": "Act: if you have code on GitHub, first try the review on one project with a low spending cap. Otherwise, general knowledge: nothing to do."
+   },
+   "nl": {
+    "t": "Claude Ship: agents die code nalezen en verbeteren op GitHub",
+    "sum": "Anthropic biedt Claude Ship in bèta aan: drie agents voor GitHub. Eén leest de code na, één verbetert ze op basis van opmerkingen, en één keurt kleine wijzigingen goed volgens jouw regels. Alleen voor Claude Team en Enterprise.",
+    "c": "Begrijpen: gevoelige wijzigingen vragen nog altijd een mens, en het samenvoegen van code blijft bij mensen. Je betaalt per gebruik, met een maandelijks plafond dat je zelf instelt. Anthropic waarschuwt dat de tool bugs of lekken kan missen.",
+    "r": "Nadenken: alleen nuttig als je kmo (of je leverancier) software of een website op GitHub bouwt. Anders gaat het jou niet aan.",
+    "a": "Doen: heb je code op GitHub, test dan eerst het nalezen op één project met een laag uitgavenplafond. Anders: algemene kennis, niets te doen."
+   }
+  },
   {
    "id": "n20261123a",
    "d": "2026-11-22",
@@ -1025,60 +1079,6 @@
     "c": "Een AI-assistent die in je mappen mag schrijven, kan ook bestanden wissen, zelfs bij een onschuldige taak. De precieze oorzaak is niet bekend en Anthropic gaf geen reactie.",
     "r": "Je kmo-klanten laten AI steeds vaker alleen aan hun bestanden werken (Cowork, Copilot, agents). Zonder back-up kan zo'n fout jaren werk kosten.",
     "a": "Voor een klant bestanden aan een AI-agent geeft: controleer of er een back-up met versiegeschiedenis is (OneDrive, Dropbox, Google Drive), laat de AI op een kopie werken en geef enkel toegang tot de nodige map."
-   }
-  },
-  {
-   "id": "n101",
-   "d": "2026-11-07",
-   "s": "business",
-   "imp": 2,
-   "t": "Elvis et Eminem attaquent Suno, le générateur de musique par IA",
-   "sum": "Les ayants droit d'Elvis Presley et l'éditeur musical d'Eminem ont porté plainte aux États-Unis contre Suno. Ils l'accusent d'avoir entraîné son IA sur leurs chansons sans accord et de permettre d'imiter la voix et le style des artistes.",
-   "c": "Les procès contre les outils de musique IA se multiplient. La question n'est plus seulement la copie d'une chanson, mais aussi l'imitation d'une voix ou d'un style connu.",
-   "r": "Beaucoup de PME utilisent de la musique IA pour leurs vidéos et pubs. Une musique qui imite un artiste célèbre peut poser problème, et les conditions de ces outils peuvent changer après un procès.",
-   "a": "Conseille à tes clients de ne jamais demander « à la manière de » un artiste connu, de lire les droits commerciaux de leur abonnement Suno ou Udio, et de garder une trace de chaque musique utilisée en pub.",
-   "url": "https://tribune.com.pk/story/2639163/elvis-presley-rights-holders-and-eminems-publisher-sue-ai-music-generator-suno",
-   "src": "The Express Tribune",
-   "en": {
-    "t": "Elvis and Eminem rights holders sue AI music generator Suno",
-    "sum": "Elvis Presley's rights holders and Eminem's music publisher have filed lawsuits in the US against Suno. They accuse it of training its AI on their songs without permission and of letting users imitate the artists' voice and style.",
-    "c": "Lawsuits against AI music tools keep piling up. The issue is no longer just copying a song, but also imitating a famous voice or style.",
-    "r": "Many small businesses use AI music for their videos and ads. A track that imitates a famous artist can cause trouble, and these tools' terms may change after a lawsuit.",
-    "a": "Tell your clients never to ask for music 'in the style of' a known artist, to read the commercial rights in their Suno or Udio plan, and to keep a record of every track used in an ad."
-   },
-   "nl": {
-    "t": "Elvis en Eminem slepen AI-muziekgenerator Suno voor de rechter",
-    "sum": "De rechthebbenden van Elvis Presley en de muziekuitgever van Eminem hebben in de VS een klacht ingediend tegen Suno. Ze beschuldigen het bedrijf ervan zijn AI zonder toestemming op hun nummers te trainen en gebruikers de stem en stijl van de artiesten te laten nabootsen.",
-    "c": "Rechtszaken tegen AI-muziektools stapelen zich op. Het gaat niet meer alleen om het kopiëren van een nummer, maar ook om het nabootsen van een bekende stem of stijl.",
-    "r": "Veel kmo's gebruiken AI-muziek voor hun video's en advertenties. Muziek die een bekende artiest nabootst kan problemen geven, en de voorwaarden van zulke tools kunnen na een rechtszaak veranderen.",
-    "a": "Raad je klanten aan nooit muziek 'in de stijl van' een bekende artiest te vragen, de commerciële rechten van hun Suno- of Udio-abonnement te lezen en elk nummer dat in een advertentie gebruikt wordt bij te houden."
-   }
-  },
-  {
-   "id": "n105",
-   "d": "2026-11-06",
-   "s": "mistral",
-   "imp": 2,
-   "t": "Mistral Studio : des agents IA prêts à l'emploi pour les entreprises",
-   "sum": "Mistral, l'entreprise française d'IA, ajoute à sa plateforme Studio des agents gérés, des applications hébergées avec accès contrôlé et des flux de travail déclenchés par des événements. Les modèles peuvent tourner chez le client, sur site ou chez Mistral.",
-   "c": "Au lieu de tout construire toi-même, tu configures un agent (par exemple un assistant qui lit les e-mails ou les dossiers) et la plateforme s'occupe du reste. Tu choisis ce qu'il a le droit de faire et les actions qui demandent ton accord. Pas de prix ni de date de disponibilité publiés pour ces nouveautés.",
-   "r": "C'est une option européenne, utile pour un client qui veut garder ses données chez lui. Pour une PME, ce sera surtout intéressant via un prestataire : la plateforme vise d'abord les grandes entreprises et les développeurs.",
-   "a": "Culture générale : rien à faire. Garde Mistral en tête pour un client qui pose la question « mes données restent-elles en Europe ? », et reviens vérifier prix et disponibilité plus tard.",
-   "url": "https://mistral.ai/news/build-with-studio/",
-   "src": "Mistral AI",
-   "en": {
-    "t": "Mistral Studio: ready-to-use AI agents for companies",
-    "sum": "Mistral, the French AI company, adds managed agents, hosted apps with access control and event-triggered workflows to its Studio platform. Models can run at the customer's site, on premises or at Mistral.",
-    "c": "Instead of building everything yourself, you set up an agent (for example an assistant that reads emails or folders) and the platform handles the rest. You choose what it may do and which actions need your approval. No price or availability date has been published for these additions.",
-    "r": "It is a European option, useful for a client who wants to keep data in-house. For a small business it will mostly come through a provider: the platform targets large companies and developers first.",
-    "a": "General knowledge: nothing to do. Keep Mistral in mind for a client asking \"does my data stay in Europe?\", and check price and availability later."
-   },
-   "nl": {
-    "t": "Mistral Studio: kant-en-klare AI-agenten voor bedrijven",
-    "sum": "Mistral, het Franse AI-bedrijf, voegt aan zijn Studio-platform beheerde agenten, gehoste apps met toegangscontrole en door gebeurtenissen gestarte workflows toe. De modellen kunnen bij de klant, on-premises of bij Mistral draaien.",
-    "c": "In plaats van alles zelf te bouwen, stel je een agent in (bijvoorbeeld een assistent die e-mails of mappen leest) en het platform doet de rest. Jij bepaalt wat hij mag doen en welke acties jouw goedkeuring nodig hebben. Voor deze toevoegingen zijn nog geen prijs of beschikbaarheidsdatum gepubliceerd.",
-    "r": "Het is een Europese optie, handig voor een klant die data in eigen beheer wil houden. Voor een kleine onderneming loopt het vooral via een leverancier: het platform richt zich eerst op grote bedrijven en ontwikkelaars.",
-    "a": "Algemene kennis: niets te doen. Houd Mistral in gedachten voor een klant die vraagt \"blijven mijn gegevens in Europa?\", en controleer prijs en beschikbaarheid later."
    }
   }
  ]
