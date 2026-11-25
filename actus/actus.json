@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "items": [
+  {
+   "id": "n20261125a",
+   "d": "2026-11-23",
+   "s": "google",
+   "imp": 2,
+   "t": "Recherche Google : le mode IA peut lire ton Drive et ton Wallet",
+   "sum": "Google étend la « Personal Intelligence » du mode IA de la recherche à Google Drive et Google Wallet. Le lien avec l'app Gemini suivra dans les prochaines semaines.",
+   "c": "Comprendre : si tu connectes ces services, les réponses du mode IA s'appuient sur tes fichiers Drive et tes cartes ou billets Wallet, en plus de Gmail, Agenda et Photos. C'est optionnel, et l'accès au Wallet est en lecture seule.",
+   "r": "Réfléchir : un employé qui travaille sur un compte Google perso peut, sans le savoir, mettre des documents de l'entreprise dans les réponses de l'IA. Clarifie quels comptes servent aux fichiers pro.",
+   "a": "Agir : vérifie les apps connectées sur myactivity.google.com/search-services/apps et déconnecte celles qui contiennent des données de clients.",
+   "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+   "src": "TechCrunch",
+   "en": {
+    "t": "Google Search: AI Mode can now read your Drive and Wallet",
+    "sum": "Google is extending Personal Intelligence in Search's AI Mode to Google Drive and Google Wallet. The link with the Gemini app follows in the coming weeks.",
+    "c": "Understand: if you connect these services, AI Mode answers draw on your Drive files and your Wallet cards or tickets, on top of Gmail, Calendar and Photos. It is optional, and Wallet access is read-only.",
+    "r": "Think: an employee using a personal Google account may unknowingly feed company documents into AI answers. Make clear which accounts hold work files.",
+    "a": "Act: check connected apps at myactivity.google.com/search-services/apps and disconnect any that hold client data."
+   },
+   "nl": {
+    "t": "Google Zoeken: de AI-modus kan je Drive en Wallet lezen",
+    "sum": "Google breidt Personal Intelligence in de AI-modus van Zoeken uit naar Google Drive en Google Wallet. De koppeling met de Gemini-app volgt in de komende weken.",
+    "c": "Begrijpen: als je die diensten koppelt, gebruiken de antwoorden van de AI-modus je Drive-bestanden en je kaarten of tickets in Wallet, naast Gmail, Agenda en Foto's. Het is optioneel en Wallet is alleen-lezen.",
+    "r": "Nadenken: een medewerker met een persoonlijk Google-account kan zonder het te weten bedrijfsdocumenten in AI-antwoorden laten belanden. Spreek af welke accounts voor werkbestanden dienen in je kmo.",
+    "a": "Doen: controleer de gekoppelde apps op myactivity.google.com/search-services/apps en ontkoppel wat klantgegevens bevat."
+   }
+  },
+  {
+   "id": "n20261125b",
+   "d": "2026-11-23",
+   "s": "openai",
+   "imp": 1,
+   "t": "Shirudo : OpenAI et Cisco lancent un bouclier gratuit contre les failles sous Linux",
+   "sum": "OpenAI et Cisco publient Shirudo, un outil open source qui bloque une faille sur un serveur Linux en marche, sans redémarrage, en attendant le correctif. Selon OpenAI, son IA Codex a déjà écrit un tel « bouclier » lors d'un test.",
+   "c": "Comprendre : l'outil pose une protection temporaire sur le chemin qu'emprunte une attaque. Un humain valide chaque bouclier avant son activation. Les gains annoncés viennent d'OpenAI et Cisco, sans test indépendant pour l'instant.",
+   "r": "Réfléchir : les attaques arrivent de plus en plus vite après l'annonce d'une faille, souvent avec l'aide de l'IA. Pour une PME, le vrai sujet reste la vitesse d'application des mises à jour.",
+   "a": "Agir : si un prestataire gère tes serveurs, demande-lui en combien de temps il applique un correctif critique.",
+   "url": "https://openai.com/index/introducing-shirudo/",
+   "src": "OpenAI",
+   "en": {
+    "t": "Shirudo: OpenAI and Cisco launch a free shield against Linux flaws",
+    "sum": "OpenAI and Cisco released Shirudo, an open-source tool that blocks a flaw on a running Linux server, with no restart, until the patch lands. According to OpenAI, its Codex AI already wrote such a shield in a test.",
+    "c": "Understand: the tool places a temporary block on the path an attack uses. A human approves each shield before it goes live. The claimed results come from OpenAI and Cisco, with no independent testing yet.",
+    "r": "Think: attacks now follow flaw disclosures faster and faster, often with AI help. For a small business, the real issue is still how fast updates get applied.",
+    "a": "Act: if a provider manages your servers, ask how quickly they apply a critical patch."
+   },
+   "nl": {
+    "t": "Shirudo: OpenAI en Cisco lanceren een gratis schild tegen Linux-lekken",
+    "sum": "OpenAI en Cisco brengen Shirudo uit, een opensourcetool die een lek op een draaiende Linux-server blokkeert, zonder herstart, tot de patch er is. Volgens OpenAI schreef zijn AI Codex al zo'n schild tijdens een test.",
+    "c": "Begrijpen: de tool zet een tijdelijke blokkade op de weg die een aanval neemt. Een mens keurt elk schild goed voor het actief wordt. De beloofde resultaten komen van OpenAI en Cisco, zonder onafhankelijke test.",
+    "r": "Nadenken: aanvallen volgen steeds sneller op de bekendmaking van een lek, vaak met hulp van AI. Voor een kmo blijft de echte vraag hoe snel updates worden geïnstalleerd.",
+    "a": "Doen: beheert een leverancier je servers? Vraag hoe snel hij een kritieke patch installeert."
+   }
+  },
   {
    "id": "n20261124a",
    "d": "2026-11-23",
@@ -1025,60 +1079,6 @@
     "c": "Het bestand .claude/settings.local.json wordt niet aan de .gitignore van het project toegevoegd, dus het kan samen met de rest van de code op GitHub belanden. Het achteraf verwijderen volstaat niet: de git-geschiedenis bewaart een kopie. Er is geen reactie van Anthropic gemeld.",
     "r": "Als je met Claude Code tools bouwt voor je klanten, kan een databasewachtwoord of API-sleutel online terechtkomen zonder dat iemand het merkt. Voor een kmo is dat een open deur naar haar gegevens.",
     "a": "Voeg in elk project .claude/settings.local.json toe aan de .gitignore, zoek dit bestand in je repositories en wijzig elk wachtwoord of elke sleutel die erin stond. Typ nooit meer een geheim rechtstreeks in een commando: gebruik een omgevingsvariabele."
-   }
-  },
-  {
-   "id": "n109",
-   "d": "2026-11-07",
-   "s": "anthropic",
-   "imp": 1,
-   "t": "Abonnements Claude Max : un juge laisse avancer un recours collectif",
-   "sum": "Un juge fédéral de Californie a estimé que la promesse « 5 ou 20 fois plus d'utilisation » des forfaits Claude Max à 100 et 200 dollars pouvait plausiblement induire les abonnés en erreur. Une partie des plaintes, dont la rupture de contrat, peut donc continuer.",
-   "c": "Les plaignants calculent que, pour un modèle, le forfait à 200 dollars donne environ 6 fois l'usage hebdomadaire de Pro, et celui à 100 dollars environ 3,5 fois. Le juge trouve l'explication des limites trop difficile à trouver sur le site. D'autres plaintes ont été rejetées et rien n'est encore jugé sur le fond.",
-   "r": "Les limites d'usage des abonnements IA restent floues, chez Anthropic comme ailleurs. Un client qui paie un forfait plus cher n'obtient pas forcément ce qu'il imagine.",
-   "a": "Quand tu conseilles un abonnement à un client, teste d'abord son usage réel pendant une semaine sur le forfait de base avant de recommander un forfait plus cher.",
-   "url": "https://thenextweb.com/news/anthropic-claude-max-lawsuit-ruling-usage-claims",
-   "src": "The Next Web",
-   "en": {
-    "t": "Claude Max plans: a judge lets a class action move forward",
-    "sum": "A federal judge in California found that the « 5x or 20x more usage » promise of the $100 and $200 Claude Max plans could plausibly mislead subscribers. Part of the claims, including breach of contract, can therefore continue.",
-    "c": "The plaintiffs calculate that, for one model, the $200 plan gives about 6 times Pro's weekly usage and the $100 plan about 3.5 times. The judge found the explanation of the limits too hard to find on the website. Other claims were dismissed and nothing has been decided on the merits yet.",
-    "r": "Usage limits on AI subscriptions remain unclear, at Anthropic and elsewhere. A client who pays for a more expensive plan does not necessarily get what they expect.",
-    "a": "When you recommend a subscription to a client, first test their real usage for a week on the basic plan before suggesting a more expensive one."
-   },
-   "nl": {
-    "t": "Claude Max-abonnementen: rechter laat groepsvordering doorgaan",
-    "sum": "Een federale rechter in Californië oordeelde dat de belofte « 5 of 20 keer meer gebruik » van de Claude Max-abonnementen van 100 en 200 dollar abonnees plausibel kon misleiden. Een deel van de klachten, waaronder contractbreuk, kan dus doorgaan.",
-    "c": "De eisers berekenen dat het abonnement van 200 dollar voor één model ongeveer 6 keer het wekelijkse gebruik van Pro geeft, en dat van 100 dollar ongeveer 3,5 keer. De rechter vond de uitleg over de limieten te moeilijk te vinden op de website. Andere klachten werden afgewezen en ten gronde is nog niets beslist.",
-    "r": "Gebruikslimieten van AI-abonnementen blijven vaag, bij Anthropic en elders. Een klant die een duurder abonnement betaalt, krijgt niet altijd wat hij verwacht.",
-    "a": "Als je een klant een abonnement aanraadt, test dan eerst een week zijn echte gebruik op het basisabonnement voordat je een duurder abonnement voorstelt."
-   }
-  },
-  {
-   "id": "n100",
-   "d": "2026-11-07",
-   "s": "anthropic",
-   "imp": 3,
-   "t": "Claude efface les notes de cours d'un professeur pendant une tâche simple",
-   "sum": "Un professeur de droit de l'Université de Chicago a demandé à Claude de corriger des numéros de page. Pendant sa pause de midi, Claude a supprimé son syllabus et un an de notes de cours. Il a tout récupéré grâce à l'historique de Dropbox.",
-   "c": "Un assistant IA qui a le droit d'écrire dans tes dossiers peut aussi supprimer des fichiers, même pour une tâche anodine. La cause exacte n'est pas connue, et Anthropic n'a pas commenté.",
-   "r": "Tes clients PME commencent à laisser l'IA travailler seule sur leurs fichiers (Cowork, Copilot, agents). Sans sauvegarde, une erreur de ce type peut faire perdre des années de travail.",
-   "a": "Avant de laisser un client confier des fichiers à un agent IA : vérifie qu'il a une sauvegarde avec historique (OneDrive, Dropbox, Google Drive), fais travailler l'IA sur une copie et ne lui donne accès qu'au dossier utile.",
-   "url": "https://www.dexerto.com/entertainment/professor-returns-from-lunch-to-find-ai-deleted-years-worth-of-lecture-notes-3425652/",
-   "src": "Dexerto",
-   "en": {
-    "t": "Claude deletes a professor's lecture notes during a simple task",
-    "sum": "A University of Chicago law professor asked Claude to fix page numbers. During his lunch break, Claude deleted his syllabus and a year of lecture notes. He got everything back through Dropbox's history.",
-    "c": "An AI assistant allowed to write in your folders can also delete files, even during a harmless task. The exact cause is unknown, and Anthropic has not commented.",
-    "r": "Your small business clients are starting to let AI work alone on their files (Cowork, Copilot, agents). Without a backup, a mistake like this can wipe out years of work.",
-    "a": "Before a client hands files to an AI agent: check they have a backup with version history (OneDrive, Dropbox, Google Drive), let the AI work on a copy, and give it access only to the folder it needs."
-   },
-   "nl": {
-    "t": "Claude wist de cursusnotities van een professor tijdens een eenvoudige taak",
-    "sum": "Een rechtenprofessor van de Universiteit van Chicago vroeg Claude om paginanummers aan te passen. Tijdens zijn middagpauze wiste Claude zijn syllabus en een jaar aan cursusnotities. Hij kreeg alles terug via de geschiedenis van Dropbox.",
-    "c": "Een AI-assistent die in je mappen mag schrijven, kan ook bestanden wissen, zelfs bij een onschuldige taak. De precieze oorzaak is niet bekend en Anthropic gaf geen reactie.",
-    "r": "Je kmo-klanten laten AI steeds vaker alleen aan hun bestanden werken (Cowork, Copilot, agents). Zonder back-up kan zo'n fout jaren werk kosten.",
-    "a": "Voor een klant bestanden aan een AI-agent geeft: controleer of er een back-up met versiegeschiedenis is (OneDrive, Dropbox, Google Drive), laat de AI op een kopie werken en geef enkel toegang tot de nodige map."
    }
   }
  ]
