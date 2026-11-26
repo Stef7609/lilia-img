@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "items": [
+  {
+   "id": "n20261126a",
+   "d": "2026-11-25",
+   "s": "anthropic",
+   "imp": 2,
+   "t": "Claude : tes artifacts s'installent comme de vraies apps sur ton ordinateur",
+   "sum": "Dans Claude Desktop (Mac et Windows), un artifact peut maintenant s'installer comme une app, en bêta et sur tous les forfaits. Tu choisis son niveau d'accès, jusqu'à l'accès complet à l'ordinateur.",
+   "c": "Comprendre : un petit outil créé avec Claude (un calculateur, un tableau de suivi) devient une app avec son icône et ses mises à jour. Le niveau « accès complet » lui permet de lancer des programmes et de modifier ou supprimer des fichiers sans te demander.",
+   "r": "Réfléchir : une PME peut se créer des petits outils maison sans développeur. Mais une app mal réglée peut toucher à tes fichiers, et chaque usage compte dans tes limites Claude.",
+   "a": "Agir : si tu testes, garde le niveau d'accès par défaut. N'accorde jamais l'accès complet sur un poste qui contient des données clients.",
+   "url": "https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/",
+   "src": "MacRumors",
+   "en": {
+    "t": "Claude: your artifacts can now be installed as real desktop apps",
+    "sum": "In Claude Desktop (Mac and Windows), an artifact can now be installed as an app, in beta and on all plans. You choose its access level, up to full computer access.",
+    "c": "Understand: a small tool built with Claude (a calculator, a tracker) becomes an app with its own icon and updates. The full access level lets it launch programs and change or delete files without asking you.",
+    "r": "Think: a small business can build simple in-house tools without a developer. But a badly configured app can touch your files, and every use counts toward your Claude limits.",
+    "a": "Act: if you try it, keep the default access level. Never grant full access on a computer that holds customer data."
+   },
+   "nl": {
+    "t": "Claude: je artifacts installeer je nu als echte apps op je computer",
+    "sum": "In Claude Desktop (Mac en Windows) kan je een artifact nu als app installeren, in bèta en voor alle abonnementen. Je kiest zelf het toegangsniveau, tot volledige toegang tot je computer.",
+    "c": "Begrijpen: een kleine tool die je met Claude maakte (een rekenmodule, een opvolgingslijst) wordt een app met eigen icoon en updates. Met volledige toegang kan ze programma's starten en bestanden wijzigen of wissen zonder te vragen.",
+    "r": "Nadenken: een kmo kan zo eenvoudige interne tools maken zonder ontwikkelaar. Maar een slecht ingestelde app kan aan je bestanden komen, en elk gebruik telt mee in je Claude-limieten.",
+    "a": "Doen: test je het, hou dan het standaard toegangsniveau. Geef nooit volledige toegang op een computer met klantgegevens."
+   }
+  },
+  {
+   "id": "n20261126b",
+   "d": "2026-11-24",
+   "s": "business",
+   "imp": 2,
+   "t": "Un agent IA de piratage a trouvé et exploité une faille inconnue en 11 minutes",
+   "sum": "Selon Amazon, des pirates ont utilisé Cairn, un agent IA open source, pour attaquer des universités en septembre. Avec très peu d'aide humaine, il a exploité une faille encore inconnue d'une application médicale.",
+   "c": "Comprendre : l'humain a surtout donné un objectif simple, l'agent a cherché et attaqué seul. La faille a depuis été corrigée. Ces détails viennent uniquement du rapport d'Amazon.",
+   "r": "Réfléchir : les attaques deviennent plus rapides et moins chères. Un logiciel exposé sur Internet et jamais mis à jour devient une cible facile, même pour une petite structure.",
+   "a": "Agir : fais la liste des logiciels et serveurs de ta PME visibles depuis Internet, active les mises à jour automatiques et coupe ce qui ne sert plus.",
+   "url": "https://gizmodo.com/amazon-says-open-source-ai-agent-mostly-autonomously-exploited-a-zero-day-2000844891",
+   "src": "Gizmodo",
+   "en": {
+    "t": "An AI hacking agent found and exploited an unknown flaw in 11 minutes",
+    "sum": "According to Amazon, attackers used Cairn, an open-source AI agent, to target universities in September. With very little human help, it exploited a previously unknown flaw in a medical imaging app.",
+    "c": "Understand: the human mostly gave a simple goal; the agent searched and attacked on its own. The flaw has since been fixed. These details come only from Amazon's report.",
+    "r": "Think: attacks are getting faster and cheaper. Software exposed to the internet and never updated becomes an easy target, even for a small business.",
+    "a": "Act: list your company's software and servers reachable from the internet, turn on automatic updates and switch off what you no longer use."
+   },
+   "nl": {
+    "t": "Een AI-hackagent vond en misbruikte een onbekend lek in 11 minuten",
+    "sum": "Volgens Amazon gebruikten hackers Cairn, een open source AI-agent, om in september universiteiten aan te vallen. Met heel weinig menselijke hulp misbruikte hij een nog onbekend lek in een medische app.",
+    "c": "Begrijpen: de mens gaf vooral een eenvoudig doel, de agent zocht en viel zelf aan. Het lek is intussen gedicht. Deze details komen enkel uit het rapport van Amazon.",
+    "r": "Nadenken: aanvallen worden sneller en goedkoper. Software die via internet bereikbaar is en nooit wordt bijgewerkt, is een makkelijk doelwit, ook voor een kleine kmo.",
+    "a": "Doen: maak een lijst van de software en servers van je kmo die via internet bereikbaar zijn, zet automatische updates aan en schakel uit wat je niet meer gebruikt."
+   }
+  },
   {
    "id": "n20261125a",
    "d": "2026-11-23",
@@ -1025,60 +1079,6 @@
     "c": "Anthropic heeft nu twee niveaus: Opus 5.5 voor het dagelijkse werk, Fable 5.2 voor de moeilijkste taken.",
     "r": "Voor je kmo-klanten is de juiste reflex niet « altijd het grootste model »: Fable is duurder en dient vooral voor complexe code, financiën en wetenschap. Op de Pro- en Team-abonnementen is Fable beperkt tot een deel van het wekelijkse gebruik.",
     "a": "Doe een kleine test: dezelfde taak van een klant (een rapport, een analyse) met Opus 5.5 en daarna met Fable 5.2, en noteer het verschil in kwaliteit en tijd."
-   }
-  },
-  {
-   "id": "n20261113e",
-   "d": "2026-11-09",
-   "s": "google",
-   "imp": 2,
-   "t": "Google Workspace : les « skills » permettent de partager des instructions Gemini dans toute l'équipe",
-   "sum": "Google déploie les skills dans Workspace : des instructions réutilisables, avec modèles et fichiers de référence, qu'on crée dans Workspace Studio ou Google Docs et qu'on utilise dans Gmail, Docs, Slides, Drive et Chat. Elles sont activées par défaut, en anglais seulement, à partir du 9 novembre (Rapid Release) et du 30 novembre (Scheduled Release).",
-   "c": "Une skill, c'est une « recette » écrite une fois, par exemple « rédige une offre selon notre modèle », que toute l'équipe peut réutiliser.",
-   "r": "C'est exactement le genre de chose qu'un consultant peut construire pour une PME. Mais les skills ne fonctionnent qu'en anglais pour l'instant, et pas encore dans Sheets ni Meet.",
-   "a": "Choisis une tâche répétitive chez un client sous Google Workspace (devis, réponse type) et écris-en une première skill à tester.",
-   "url": "http://workspaceupdates.googleblog.com/2026/11/skills-in-workspace.html",
-   "src": "Google Workspace Updates",
-   "en": {
-    "t": "Google Workspace: « skills » let the whole team share Gemini instructions",
-    "sum": "Google is rolling out skills in Workspace: reusable instructions, with templates and reference files, created in Workspace Studio or Google Docs and used in Gmail, Docs, Slides, Drive and Chat. They are on by default, English only, from 9 November (Rapid Release) and 30 November (Scheduled Release).",
-    "c": "A skill is a « recipe » written once, for example « write a quote using our template », that the whole team can reuse.",
-    "r": "This is exactly the kind of thing a consultant can build for an SME. But skills only work in English for now, and not yet in Sheets or Meet.",
-    "a": "Pick a repetitive task at a client using Google Workspace (quotes, standard replies) and write a first skill to test."
-   },
-   "nl": {
-    "t": "Google Workspace: met « skills » deelt het hele team Gemini-instructies",
-    "sum": "Google rolt skills uit in Workspace: herbruikbare instructies, met sjablonen en referentiebestanden, die je maakt in Workspace Studio of Google Docs en gebruikt in Gmail, Docs, Slides, Drive en Chat. Ze staan standaard aan, alleen in het Engels, vanaf 9 november (Rapid Release) en 30 november (Scheduled Release).",
-    "c": "Een skill is een « recept » dat je één keer schrijft, bijvoorbeeld « schrijf een offerte volgens ons sjabloon », en dat het hele team kan hergebruiken.",
-    "r": "Dat is precies iets wat een consultant voor een kmo kan bouwen. Maar skills werken voorlopig alleen in het Engels, en nog niet in Sheets of Meet.",
-    "a": "Kies een repetitieve taak bij een klant met Google Workspace (offertes, standaardantwoorden) en schrijf er een eerste skill voor om te testen."
-   }
-  },
-  {
-   "id": "n108",
-   "d": "2026-11-07",
-   "s": "anthropic",
-   "imp": 2,
-   "t": "Claude Code : l'option « ne plus demander » peut exposer tes mots de passe",
-   "sum": "Selon la société de sécurité Apiiro, quand tu choisis « Oui, et ne plus demander » dans Claude Code, la commande approuvée est enregistrée telle quelle dans un fichier du projet, avec les mots de passe qu'elle contient. Apiiro a trouvé plus de 2 500 secrets dans près de 2 000 dépôts publics sur GitHub.",
-   "c": "Le fichier .claude/settings.local.json n'est pas ajouté au .gitignore du projet, donc il peut partir sur GitHub avec le reste du code. Le supprimer ensuite ne suffit pas : l'historique git en garde une copie. Aucune réponse d'Anthropic n'est signalée.",
-   "r": "Si tu crées des outils pour tes clients avec Claude Code, un mot de passe de base de données ou une clé d'API peut se retrouver en ligne sans que personne ne le voie. Pour une PME, c'est une porte ouverte sur ses données.",
-   "a": "Dans chaque projet, ajoute .claude/settings.local.json au .gitignore, cherche ce fichier dans tes dépôts et change tout mot de passe ou clé qu'il a contenu. Ne tape plus jamais un secret directement dans une commande : utilise une variable d'environnement.",
-   "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-   "src": "The Hacker News",
-   "en": {
-    "t": "Claude Code: the « don't ask again » option can expose your passwords",
-    "sum": "According to security firm Apiiro, when you pick « Yes, and don't ask again » in Claude Code, the approved command is saved as is in a project file, including any passwords in it. Apiiro found more than 2,500 secrets in nearly 2,000 public GitHub repositories.",
-    "c": "The .claude/settings.local.json file is not added to the project's .gitignore, so it can be pushed to GitHub with the rest of the code. Deleting it afterwards is not enough: git history keeps a copy. No response from Anthropic has been reported.",
-    "r": "If you build tools for your clients with Claude Code, a database password or an API key can end up online without anyone noticing. For a small business, that is an open door to its data.",
-    "a": "In every project, add .claude/settings.local.json to .gitignore, look for this file in your repositories and change any password or key it ever held. Never type a secret directly into a command again: use an environment variable."
-   },
-   "nl": {
-    "t": "Claude Code: de optie « niet meer vragen » kan je wachtwoorden blootstellen",
-    "sum": "Volgens beveiligingsbedrijf Apiiro wordt, als je in Claude Code « Ja, en niet meer vragen » kiest, het goedgekeurde commando ongewijzigd in een projectbestand opgeslagen, met de wachtwoorden die erin staan. Apiiro vond meer dan 2.500 geheimen in bijna 2.000 openbare GitHub-repositories.",
-    "c": "Het bestand .claude/settings.local.json wordt niet aan de .gitignore van het project toegevoegd, dus het kan samen met de rest van de code op GitHub belanden. Het achteraf verwijderen volstaat niet: de git-geschiedenis bewaart een kopie. Er is geen reactie van Anthropic gemeld.",
-    "r": "Als je met Claude Code tools bouwt voor je klanten, kan een databasewachtwoord of API-sleutel online terechtkomen zonder dat iemand het merkt. Voor een kmo is dat een open deur naar haar gegevens.",
-    "a": "Voeg in elk project .claude/settings.local.json toe aan de .gitignore, zoek dit bestand in je repositories en wijzig elk wachtwoord of elke sleutel die erin stond. Typ nooit meer een geheim rechtstreeks in een commando: gebruik een omgevingsvariabele."
    }
   }
  ]
