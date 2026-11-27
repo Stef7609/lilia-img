@@ -1,6 +1,87 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "items": [
+  {
+   "id": "n20261127a",
+   "d": "2026-11-26",
+   "s": "business",
+   "imp": 3,
+   "t": "Suisse : des agents IA ont servi dans cinq cyberattaques, quatre ont réussi",
+   "sum": "Selon l'Office fédéral suisse de la cybersécurité (OFCS), cinq attaques récentes contre des entreprises et des services essentiels ont utilisé des agents IA. Quatre ont réussi à pénétrer les systèmes.",
+   "c": "Comprendre : un agent IA enchaîne seul les étapes d'une attaque, très vite. Parmi les cibles, il y avait des fournisseurs d'électricité, d'eau et de télécoms. L'office n'a pas dit qui est derrière.",
+   "r": "Réfléchir : la Suisse est tout près de nous. Ces attaques vont plus vite qu'un humain, donc une faille non corrigée peut être exploitée en quelques minutes, même dans une petite structure.",
+   "a": "Agir : fais les mises à jour en attente cette semaine, active la double authentification partout et prévois un test de sécurité régulier, comme le conseille l'office suisse.",
+   "url": "https://kfgo.com/2026/11/26/ai-agents-used-in-five-cyber-attacks-in-switzerland-government-says/",
+   "src": "Reuters (via KFGO)",
+   "en": {
+    "t": "Switzerland: AI agents were used in five cyberattacks, four succeeded",
+    "sum": "According to the Swiss Federal Office for Cybersecurity (BACS), five recent attacks on companies and essential services used AI agents. Four managed to break into systems.",
+    "c": "Understand: an AI agent chains the steps of an attack on its own, very fast. Targets included electricity, water and telecom providers. The office did not say who is behind it.",
+    "r": "Think: Switzerland is close to us. These attacks move faster than a human, so an unpatched flaw can be exploited within minutes, even in a small business.",
+    "a": "Act: install pending updates this week, turn on two-factor authentication everywhere and plan a regular security test, as the Swiss office advises."
+   },
+   "nl": {
+    "t": "Zwitserland: AI-agents gebruikt bij vijf cyberaanvallen, vier geslaagd",
+    "sum": "Volgens het Zwitserse federale bureau voor cyberveiligheid (BACS) gebruikten vijf recente aanvallen op bedrijven en essentiële diensten AI-agents. Vier ervan drongen de systemen binnen.",
+    "c": "Begrijpen: een AI-agent voert zelf de stappen van een aanval uit, en dat razendsnel. Onder de doelwitten waren leveranciers van elektriciteit, water en telecom. Wie erachter zit, is niet bekend.",
+    "r": "Nadenken: Zwitserland ligt dichtbij. Deze aanvallen gaan sneller dan een mens, dus een niet-gepatcht lek kan binnen enkele minuten misbruikt worden, ook bij een kleine kmo.",
+    "a": "Doen: installeer deze week de openstaande updates, zet overal tweestapsverificatie aan en plan een regelmatige beveiligingstest, zoals het Zwitserse bureau aanraadt."
+   }
+  },
+  {
+   "id": "n20261127c",
+   "d": "2026-11-25",
+   "s": "openai",
+   "imp": 2,
+   "t": "ChatGPT : Chat et Work partagent bientôt les mêmes limites d'usage",
+   "sum": "OpenAI commence à fusionner les modes Chat et Work de ChatGPT avec un seul compteur d'usage, d'abord chez quelques abonnés Pro. Le déploiement plus large est prévu en décembre.",
+   "c": "Comprendre : tes discussions et tes tâches Work puiseront dans la même réserve. Le modèle Instant reste illimité et ne compte pas. Selon OpenAI, la plupart des gens ne verront pas de différence, mais les plus gros utilisateurs atteindront leur limite plus tôt.",
+   "r": "Réfléchir : si ton équipe utilise beaucoup Work pour des tâches longues, le même abonnement pourrait en faire moins. Mieux vaut le savoir avant de compter dessus pour un travail urgent.",
+   "a": "Agir : en décembre, regarde ton compteur d'usage dans ChatGPT. Pour les questions simples, passe sur Instant afin de garder ta réserve pour le travail important.",
+   "url": "https://aiagentnews.io/stories/openai-merges-chatgpt-chat-and-work-warns-heavy-users-may-hit-limits-sooner",
+   "src": "AI Agent News (d'après TechCrunch)",
+   "en": {
+    "t": "ChatGPT: Chat and Work will soon share the same usage limits",
+    "sum": "OpenAI is starting to merge ChatGPT's Chat and Work modes under a single usage meter, first for a few Pro subscribers. A wider rollout is planned for December.",
+    "c": "Understand: your chats and your Work tasks will draw from the same allowance. The Instant model stays unlimited and does not count. According to OpenAI, most people won't notice, but the heaviest users will hit their limit sooner.",
+    "r": "Think: if your team uses Work a lot for long tasks, the same subscription could do less. Better to know before relying on it for urgent work.",
+    "a": "Act: in December, check your usage meter in ChatGPT. Use Instant for simple questions to save your allowance for important work."
+   },
+   "nl": {
+    "t": "ChatGPT: Chat en Work delen binnenkort dezelfde gebruikslimieten",
+    "sum": "OpenAI begint de modi Chat en Work van ChatGPT samen te voegen onder één gebruiksteller, eerst bij enkele Pro-abonnees. Een bredere uitrol is gepland voor december.",
+    "c": "Begrijpen: je gesprekken en je Work-taken putten uit hetzelfde tegoed. Het Instant-model blijft onbeperkt en telt niet mee. Volgens OpenAI merken de meeste mensen niets, maar zware gebruikers bereiken hun limiet sneller.",
+    "r": "Nadenken: gebruikt je team Work veel voor lange taken, dan kan hetzelfde abonnement minder opleveren. Weet dat voor je erop rekent voor dringend werk.",
+    "a": "Doen: kijk in december naar je gebruiksteller in ChatGPT. Gebruik Instant voor eenvoudige vragen, zo hou je je tegoed over voor belangrijk werk."
+   }
+  },
+  {
+   "id": "n20261127b",
+   "d": "2026-11-25",
+   "s": "microsoft",
+   "imp": 2,
+   "t": "Microsoft : des pirates d'État attaquent avec ARTEX, un outil IA ultra-rapide",
+   "sum": "Selon Microsoft, des groupes de pirates liés à la Chine et à la Corée du Nord utilisent ARTEX. Cet outil IA automatise plusieurs étapes d'une intrusion et peut obtenir un accès privilégié en quelques minutes.",
+   "c": "Comprendre : ARTEX n'invente pas de nouvelles techniques, il va juste beaucoup plus vite. Son code circule en ligne, donc d'autres pirates peuvent s'en servir. Microsoft conseille de surveiller les rafales de connexions anormales venant d'une seule source.",
+   "r": "Réfléchir : les grandes cibles ne sont pas les seules visées. Un fournisseur informatique piraté peut ouvrir la porte de ses clients PME, comme dans une attaque déjà signalée contre ConnectWise.",
+   "a": "Agir : demande à ton prestataire informatique s'il surveille les comportements suspects (et pas seulement les adresses connues), et vérifie qui a encore un accès à distance à tes machines.",
+   "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
+   "src": "The Record",
+   "en": {
+    "t": "Microsoft: state hackers attack with ARTEX, an ultra-fast AI tool",
+    "sum": "According to Microsoft, hacking groups linked to China and North Korea use ARTEX. This AI tool automates several steps of an intrusion and can gain privileged access within minutes.",
+    "c": "Understand: ARTEX does not invent new techniques, it just goes much faster. Its code circulates online, so other attackers can use it too. Microsoft advises watching for bursts of abnormal traffic from a single source.",
+    "r": "Think: big targets are not the only ones at risk. A hacked IT provider can open the door to its small business clients, as in a reported attack on ConnectWise.",
+    "a": "Act: ask your IT provider whether they monitor suspicious behaviour (not just known addresses), and check who still has remote access to your computers."
+   },
+   "nl": {
+    "t": "Microsoft: staatshackers vallen aan met ARTEX, een razendsnelle AI-tool",
+    "sum": "Volgens Microsoft gebruiken hackersgroepen die banden hebben met China en Noord-Korea ARTEX. Deze AI-tool automatiseert meerdere stappen van een inbraak en kan binnen enkele minuten beheerderstoegang krijgen.",
+    "c": "Begrijpen: ARTEX bedenkt geen nieuwe technieken, het werkt gewoon veel sneller. De code circuleert online, dus ook andere hackers kunnen het gebruiken. Microsoft raadt aan te letten op plotse pieken van abnormaal verkeer vanuit één bron.",
+    "r": "Nadenken: niet alleen grote doelwitten lopen risico. Een gehackte IT-leverancier kan de deur openen naar zijn kmo-klanten, zoals bij een gemelde aanval op ConnectWise.",
+    "a": "Doen: vraag je IT-partner of hij verdacht gedrag opvolgt (niet enkel gekende adressen), en controleer wie nog toegang op afstand heeft tot je computers."
+   }
+  },
   {
    "id": "n20261126a",
    "d": "2026-11-25",
@@ -56,33 +137,6 @@
    }
   },
   {
-   "id": "n20261125a",
-   "d": "2026-11-23",
-   "s": "google",
-   "imp": 2,
-   "t": "Recherche Google : le mode IA peut lire ton Drive et ton Wallet",
-   "sum": "Google étend la « Personal Intelligence » du mode IA de la recherche à Google Drive et Google Wallet. Le lien avec l'app Gemini suivra dans les prochaines semaines.",
-   "c": "Comprendre : si tu connectes ces services, les réponses du mode IA s'appuient sur tes fichiers Drive et tes cartes ou billets Wallet, en plus de Gmail, Agenda et Photos. C'est optionnel, et l'accès au Wallet est en lecture seule.",
-   "r": "Réfléchir : un employé qui travaille sur un compte Google perso peut, sans le savoir, mettre des documents de l'entreprise dans les réponses de l'IA. Clarifie quels comptes servent aux fichiers pro.",
-   "a": "Agir : vérifie les apps connectées sur myactivity.google.com/search-services/apps et déconnecte celles qui contiennent des données de clients.",
-   "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-   "src": "TechCrunch",
-   "en": {
-    "t": "Google Search: AI Mode can now read your Drive and Wallet",
-    "sum": "Google is extending Personal Intelligence in Search's AI Mode to Google Drive and Google Wallet. The link with the Gemini app follows in the coming weeks.",
-    "c": "Understand: if you connect these services, AI Mode answers draw on your Drive files and your Wallet cards or tickets, on top of Gmail, Calendar and Photos. It is optional, and Wallet access is read-only.",
-    "r": "Think: an employee using a personal Google account may unknowingly feed company documents into AI answers. Make clear which accounts hold work files.",
-    "a": "Act: check connected apps at myactivity.google.com/search-services/apps and disconnect any that hold client data."
-   },
-   "nl": {
-    "t": "Google Zoeken: de AI-modus kan je Drive en Wallet lezen",
-    "sum": "Google breidt Personal Intelligence in de AI-modus van Zoeken uit naar Google Drive en Google Wallet. De koppeling met de Gemini-app volgt in de komende weken.",
-    "c": "Begrijpen: als je die diensten koppelt, gebruiken de antwoorden van de AI-modus je Drive-bestanden en je kaarten of tickets in Wallet, naast Gmail, Agenda en Foto's. Het is optioneel en Wallet is alleen-lezen.",
-    "r": "Nadenken: een medewerker met een persoonlijk Google-account kan zonder het te weten bedrijfsdocumenten in AI-antwoorden laten belanden. Spreek af welke accounts voor werkbestanden dienen in je kmo.",
-    "a": "Doen: controleer de gekoppelde apps op myactivity.google.com/search-services/apps en ontkoppel wat klantgegevens bevat."
-   }
-  },
-  {
    "id": "n20261125b",
    "d": "2026-11-23",
    "s": "openai",
@@ -110,30 +164,30 @@
    }
   },
   {
-   "id": "n20261124a",
+   "id": "n20261125a",
    "d": "2026-11-23",
-   "s": "openai",
+   "s": "google",
    "imp": 2,
-   "t": "ChatGPT : GPT-6.2 Sol arrive dans les discussions, GPT-5.6 part le 23 décembre",
-   "sum": "Depuis le 23 novembre, les abonnés Plus, Pro, Business et Enterprise ont une version de GPT-6.2 Sol réglée pour les conversations de tous les jours. Selon OpenAI, GPT-5.6 Sol et GPT-5.6 Terra seront retirés de ChatGPT le 23 décembre 2026.",
-   "c": "Comprendre : selon les tests d'OpenAI, le modèle suit mieux les consignes détaillées et lit mieux les photos. Les comptes gratuits et Go ne l'ont pas encore. En Enterprise, c'est l'administrateur qui l'active.",
-   "r": "Réfléchir : si ton équipe a des consignes ou des GPT réglés sur GPT-5.6, les réponses vont changer d'ici un mois. Mieux vaut tester avant que l'ancien modèle disparaisse.",
-   "a": "Agir : avant le 23 décembre, relance tes 3 prompts les plus utilisés avec le nouveau modèle et compare les réponses.",
-   "url": "https://www.digitaltrends.com/computing/chatgpt-is-getting-a-chat-tuned-gpt-6-2-sol-and-it-can-offer-to-watch-for-a-price-drop/",
-   "src": "Digital Trends",
+   "t": "Recherche Google : le mode IA peut lire ton Drive et ton Wallet",
+   "sum": "Google étend la « Personal Intelligence » du mode IA de la recherche à Google Drive et Google Wallet. Le lien avec l'app Gemini suivra dans les prochaines semaines.",
+   "c": "Comprendre : si tu connectes ces services, les réponses du mode IA s'appuient sur tes fichiers Drive et tes cartes ou billets Wallet, en plus de Gmail, Agenda et Photos. C'est optionnel, et l'accès au Wallet est en lecture seule.",
+   "r": "Réfléchir : un employé qui travaille sur un compte Google perso peut, sans le savoir, mettre des documents de l'entreprise dans les réponses de l'IA. Clarifie quels comptes servent aux fichiers pro.",
+   "a": "Agir : vérifie les apps connectées sur myactivity.google.com/search-services/apps et déconnecte celles qui contiennent des données de clients.",
+   "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+   "src": "TechCrunch",
    "en": {
-    "t": "ChatGPT: GPT-6.2 Sol comes to chats, GPT-5.6 leaves on 23 December",
-    "sum": "Since 23 November, Plus, Pro, Business and Enterprise subscribers get a version of GPT-6.2 Sol tuned for everyday conversations. According to OpenAI, GPT-5.6 Sol and GPT-5.6 Terra will be removed from ChatGPT on 23 December 2026.",
-    "c": "Understand: according to OpenAI's own tests, the model follows detailed instructions better and reads photos better. Free and Go accounts don't have it yet. On Enterprise, the admin turns it on.",
-    "r": "Think: if your team has instructions or GPTs tuned on GPT-5.6, answers will change within a month. Better to test before the old model disappears.",
-    "a": "Act: before 23 December, rerun your 3 most used prompts with the new model and compare the answers."
+    "t": "Google Search: AI Mode can now read your Drive and Wallet",
+    "sum": "Google is extending Personal Intelligence in Search's AI Mode to Google Drive and Google Wallet. The link with the Gemini app follows in the coming weeks.",
+    "c": "Understand: if you connect these services, AI Mode answers draw on your Drive files and your Wallet cards or tickets, on top of Gmail, Calendar and Photos. It is optional, and Wallet access is read-only.",
+    "r": "Think: an employee using a personal Google account may unknowingly feed company documents into AI answers. Make clear which accounts hold work files.",
+    "a": "Act: check connected apps at myactivity.google.com/search-services/apps and disconnect any that hold client data."
    },
    "nl": {
-    "t": "ChatGPT: GPT-6.2 Sol komt naar de chats, GPT-5.6 verdwijnt op 23 december",
-    "sum": "Sinds 23 november krijgen Plus-, Pro-, Business- en Enterprise-abonnees een versie van GPT-6.2 Sol die afgesteld is op gewone gesprekken. Volgens OpenAI verdwijnen GPT-5.6 Sol en GPT-5.6 Terra op 23 december 2026 uit ChatGPT.",
-    "c": "Begrijpen: volgens OpenAI's eigen tests volgt het model gedetailleerde instructies beter en leest het foto's beter. Gratis en Go-accounts hebben het nog niet. Bij Enterprise zet de beheerder het aan.",
-    "r": "Nadenken: heeft je team instructies of GPT's die op GPT-5.6 afgesteld zijn? Dan veranderen de antwoorden binnen een maand. Test dus voor het oude model verdwijnt.",
-    "a": "Doen: herhaal voor 23 december je 3 meest gebruikte prompts met het nieuwe model en vergelijk de antwoorden."
+    "t": "Google Zoeken: de AI-modus kan je Drive en Wallet lezen",
+    "sum": "Google breidt Personal Intelligence in de AI-modus van Zoeken uit naar Google Drive en Google Wallet. De koppeling met de Gemini-app volgt in de komende weken.",
+    "c": "Begrijpen: als je die diensten koppelt, gebruiken de antwoorden van de AI-modus je Drive-bestanden en je kaarten of tickets in Wallet, naast Gmail, Agenda en Foto's. Het is optioneel en Wallet is alleen-lezen.",
+    "r": "Nadenken: een medewerker met een persoonlijk Google-account kan zonder het te weten bedrijfsdocumenten in AI-antwoorden laten belanden. Spreek af welke accounts voor werkbestanden dienen in je kmo.",
+    "a": "Doen: controleer de gekoppelde apps op myactivity.google.com/search-services/apps en ontkoppel wat klantgegevens bevat."
    }
   },
   {
@@ -161,6 +215,33 @@
     "c": "Begrijpen: gevoelige wijzigingen vragen nog altijd een mens, en het samenvoegen van code blijft bij mensen. Je betaalt per gebruik, met een maandelijks plafond dat je zelf instelt. Anthropic waarschuwt dat de tool bugs of lekken kan missen.",
     "r": "Nadenken: alleen nuttig als je kmo (of je leverancier) software of een website op GitHub bouwt. Anders gaat het jou niet aan.",
     "a": "Doen: heb je code op GitHub, test dan eerst het nalezen op één project met een laag uitgavenplafond. Anders: algemene kennis, niets te doen."
+   }
+  },
+  {
+   "id": "n20261124a",
+   "d": "2026-11-23",
+   "s": "openai",
+   "imp": 2,
+   "t": "ChatGPT : GPT-6.2 Sol arrive dans les discussions, GPT-5.6 part le 23 décembre",
+   "sum": "Depuis le 23 novembre, les abonnés Plus, Pro, Business et Enterprise ont une version de GPT-6.2 Sol réglée pour les conversations de tous les jours. Selon OpenAI, GPT-5.6 Sol et GPT-5.6 Terra seront retirés de ChatGPT le 23 décembre 2026.",
+   "c": "Comprendre : selon les tests d'OpenAI, le modèle suit mieux les consignes détaillées et lit mieux les photos. Les comptes gratuits et Go ne l'ont pas encore. En Enterprise, c'est l'administrateur qui l'active.",
+   "r": "Réfléchir : si ton équipe a des consignes ou des GPT réglés sur GPT-5.6, les réponses vont changer d'ici un mois. Mieux vaut tester avant que l'ancien modèle disparaisse.",
+   "a": "Agir : avant le 23 décembre, relance tes 3 prompts les plus utilisés avec le nouveau modèle et compare les réponses.",
+   "url": "https://www.digitaltrends.com/computing/chatgpt-is-getting-a-chat-tuned-gpt-6-2-sol-and-it-can-offer-to-watch-for-a-price-drop/",
+   "src": "Digital Trends",
+   "en": {
+    "t": "ChatGPT: GPT-6.2 Sol comes to chats, GPT-5.6 leaves on 23 December",
+    "sum": "Since 23 November, Plus, Pro, Business and Enterprise subscribers get a version of GPT-6.2 Sol tuned for everyday conversations. According to OpenAI, GPT-5.6 Sol and GPT-5.6 Terra will be removed from ChatGPT on 23 December 2026.",
+    "c": "Understand: according to OpenAI's own tests, the model follows detailed instructions better and reads photos better. Free and Go accounts don't have it yet. On Enterprise, the admin turns it on.",
+    "r": "Think: if your team has instructions or GPTs tuned on GPT-5.6, answers will change within a month. Better to test before the old model disappears.",
+    "a": "Act: before 23 December, rerun your 3 most used prompts with the new model and compare the answers."
+   },
+   "nl": {
+    "t": "ChatGPT: GPT-6.2 Sol komt naar de chats, GPT-5.6 verdwijnt op 23 december",
+    "sum": "Sinds 23 november krijgen Plus-, Pro-, Business- en Enterprise-abonnees een versie van GPT-6.2 Sol die afgesteld is op gewone gesprekken. Volgens OpenAI verdwijnen GPT-5.6 Sol en GPT-5.6 Terra op 23 december 2026 uit ChatGPT.",
+    "c": "Begrijpen: volgens OpenAI's eigen tests volgt het model gedetailleerde instructies beter en leest het foto's beter. Gratis en Go-accounts hebben het nog niet. Bij Enterprise zet de beheerder het aan.",
+    "r": "Nadenken: heeft je team instructies of GPT's die op GPT-5.6 afgesteld zijn? Dan veranderen de antwoorden binnen een maand. Test dus voor het oude model verdwijnt.",
+    "a": "Doen: herhaal voor 23 december je 3 meest gebruikte prompts met het nieuwe model en vergelijk de antwoorden."
    }
   },
   {
@@ -218,33 +299,6 @@
    }
   },
   {
-   "id": "n20261122a",
-   "d": "2026-11-19",
-   "s": "europe",
-   "imp": 3,
-   "t": "La Commission européenne visée par une cyberattaque menée avec l'aide de l'IA",
-   "sum": "La Commission confirme une attaque informatique repérée le 22 octobre. Ses outils de paie, de congés et de remboursements médicaux ont été coupés plus de 10 jours. Selon Politico, les pirates utilisaient ARTEX, un outil de piratage gratuit qui s'appuie sur l'IA.",
-   "c": "Comprendre : des outils d'attaque automatisés par l'IA circulent librement. Ils trouvent et exploitent les failles plus vite, même pour des pirates peu doués.",
-   "r": "Réfléchir : si une grande administration est touchée, une PME l'est aussi. Les équipements visibles sur Internet (VPN, pare-feu, serveurs) sont les premières cibles.",
-   "a": "Agir : fais la liste de tes équipements accessibles depuis Internet et installe les mises à jour de sécurité cette semaine. Active la double authentification partout.",
-   "url": "https://therecord.media/european-commission-confirms-cyberattack-using-ai",
-   "src": "The Record",
-   "en": {
-    "t": "European Commission hit by an AI-assisted cyberattack",
-    "sum": "The Commission confirmed a cyberattack first detected on 22 October. Its payroll, leave and medical claims systems were down for over 10 days. According to Politico, the attackers used ARTEX, a free AI-powered hacking tool.",
-    "c": "Understand: automated AI attack tools are freely available. They find and exploit flaws faster, even for low-skilled attackers.",
-    "r": "Think: if a large administration can be hit, so can a small business. Devices exposed to the internet (VPN, firewall, servers) are the first targets.",
-    "a": "Act: list your internet-facing devices and install security updates this week. Turn on two-factor authentication everywhere."
-   },
-   "nl": {
-    "t": "Europese Commissie getroffen door cyberaanval met hulp van AI",
-    "sum": "De Commissie bevestigt een cyberaanval die op 22 oktober werd ontdekt. Haar systemen voor loon, verlof en medische terugbetalingen lagen meer dan 10 dagen plat. Volgens Politico gebruikten de hackers ARTEX, een gratis hacktool met AI.",
-    "c": "Begrijpen: geautomatiseerde aanvalstools met AI zijn vrij beschikbaar. Ze vinden en misbruiken lekken sneller, ook voor minder ervaren hackers.",
-    "r": "Nadenken: als een grote administratie getroffen wordt, kan een kmo dat ook. Toestellen die bereikbaar zijn via internet (VPN, firewall, servers) zijn het eerste doelwit.",
-    "a": "Doen: maak een lijst van je toestellen die via internet bereikbaar zijn en installeer deze week de beveiligingsupdates. Zet overal tweestapsverificatie aan."
-   }
-  },
-  {
    "id": "n20261122b",
    "d": "2026-11-19",
    "s": "business",
@@ -272,30 +326,30 @@
    }
   },
   {
-   "id": "n20261121a",
-   "d": "2026-11-18",
-   "s": "openai",
-   "imp": 2,
-   "t": "ChatGPT : la dictée s'affiche en direct et n'a plus de limite de 10 minutes",
-   "sum": "ChatGPT écrit maintenant tes paroles pendant que tu parles, et la limite de 10 minutes d'enregistrement disparaît. Le déploiement se fait sur tous les forfaits, sur web, ordinateur et mobile.",
-   "c": "Comprendre : avant, tu parlais puis tu attendais le texte. Maintenant, tu vois le texte se construire en direct, et tu peux dicter longtemps.",
-   "r": "Réfléchir : pour une PME, dicter un compte rendu, une offre ou un mail long devient plus simple. Attention : ce que tu dictes part chez OpenAI, comme tout ce que tu tapes.",
-   "a": "Agir : teste la dictée sur un compte rendu de réunion de 15 minutes, puis relis et corrige avant d'envoyer. Ne dicte pas de données sensibles de clients.",
-   "url": "https://www.ithinkdiff.com/chatgpt-live-dictation-no-10-minute-limit/",
-   "src": "iThinkDifferent (selon les notes de version d'OpenAI)",
+   "id": "n20261122a",
+   "d": "2026-11-19",
+   "s": "europe",
+   "imp": 3,
+   "t": "La Commission européenne visée par une cyberattaque menée avec l'aide de l'IA",
+   "sum": "La Commission confirme une attaque informatique repérée le 22 octobre. Ses outils de paie, de congés et de remboursements médicaux ont été coupés plus de 10 jours. Selon Politico, les pirates utilisaient ARTEX, un outil de piratage gratuit qui s'appuie sur l'IA.",
+   "c": "Comprendre : des outils d'attaque automatisés par l'IA circulent librement. Ils trouvent et exploitent les failles plus vite, même pour des pirates peu doués.",
+   "r": "Réfléchir : si une grande administration est touchée, une PME l'est aussi. Les équipements visibles sur Internet (VPN, pare-feu, serveurs) sont les premières cibles.",
+   "a": "Agir : fais la liste de tes équipements accessibles depuis Internet et installe les mises à jour de sécurité cette semaine. Active la double authentification partout.",
+   "url": "https://therecord.media/european-commission-confirms-cyberattack-using-ai",
+   "src": "The Record",
    "en": {
-    "t": "ChatGPT: dictation now shows live and the 10-minute limit is gone",
-    "sum": "ChatGPT now writes your words while you speak, and the 10-minute recording limit is removed. It is rolling out on all plans, on web, desktop and mobile.",
-    "c": "Understand: before, you spoke and then waited for the text. Now you see the text appear live, and you can dictate for a long time.",
-    "r": "Think: for a small business, dictating meeting notes, a quote or a long email gets easier. Careful: what you dictate goes to OpenAI, like anything you type.",
-    "a": "Act: try dictation on a 15-minute meeting summary, then read and fix it before sending. Do not dictate sensitive customer data."
+    "t": "European Commission hit by an AI-assisted cyberattack",
+    "sum": "The Commission confirmed a cyberattack first detected on 22 October. Its payroll, leave and medical claims systems were down for over 10 days. According to Politico, the attackers used ARTEX, a free AI-powered hacking tool.",
+    "c": "Understand: automated AI attack tools are freely available. They find and exploit flaws faster, even for low-skilled attackers.",
+    "r": "Think: if a large administration can be hit, so can a small business. Devices exposed to the internet (VPN, firewall, servers) are the first targets.",
+    "a": "Act: list your internet-facing devices and install security updates this week. Turn on two-factor authentication everywhere."
    },
    "nl": {
-    "t": "ChatGPT: dicteren verschijnt live en de limiet van 10 minuten verdwijnt",
-    "sum": "ChatGPT schrijft je woorden nu uit terwijl je spreekt, en de opnamelimiet van 10 minuten is weg. De uitrol gebeurt voor alle abonnementen, op web, desktop en mobiel.",
-    "c": "Begrijpen: vroeger sprak je en wachtte je daarna op de tekst. Nu zie je de tekst live verschijnen, en kun je lang dicteren.",
-    "r": "Nadenken: voor een kmo wordt een verslag, offerte of lange mail dicteren eenvoudiger. Let op: wat je dicteert gaat naar OpenAI, net als alles wat je typt.",
-    "a": "Doen: test het dicteren op een vergaderverslag van 15 minuten, en lees en verbeter het voor je het verstuurt. Dicteer geen gevoelige klantgegevens."
+    "t": "Europese Commissie getroffen door cyberaanval met hulp van AI",
+    "sum": "De Commissie bevestigt een cyberaanval die op 22 oktober werd ontdekt. Haar systemen voor loon, verlof en medische terugbetalingen lagen meer dan 10 dagen plat. Volgens Politico gebruikten de hackers ARTEX, een gratis hacktool met AI.",
+    "c": "Begrijpen: geautomatiseerde aanvalstools met AI zijn vrij beschikbaar. Ze vinden en misbruiken lekken sneller, ook voor minder ervaren hackers.",
+    "r": "Nadenken: als een grote administratie getroffen wordt, kan een kmo dat ook. Toestellen die bereikbaar zijn via internet (VPN, firewall, servers) zijn het eerste doelwit.",
+    "a": "Doen: maak een lijst van je toestellen die via internet bereikbaar zijn en installeer deze week de beveiligingsupdates. Zet overal tweestapsverificatie aan."
    }
   },
   {
@@ -323,6 +377,33 @@
     "c": "Begrijpen: een AI-agent met toegang tot je apps kan in jouw plaats handelen. Als hij zich vergist, kan hij dingen tonen of doen die je niet wilde.",
     "r": "Nadenken: voor een kmo is een agent koppelen aan mail, bank of klantaccounts een echt risico. Hoe meer toegang, hoe duurder een fout.",
     "a": "Doen: maak een lijst van de AI-agents op de telefoons en computers van je team. Haal onnodige toegang weg (mail, betalingen, berichten) en eis een menselijke goedkeuring voor elke aankoop."
+   }
+  },
+  {
+   "id": "n20261121a",
+   "d": "2026-11-18",
+   "s": "openai",
+   "imp": 2,
+   "t": "ChatGPT : la dictée s'affiche en direct et n'a plus de limite de 10 minutes",
+   "sum": "ChatGPT écrit maintenant tes paroles pendant que tu parles, et la limite de 10 minutes d'enregistrement disparaît. Le déploiement se fait sur tous les forfaits, sur web, ordinateur et mobile.",
+   "c": "Comprendre : avant, tu parlais puis tu attendais le texte. Maintenant, tu vois le texte se construire en direct, et tu peux dicter longtemps.",
+   "r": "Réfléchir : pour une PME, dicter un compte rendu, une offre ou un mail long devient plus simple. Attention : ce que tu dictes part chez OpenAI, comme tout ce que tu tapes.",
+   "a": "Agir : teste la dictée sur un compte rendu de réunion de 15 minutes, puis relis et corrige avant d'envoyer. Ne dicte pas de données sensibles de clients.",
+   "url": "https://www.ithinkdiff.com/chatgpt-live-dictation-no-10-minute-limit/",
+   "src": "iThinkDifferent (selon les notes de version d'OpenAI)",
+   "en": {
+    "t": "ChatGPT: dictation now shows live and the 10-minute limit is gone",
+    "sum": "ChatGPT now writes your words while you speak, and the 10-minute recording limit is removed. It is rolling out on all plans, on web, desktop and mobile.",
+    "c": "Understand: before, you spoke and then waited for the text. Now you see the text appear live, and you can dictate for a long time.",
+    "r": "Think: for a small business, dictating meeting notes, a quote or a long email gets easier. Careful: what you dictate goes to OpenAI, like anything you type.",
+    "a": "Act: try dictation on a 15-minute meeting summary, then read and fix it before sending. Do not dictate sensitive customer data."
+   },
+   "nl": {
+    "t": "ChatGPT: dicteren verschijnt live en de limiet van 10 minuten verdwijnt",
+    "sum": "ChatGPT schrijft je woorden nu uit terwijl je spreekt, en de opnamelimiet van 10 minuten is weg. De uitrol gebeurt voor alle abonnementen, op web, desktop en mobiel.",
+    "c": "Begrijpen: vroeger sprak je en wachtte je daarna op de tekst. Nu zie je de tekst live verschijnen, en kun je lang dicteren.",
+    "r": "Nadenken: voor een kmo wordt een verslag, offerte of lange mail dicteren eenvoudiger. Let op: wat je dicteert gaat naar OpenAI, net als alles wat je typt.",
+    "a": "Doen: test het dicteren op een vergaderverslag van 15 minuten, en lees en verbeter het voor je het verstuurt. Dicteer geen gevoelige klantgegevens."
    }
   },
   {
@@ -380,33 +461,6 @@
    }
   },
   {
-   "id": "n20261119b",
-   "d": "2026-11-17",
-   "s": "business",
-   "imp": 3,
-   "t": "Java4Shell : une faille grave dans Java, trouvée grâce à l'IA",
-   "sum": "Une faille critique (CVE-2026-114938) touche Java, utilisé dans beaucoup de logiciels d'entreprise. Oracle et OpenJDK ont publié des correctifs le 17 novembre. Les chercheurs de Calif disent l'avoir trouvée en une heure avec l'IA Codex d'OpenAI.",
-   "c": "Comprendre : un pirate pourrait prendre le contrôle d'un serveur qui fait tourner Java, sans mot de passe. Aucune attaque réelle n'était signalée au 17 novembre.",
-   "r": "Réfléchir : Java se cache dans des outils comme Jira, Confluence, Jenkins ou Elasticsearch. Et l'IA permet de trouver ces failles de plus en plus vite.",
-   "a": "Agir : demande à ton prestataire informatique si tes serveurs ou logiciels utilisent Java, et fais installer la mise à jour, puis redémarrer les services.",
-   "url": "https://cyberscoop.com/java4shell-critical-java-flaw-openjdk/",
-   "src": "CyberScoop",
-   "en": {
-    "t": "Java4Shell: a serious Java flaw found with AI",
-    "sum": "A critical flaw (CVE-2026-114938) affects Java, which runs inside many business applications. Oracle and OpenJDK released fixes on 17 November. Researchers at Calif say they found it in one hour using OpenAI's Codex.",
-    "c": "Understand: an attacker could take over a server running Java without a password. No real attacks had been reported as of 17 November.",
-    "r": "Think: Java hides inside tools like Jira, Confluence, Jenkins or Elasticsearch. And AI makes finding such flaws faster and faster.",
-    "a": "Act: ask your IT provider whether your servers or software use Java, have the update installed, then restart the services."
-   },
-   "nl": {
-    "t": "Java4Shell: ernstig lek in Java, gevonden met AI",
-    "sum": "Een kritiek lek (CVE-2026-114938) treft Java, dat in veel bedrijfssoftware draait. Oracle en OpenJDK brachten op 17 november updates uit. Onderzoekers van Calif zeggen dat ze het in een uur vonden met Codex van OpenAI.",
-    "c": "Begrijpen: een aanvaller kan een server met Java overnemen zonder wachtwoord. Op 17 november waren nog geen echte aanvallen gemeld.",
-    "r": "Nadenken: Java zit verstopt in tools zoals Jira, Confluence, Jenkins of Elasticsearch. En AI vindt zulke lekken steeds sneller.",
-    "a": "Doen: vraag je IT-partner of je servers of software Java gebruiken, laat de update installeren en de diensten herstarten."
-   }
-  },
-  {
    "id": "n20261119c",
    "d": "2026-11-17",
    "s": "openai",
@@ -434,30 +488,30 @@
    }
   },
   {
-   "id": "n20261118a",
+   "id": "n20261119b",
    "d": "2026-11-17",
-   "s": "microsoft",
-   "imp": 2,
-   "t": "Ignite : Copilot devient une plateforme de travail, avec Word, Excel et PowerPoint intégrés",
-   "sum": "À Ignite, Microsoft a lancé « Home » et « Office in Copilot » : tu crées tes documents Word, Excel et PowerPoint directement dans l'appli Copilot. Un agent autonome, Autopilot, arrive aussi, mais seulement pour le programme d'essai Frontier.",
-   "c": "Comprendre : selon Microsoft, Copilot réunit maintenant le chat, les tâches confiées aux agents et les fichiers Office au même endroit. Les droits et étiquettes de sécurité de Microsoft 365 restent appliqués. Le prix mélange un abonnement par personne et un paiement à l'usage pour les tâches les plus lourdes.",
-   "r": "Réfléchir : pour une PME sous Microsoft 365, Copilot devient la porte d'entrée du travail quotidien. Mais une partie des coûts peut varier selon l'usage, et les agents autonomes ne sont pas encore pour tout le monde.",
-   "a": "Agir : vérifie quelle licence Copilot ton équipe possède. Si tu actives la facturation à l'usage, fixe tout de suite une limite de dépenses.",
-   "url": "https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/",
-   "src": "Microsoft Copilot Blog",
+   "s": "business",
+   "imp": 3,
+   "t": "Java4Shell : une faille grave dans Java, trouvée grâce à l'IA",
+   "sum": "Une faille critique (CVE-2026-114938) touche Java, utilisé dans beaucoup de logiciels d'entreprise. Oracle et OpenJDK ont publié des correctifs le 17 novembre. Les chercheurs de Calif disent l'avoir trouvée en une heure avec l'IA Codex d'OpenAI.",
+   "c": "Comprendre : un pirate pourrait prendre le contrôle d'un serveur qui fait tourner Java, sans mot de passe. Aucune attaque réelle n'était signalée au 17 novembre.",
+   "r": "Réfléchir : Java se cache dans des outils comme Jira, Confluence, Jenkins ou Elasticsearch. Et l'IA permet de trouver ces failles de plus en plus vite.",
+   "a": "Agir : demande à ton prestataire informatique si tes serveurs ou logiciels utilisent Java, et fais installer la mise à jour, puis redémarrer les services.",
+   "url": "https://cyberscoop.com/java4shell-critical-java-flaw-openjdk/",
+   "src": "CyberScoop",
    "en": {
-    "t": "Ignite: Copilot becomes a work platform, with Word, Excel and PowerPoint built in",
-    "sum": "At Ignite, Microsoft launched \"Home\" and \"Office in Copilot\": you create Word, Excel and PowerPoint files directly in the Copilot app. An autonomous agent, Autopilot, is also coming, but only for the Frontier early-access program.",
-    "c": "Understand: according to Microsoft, Copilot now brings chat, tasks handed to agents and Office files into one place. Microsoft 365 permissions and sensitivity labels still apply. Pricing mixes a per-user subscription with pay-as-you-go for the heaviest tasks.",
-    "r": "Think: for an SME on Microsoft 365, Copilot becomes the front door to daily work. But part of the cost can vary with usage, and autonomous agents are not available to everyone yet.",
-    "a": "Act: check which Copilot licence your team has. If you turn on usage-based billing, set a spending limit right away."
+    "t": "Java4Shell: a serious Java flaw found with AI",
+    "sum": "A critical flaw (CVE-2026-114938) affects Java, which runs inside many business applications. Oracle and OpenJDK released fixes on 17 November. Researchers at Calif say they found it in one hour using OpenAI's Codex.",
+    "c": "Understand: an attacker could take over a server running Java without a password. No real attacks had been reported as of 17 November.",
+    "r": "Think: Java hides inside tools like Jira, Confluence, Jenkins or Elasticsearch. And AI makes finding such flaws faster and faster.",
+    "a": "Act: ask your IT provider whether your servers or software use Java, have the update installed, then restart the services."
    },
    "nl": {
-    "t": "Ignite: Copilot wordt een werkplatform, met Word, Excel en PowerPoint ingebouwd",
-    "sum": "Op Ignite lanceerde Microsoft \"Home\" en \"Office in Copilot\": je maakt Word-, Excel- en PowerPoint-bestanden rechtstreeks in de Copilot-app. Er komt ook een autonome agent, Autopilot, maar enkel voor het testprogramma Frontier.",
-    "c": "Begrijpen: volgens Microsoft brengt Copilot nu chat, taken voor agents en Office-bestanden samen op één plek. De rechten en gevoeligheidslabels van Microsoft 365 blijven gelden. De prijs combineert een abonnement per gebruiker met betalen per gebruik voor de zwaarste taken.",
-    "r": "Nadenken: voor een kmo met Microsoft 365 wordt Copilot de toegangspoort tot het dagelijkse werk. Maar een deel van de kosten kan schommelen met het gebruik, en autonome agents zijn nog niet voor iedereen.",
-    "a": "Doen: kijk na welke Copilot-licentie je team heeft. Zet je facturatie per gebruik aan, stel dan meteen een uitgavenlimiet in."
+    "t": "Java4Shell: ernstig lek in Java, gevonden met AI",
+    "sum": "Een kritiek lek (CVE-2026-114938) treft Java, dat in veel bedrijfssoftware draait. Oracle en OpenJDK brachten op 17 november updates uit. Onderzoekers van Calif zeggen dat ze het in een uur vonden met Codex van OpenAI.",
+    "c": "Begrijpen: een aanvaller kan een server met Java overnemen zonder wachtwoord. Op 17 november waren nog geen echte aanvallen gemeld.",
+    "r": "Nadenken: Java zit verstopt in tools zoals Jira, Confluence, Jenkins of Elasticsearch. En AI vindt zulke lekken steeds sneller.",
+    "a": "Doen: vraag je IT-partner of je servers of software Java gebruiken, laat de update installeren en de diensten herstarten."
    }
   },
   {
@@ -488,6 +542,33 @@
    }
   },
   {
+   "id": "n20261118a",
+   "d": "2026-11-17",
+   "s": "microsoft",
+   "imp": 2,
+   "t": "Ignite : Copilot devient une plateforme de travail, avec Word, Excel et PowerPoint intégrés",
+   "sum": "À Ignite, Microsoft a lancé « Home » et « Office in Copilot » : tu crées tes documents Word, Excel et PowerPoint directement dans l'appli Copilot. Un agent autonome, Autopilot, arrive aussi, mais seulement pour le programme d'essai Frontier.",
+   "c": "Comprendre : selon Microsoft, Copilot réunit maintenant le chat, les tâches confiées aux agents et les fichiers Office au même endroit. Les droits et étiquettes de sécurité de Microsoft 365 restent appliqués. Le prix mélange un abonnement par personne et un paiement à l'usage pour les tâches les plus lourdes.",
+   "r": "Réfléchir : pour une PME sous Microsoft 365, Copilot devient la porte d'entrée du travail quotidien. Mais une partie des coûts peut varier selon l'usage, et les agents autonomes ne sont pas encore pour tout le monde.",
+   "a": "Agir : vérifie quelle licence Copilot ton équipe possède. Si tu actives la facturation à l'usage, fixe tout de suite une limite de dépenses.",
+   "url": "https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/",
+   "src": "Microsoft Copilot Blog",
+   "en": {
+    "t": "Ignite: Copilot becomes a work platform, with Word, Excel and PowerPoint built in",
+    "sum": "At Ignite, Microsoft launched \"Home\" and \"Office in Copilot\": you create Word, Excel and PowerPoint files directly in the Copilot app. An autonomous agent, Autopilot, is also coming, but only for the Frontier early-access program.",
+    "c": "Understand: according to Microsoft, Copilot now brings chat, tasks handed to agents and Office files into one place. Microsoft 365 permissions and sensitivity labels still apply. Pricing mixes a per-user subscription with pay-as-you-go for the heaviest tasks.",
+    "r": "Think: for an SME on Microsoft 365, Copilot becomes the front door to daily work. But part of the cost can vary with usage, and autonomous agents are not available to everyone yet.",
+    "a": "Act: check which Copilot licence your team has. If you turn on usage-based billing, set a spending limit right away."
+   },
+   "nl": {
+    "t": "Ignite: Copilot wordt een werkplatform, met Word, Excel en PowerPoint ingebouwd",
+    "sum": "Op Ignite lanceerde Microsoft \"Home\" en \"Office in Copilot\": je maakt Word-, Excel- en PowerPoint-bestanden rechtstreeks in de Copilot-app. Er komt ook een autonome agent, Autopilot, maar enkel voor het testprogramma Frontier.",
+    "c": "Begrijpen: volgens Microsoft brengt Copilot nu chat, taken voor agents en Office-bestanden samen op één plek. De rechten en gevoeligheidslabels van Microsoft 365 blijven gelden. De prijs combineert een abonnement per gebruiker met betalen per gebruik voor de zwaarste taken.",
+    "r": "Nadenken: voor een kmo met Microsoft 365 wordt Copilot de toegangspoort tot het dagelijkse werk. Maar een deel van de kosten kan schommelen met het gebruik, en autonome agents zijn nog niet voor iedereen.",
+    "a": "Doen: kijk na welke Copilot-licentie je team heeft. Zet je facturatie per gebruik aan, stel dan meteen een uitgavenlimiet in."
+   }
+  },
+  {
    "id": "n20261119d",
    "d": "2026-11-16",
    "s": "google",
@@ -512,60 +593,6 @@
     "c": "Begrijpen: vroeger betekende geschiedenis uitzetten weinig bewaring. Nu houdt Google die chats toch ongeveer twee maanden bij, voor veiligheid en dienstverlening, volgens Google.",
     "r": "Nadenken: plakt je team klantgegevens in Gemini met een persoonlijk account, dan blijven die langer bij Google. Google zegt niet of Workspace-accounts meedoen.",
     "a": "Doen: zet in de instellingen van Gemini de trainingsoptie uit en herinner je team eraan nooit klantgegevens in een persoonlijk account te plakken."
-   }
-  },
-  {
-   "id": "n20261117a",
-   "d": "2026-11-16",
-   "s": "google",
-   "imp": 3,
-   "t": "Des pirates utilisent une IA qui transforme les correctifs en attaques, sans humain",
-   "sum": "Selon Google, des pirates utilisent un outil IA qui compare le code d'un logiciel avant et après un correctif, trouve la faille et l'attaque tout seul. Des sites web français (médias, éducation) étaient visés.",
-   "c": "Comprendre : dès qu'un correctif sort, l'IA peut fabriquer l'attaque en quelques jours, voire en un jour. Le temps entre « mise à jour disponible » et « attaque » se réduit fortement.",
-   "r": "Réfléchir : une PME qui attend des semaines pour mettre à jour son site, son imprimante réseau ou son serveur devient une cible facile. Les petits sites WordPress ou PHP sont concernés.",
-   "a": "Agir : active les mises à jour automatiques de ton site, de tes extensions et de tes logiciels. Demande à ton prestataire web en combien de jours il installe les correctifs de sécurité.",
-   "url": "https://thenextweb.com/news/google-gtig-ai-exploits-patches-no-human",
-   "src": "The Next Web (rapport Google Threat Intelligence)",
-   "en": {
-    "t": "Hackers use an AI that turns security patches into attacks, with no human involved",
-    "sum": "According to Google, attackers use an AI tool that compares software code before and after a patch, finds the flaw and attacks on its own. French websites (media, education) were targeted.",
-    "c": "Understand: as soon as a patch is released, AI can build the attack within days, sometimes within a day. The gap between \"update available\" and \"attack\" is shrinking fast.",
-    "r": "Reflect: a small business that waits weeks to update its website, network printer or server becomes an easy target. Small WordPress or PHP sites are affected.",
-    "a": "Act: turn on automatic updates for your website, plugins and software. Ask your web provider how many days it takes them to install security patches."
-   },
-   "nl": {
-    "t": "Hackers gebruiken AI die beveiligingsupdates omzet in aanvallen, zonder mens",
-    "sum": "Volgens Google gebruiken hackers een AI-tool die de code van software vóór en na een update vergelijkt, het lek vindt en zelf aanvalt. Franse websites (media, onderwijs) waren het doelwit.",
-    "c": "Begrijpen: zodra een update verschijnt, kan AI de aanval binnen enkele dagen bouwen, soms binnen één dag. De tijd tussen \"update beschikbaar\" en \"aanval\" wordt veel korter.",
-    "r": "Nadenken: een kmo die weken wacht om haar website, netwerkprinter of server bij te werken, wordt een makkelijk doelwit. Kleine WordPress- of PHP-sites lopen risico.",
-    "a": "Doen: zet automatische updates aan voor je website, plug-ins en software. Vraag je webbouwer binnen hoeveel dagen hij beveiligingsupdates installeert."
-   }
-  },
-  {
-   "id": "n20261117b",
-   "d": "2026-11-16",
-   "s": "microsoft",
-   "imp": 2,
-   "t": "Copilot : un catalogue public de « plugins » ouvre pendant Ignite",
-   "sum": "Microsoft ouvre le 17 novembre un catalogue public de plugins pour Copilot. Un plugin regroupe des instructions prêtes à l'emploi, des connexions à d'autres logiciels et des agents. Selon Microsoft, une session à Ignite montrera des packs pensés pour les petites entreprises.",
-   "c": "Comprendre : au lieu de tout configurer toi-même, tu pourras ajouter à Copilot des « packs » tout faits pour une tâche (devis, suivi client…). Microsoft ne précise pas encore les forfaits, les pays ni les prix.",
-   "r": "Réfléchir : si ta PME utilise Microsoft 365, ces packs peuvent faire gagner du temps. Mais chaque plugin connecté à tes logiciels a accès à des données : il faut savoir qui l'a créé et ce qu'il voit.",
-   "a": "Agir : jette un œil au catalogue (aka.ms/plugins) et note 1 ou 2 plugins utiles. Avant d'en activer un, vérifie avec ton responsable informatique quelles données il peut lire.",
-   "url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/plugins-at-microsoft-ignite-2026/4569951",
-   "src": "Microsoft Tech Community",
-   "en": {
-    "t": "Copilot: a public plugin catalog opens during Ignite",
-    "sum": "On November 17, Microsoft opens a public plugin catalog for Copilot. A plugin bundles ready-made instructions, connections to other software and agents. According to Microsoft, an Ignite session will show packs designed for small businesses.",
-    "c": "Understand: instead of setting everything up yourself, you can add ready-made packs to Copilot for a task (quotes, customer follow-up…). Microsoft has not yet said which plans, countries or prices apply.",
-    "r": "Reflect: if your business uses Microsoft 365, these packs can save time. But every plugin connected to your software can access data: you need to know who built it and what it sees.",
-    "a": "Act: browse the catalog (aka.ms/plugins) and note one or two useful plugins. Before turning one on, check with your IT contact which data it can read."
-   },
-   "nl": {
-    "t": "Copilot: een openbare catalogus met plug-ins opent tijdens Ignite",
-    "sum": "Microsoft opent op 17 november een openbare catalogus met plug-ins voor Copilot. Een plug-in bundelt kant-en-klare instructies, koppelingen met andere software en agents. Volgens Microsoft toont een sessie op Ignite pakketten voor kleine bedrijven.",
-    "c": "Begrijpen: in plaats van alles zelf in te stellen, kun je kant-en-klare pakketten aan Copilot toevoegen voor een taak (offertes, klantopvolging…). Microsoft zegt nog niet welke abonnementen, landen of prijzen gelden.",
-    "r": "Nadenken: als je kmo Microsoft 365 gebruikt, kunnen die pakketten tijd besparen. Maar elke plug-in die aan je software gekoppeld is, ziet gegevens: je moet weten wie hem maakte en wat hij kan lezen.",
-    "a": "Doen: bekijk de catalogus (aka.ms/plugins) en noteer één of twee nuttige plug-ins. Vraag je IT-verantwoordelijke welke gegevens een plug-in kan lezen voor je hem aanzet."
    }
   },
   {
@@ -596,30 +623,57 @@
    }
   },
   {
-   "id": "n20261115a",
-   "d": "2026-11-13",
-   "s": "google",
+   "id": "n20261117b",
+   "d": "2026-11-16",
+   "s": "microsoft",
    "imp": 2,
-   "t": "Failles de sécurité : Google les publiera plus vite, même sans correctif",
-   "sum": "L'équipe Project Zero de Google publiera les détails d'une faille 90 jours après l'avoir signalée, qu'elle soit corrigée ou non. Le délai passera à 60 jours en février 2027, puis à 30 jours en janvier 2028.",
-   "c": "Comprendre : avant, Google laissait encore 30 jours aux gens pour installer le correctif. C'est fini. Selon Google, l'IA permet aux pirates d'exploiter une faille presque dès qu'un correctif sort.",
-   "r": "Réfléchir : le temps entre la sortie d'un correctif et la première attaque devient très court. Une PME qui attend des semaines pour faire ses mises à jour prend un vrai risque.",
-   "a": "Agir : active les mises à jour automatiques sur tes PC, téléphones, navigateurs et routeur, et fixe un moment par semaine pour vérifier celles qui restent.",
-   "url": "https://projectzero.google/2026/11/disclosure-policy.html",
-   "src": "Google Project Zero",
+   "t": "Copilot : un catalogue public de « plugins » ouvre pendant Ignite",
+   "sum": "Microsoft ouvre le 17 novembre un catalogue public de plugins pour Copilot. Un plugin regroupe des instructions prêtes à l'emploi, des connexions à d'autres logiciels et des agents. Selon Microsoft, une session à Ignite montrera des packs pensés pour les petites entreprises.",
+   "c": "Comprendre : au lieu de tout configurer toi-même, tu pourras ajouter à Copilot des « packs » tout faits pour une tâche (devis, suivi client…). Microsoft ne précise pas encore les forfaits, les pays ni les prix.",
+   "r": "Réfléchir : si ta PME utilise Microsoft 365, ces packs peuvent faire gagner du temps. Mais chaque plugin connecté à tes logiciels a accès à des données : il faut savoir qui l'a créé et ce qu'il voit.",
+   "a": "Agir : jette un œil au catalogue (aka.ms/plugins) et note 1 ou 2 plugins utiles. Avant d'en activer un, vérifie avec ton responsable informatique quelles données il peut lire.",
+   "url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/plugins-at-microsoft-ignite-2026/4569951",
+   "src": "Microsoft Tech Community",
    "en": {
-    "t": "Security flaws: Google will publish them faster, even without a fix",
-    "sum": "Google's Project Zero team will publish flaw details 90 days after reporting them, fixed or not. The window drops to 60 days in February 2027, then 30 days in January 2028.",
-    "c": "Understand: Google used to give people 30 extra days to install the fix. That is gone. According to Google, AI lets attackers exploit a flaw almost as soon as a patch is out.",
-    "r": "Reflect: the time between a patch and the first attack is getting very short. A small business that waits weeks to update is taking a real risk.",
-    "a": "Act: turn on automatic updates on your PCs, phones, browsers and router, and set a weekly slot to check the ones left."
+    "t": "Copilot: a public plugin catalog opens during Ignite",
+    "sum": "On November 17, Microsoft opens a public plugin catalog for Copilot. A plugin bundles ready-made instructions, connections to other software and agents. According to Microsoft, an Ignite session will show packs designed for small businesses.",
+    "c": "Understand: instead of setting everything up yourself, you can add ready-made packs to Copilot for a task (quotes, customer follow-up…). Microsoft has not yet said which plans, countries or prices apply.",
+    "r": "Reflect: if your business uses Microsoft 365, these packs can save time. But every plugin connected to your software can access data: you need to know who built it and what it sees.",
+    "a": "Act: browse the catalog (aka.ms/plugins) and note one or two useful plugins. Before turning one on, check with your IT contact which data it can read."
    },
    "nl": {
-    "t": "Beveiligingslekken: Google maakt ze sneller bekend, ook zonder oplossing",
-    "sum": "Het Project Zero-team van Google publiceert de details van een lek 90 dagen na de melding, of het nu opgelost is of niet. Die termijn daalt naar 60 dagen in februari 2027 en naar 30 dagen in januari 2028.",
-    "c": "Begrijpen: vroeger gaf Google nog 30 dagen extra om de update te installeren. Dat valt weg. Volgens Google laat AI hackers een lek bijna meteen misbruiken zodra er een patch is.",
-    "r": "Nadenken: de tijd tussen een patch en de eerste aanval wordt heel kort. Een kmo die weken wacht met updaten, neemt een echt risico.",
-    "a": "Doen: zet automatische updates aan op je pc's, smartphones, browsers en router, en plan elke week een moment om de rest na te kijken."
+    "t": "Copilot: een openbare catalogus met plug-ins opent tijdens Ignite",
+    "sum": "Microsoft opent op 17 november een openbare catalogus met plug-ins voor Copilot. Een plug-in bundelt kant-en-klare instructies, koppelingen met andere software en agents. Volgens Microsoft toont een sessie op Ignite pakketten voor kleine bedrijven.",
+    "c": "Begrijpen: in plaats van alles zelf in te stellen, kun je kant-en-klare pakketten aan Copilot toevoegen voor een taak (offertes, klantopvolging…). Microsoft zegt nog niet welke abonnementen, landen of prijzen gelden.",
+    "r": "Nadenken: als je kmo Microsoft 365 gebruikt, kunnen die pakketten tijd besparen. Maar elke plug-in die aan je software gekoppeld is, ziet gegevens: je moet weten wie hem maakte en wat hij kan lezen.",
+    "a": "Doen: bekijk de catalogus (aka.ms/plugins) en noteer één of twee nuttige plug-ins. Vraag je IT-verantwoordelijke welke gegevens een plug-in kan lezen voor je hem aanzet."
+   }
+  },
+  {
+   "id": "n20261117a",
+   "d": "2026-11-16",
+   "s": "google",
+   "imp": 3,
+   "t": "Des pirates utilisent une IA qui transforme les correctifs en attaques, sans humain",
+   "sum": "Selon Google, des pirates utilisent un outil IA qui compare le code d'un logiciel avant et après un correctif, trouve la faille et l'attaque tout seul. Des sites web français (médias, éducation) étaient visés.",
+   "c": "Comprendre : dès qu'un correctif sort, l'IA peut fabriquer l'attaque en quelques jours, voire en un jour. Le temps entre « mise à jour disponible » et « attaque » se réduit fortement.",
+   "r": "Réfléchir : une PME qui attend des semaines pour mettre à jour son site, son imprimante réseau ou son serveur devient une cible facile. Les petits sites WordPress ou PHP sont concernés.",
+   "a": "Agir : active les mises à jour automatiques de ton site, de tes extensions et de tes logiciels. Demande à ton prestataire web en combien de jours il installe les correctifs de sécurité.",
+   "url": "https://thenextweb.com/news/google-gtig-ai-exploits-patches-no-human",
+   "src": "The Next Web (rapport Google Threat Intelligence)",
+   "en": {
+    "t": "Hackers use an AI that turns security patches into attacks, with no human involved",
+    "sum": "According to Google, attackers use an AI tool that compares software code before and after a patch, finds the flaw and attacks on its own. French websites (media, education) were targeted.",
+    "c": "Understand: as soon as a patch is released, AI can build the attack within days, sometimes within a day. The gap between \"update available\" and \"attack\" is shrinking fast.",
+    "r": "Reflect: a small business that waits weeks to update its website, network printer or server becomes an easy target. Small WordPress or PHP sites are affected.",
+    "a": "Act: turn on automatic updates for your website, plugins and software. Ask your web provider how many days it takes them to install security patches."
+   },
+   "nl": {
+    "t": "Hackers gebruiken AI die beveiligingsupdates omzet in aanvallen, zonder mens",
+    "sum": "Volgens Google gebruiken hackers een AI-tool die de code van software vóór en na een update vergelijkt, het lek vindt en zelf aanvalt. Franse websites (media, onderwijs) waren het doelwit.",
+    "c": "Begrijpen: zodra een update verschijnt, kan AI de aanval binnen enkele dagen bouwen, soms binnen één dag. De tijd tussen \"update beschikbaar\" en \"aanval\" wordt veel korter.",
+    "r": "Nadenken: een kmo die weken wacht om haar website, netwerkprinter of server bij te werken, wordt een makkelijk doelwit. Kleine WordPress- of PHP-sites lopen risico.",
+    "a": "Doen: zet automatische updates aan voor je website, plug-ins en software. Vraag je webbouwer binnen hoeveel dagen hij beveiligingsupdates installeert."
    }
   },
   {
@@ -650,6 +704,33 @@
    }
   },
   {
+   "id": "n20261115a",
+   "d": "2026-11-13",
+   "s": "google",
+   "imp": 2,
+   "t": "Failles de sécurité : Google les publiera plus vite, même sans correctif",
+   "sum": "L'équipe Project Zero de Google publiera les détails d'une faille 90 jours après l'avoir signalée, qu'elle soit corrigée ou non. Le délai passera à 60 jours en février 2027, puis à 30 jours en janvier 2028.",
+   "c": "Comprendre : avant, Google laissait encore 30 jours aux gens pour installer le correctif. C'est fini. Selon Google, l'IA permet aux pirates d'exploiter une faille presque dès qu'un correctif sort.",
+   "r": "Réfléchir : le temps entre la sortie d'un correctif et la première attaque devient très court. Une PME qui attend des semaines pour faire ses mises à jour prend un vrai risque.",
+   "a": "Agir : active les mises à jour automatiques sur tes PC, téléphones, navigateurs et routeur, et fixe un moment par semaine pour vérifier celles qui restent.",
+   "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+   "src": "Google Project Zero",
+   "en": {
+    "t": "Security flaws: Google will publish them faster, even without a fix",
+    "sum": "Google's Project Zero team will publish flaw details 90 days after reporting them, fixed or not. The window drops to 60 days in February 2027, then 30 days in January 2028.",
+    "c": "Understand: Google used to give people 30 extra days to install the fix. That is gone. According to Google, AI lets attackers exploit a flaw almost as soon as a patch is out.",
+    "r": "Reflect: the time between a patch and the first attack is getting very short. A small business that waits weeks to update is taking a real risk.",
+    "a": "Act: turn on automatic updates on your PCs, phones, browsers and router, and set a weekly slot to check the ones left."
+   },
+   "nl": {
+    "t": "Beveiligingslekken: Google maakt ze sneller bekend, ook zonder oplossing",
+    "sum": "Het Project Zero-team van Google publiceert de details van een lek 90 dagen na de melding, of het nu opgelost is of niet. Die termijn daalt naar 60 dagen in februari 2027 en naar 30 dagen in januari 2028.",
+    "c": "Begrijpen: vroeger gaf Google nog 30 dagen extra om de update te installeren. Dat valt weg. Volgens Google laat AI hackers een lek bijna meteen misbruiken zodra er een patch is.",
+    "r": "Nadenken: de tijd tussen een patch en de eerste aanval wordt heel kort. Een kmo die weken wacht met updaten, neemt een echt risico.",
+    "a": "Doen: zet automatische updates aan op je pc's, smartphones, browsers en router, en plan elke week een moment om de rest na te kijken."
+   }
+  },
+  {
    "id": "n20261116a",
    "d": "2026-11-12",
    "s": "business",
@@ -674,33 +755,6 @@
     "c": "Begrijpen: hackers kopen adressen die bijna identiek zijn aan de echte (bijvoorbeeld \"cluade\" in plaats van \"claude\"). De valse site vraagt je een \"verificatie\"-commando te kopiëren en plakken: dat commando installeert de malware.",
     "r": "Nadenken: in een kmo typt iedereen het adres van zijn AI-tool met de hand. Eén fout volstaat om een pc te besmetten, en valse extensies kunnen namen van klanten of projecten zien die je in de zoekbalk typt.",
     "a": "Doen: maak officiële bladwijzers voor de AI-tools van je team en herinner iedereen eraan dat geen echte website vraagt om een commando in Windows of Terminal te plakken. Controleer ook de geïnstalleerde extensies in Chrome."
-   }
-  },
-  {
-   "id": "n20261114a",
-   "d": "2026-11-12",
-   "s": "microsoft",
-   "imp": 2,
-   "t": "Panne mondiale chez Microsoft : Outlook, Teams et Copilot coupés près d'une journée",
-   "sum": "Le 12 novembre, Outlook, Microsoft 365 et Copilot ont été fortement perturbés dans au moins 74 pays, Europe comprise. Selon Microsoft, la cause est un problème technique réseau, pas une cyberattaque.",
-   "c": "Comprendre : quand Microsoft tombe, la messagerie, les fichiers partagés et l'assistant IA tombent en même temps. Des e-mails peuvent arriver en retard même après le retour à la normale.",
-   "r": "Réfléchir : si toute ton entreprise dépend d'un seul fournisseur, une panne bloque tout le monde. Plus tu confies de tâches à Copilot, plus ce risque compte.",
-   "a": "Agir : note un plan B simple (numéros de téléphone clés, adresse e-mail de secours, fichiers importants disponibles hors ligne) et vérifie les e-mails reçus en retard le 12 et le 13 novembre.",
-   "url": "https://www.techradar.com/news/live/outlook-outage-nov-2026",
-   "src": "TechRadar",
-   "en": {
-    "t": "Global Microsoft outage: Outlook, Teams and Copilot down for almost a day",
-    "sum": "On 12 November, Outlook, Microsoft 365 and Copilot were heavily disrupted in at least 74 countries, including Europe. According to Microsoft, the cause was a technical network issue, not a cyberattack.",
-    "c": "Understand: when Microsoft goes down, email, shared files and the AI assistant all stop at once. Some emails may arrive late even after services recover.",
-    "r": "Think: if your whole business relies on one provider, a single outage stops everyone. The more tasks you hand to Copilot, the more this risk matters.",
-    "a": "Act: write down a simple plan B (key phone numbers, a backup email address, important files available offline) and check for delayed emails from 12 and 13 November."
-   },
-   "nl": {
-    "t": "Wereldwijde storing bij Microsoft: Outlook, Teams en Copilot bijna een dag plat",
-    "sum": "Op 12 november waren Outlook, Microsoft 365 en Copilot zwaar verstoord in minstens 74 landen, ook in Europa. Volgens Microsoft ging het om een technisch netwerkprobleem, niet om een cyberaanval.",
-    "c": "Begrijpen: als Microsoft uitvalt, vallen mail, gedeelde bestanden en de AI-assistent tegelijk weg. Sommige mails kunnen ook na het herstel nog later aankomen.",
-    "r": "Nadenken: als je hele kmo op één leverancier steunt, legt één storing iedereen stil. Hoe meer taken je aan Copilot geeft, hoe groter dat risico.",
-    "a": "Doen: schrijf een eenvoudig plan B op (belangrijke telefoonnummers, een reserve-mailadres, belangrijke bestanden offline beschikbaar) en controleer of er mails van 12 en 13 november te laat zijn binnengekomen."
    }
   },
   {
@@ -731,30 +785,30 @@
    }
   },
   {
-   "id": "n114",
+   "id": "n20261114a",
    "d": "2026-11-12",
-   "s": "google",
-   "imp": 3,
-   "t": "Gemini 4 Hydrogen : le nouveau modèle rapide de Google arrive dans Gemini, la recherche et Sheets",
-   "sum": "Google remplace Gemini 3.8 Flash par Gemini 4 Hydrogen, un modèle rapide pour le travail de tous les jours et les agents. Il est déployé dans le monde entier, dans l'appli Gemini, Google Search, Gemini for business, Google Sheets et l'API.",
-   "c": "Selon Google, Hydrogen fait les tâches environ 2,5 fois plus vite que Gemini 3.8 Flash et invente beaucoup moins de choses. Il propose quatre niveaux de réflexion (low, medium, high, xhigh). Les utilisateurs gratuits l'ont seulement quand Gemini juge qu'il en faut.",
-   "r": "Pour une PME, c'est l'IA de Google « par défaut » qui monte d'un cran, sans rien installer. Les réponses de Google Search changent aussi : plus de tableaux et de liens. Attention : en API, Hydrogen coûte plus cher que l'ancien Flash.",
-   "a": "Refais un test de 10 minutes avec Gemini sur une tâche réelle d'un client (résumé, tableau dans Sheets) et compare avec le résultat d'avant. Note ce qui s'améliore.",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-   "src": "Google (blog officiel)",
+   "s": "microsoft",
+   "imp": 2,
+   "t": "Panne mondiale chez Microsoft : Outlook, Teams et Copilot coupés près d'une journée",
+   "sum": "Le 12 novembre, Outlook, Microsoft 365 et Copilot ont été fortement perturbés dans au moins 74 pays, Europe comprise. Selon Microsoft, la cause est un problème technique réseau, pas une cyberattaque.",
+   "c": "Comprendre : quand Microsoft tombe, la messagerie, les fichiers partagés et l'assistant IA tombent en même temps. Des e-mails peuvent arriver en retard même après le retour à la normale.",
+   "r": "Réfléchir : si toute ton entreprise dépend d'un seul fournisseur, une panne bloque tout le monde. Plus tu confies de tâches à Copilot, plus ce risque compte.",
+   "a": "Agir : note un plan B simple (numéros de téléphone clés, adresse e-mail de secours, fichiers importants disponibles hors ligne) et vérifie les e-mails reçus en retard le 12 et le 13 novembre.",
+   "url": "https://www.techradar.com/news/live/outlook-outage-nov-2026",
+   "src": "TechRadar",
    "en": {
-    "t": "Gemini 4 Hydrogen: Google's new fast model lands in Gemini, Search and Sheets",
-    "sum": "Google is replacing Gemini 3.8 Flash with Gemini 4 Hydrogen, a fast model for everyday work and agents. It is rolling out worldwide in the Gemini app, Google Search, Gemini for business, Google Sheets and the API.",
-    "c": "According to Google, Hydrogen completes tasks about 2.5 times faster than Gemini 3.8 Flash and makes far fewer things up. It offers four thinking levels (low, medium, high, xhigh). Free users only get it when Gemini decides the prompt needs it.",
-    "r": "For a small business, Google's 'default' AI gets a step better with nothing to install. Google Search answers change too: more tables and links. Note: in the API, Hydrogen costs more than the old Flash.",
-    "a": "Run a 10-minute test with Gemini on a real client task (a summary, a table in Sheets) and compare it with the old result. Write down what improved."
+    "t": "Global Microsoft outage: Outlook, Teams and Copilot down for almost a day",
+    "sum": "On 12 November, Outlook, Microsoft 365 and Copilot were heavily disrupted in at least 74 countries, including Europe. According to Microsoft, the cause was a technical network issue, not a cyberattack.",
+    "c": "Understand: when Microsoft goes down, email, shared files and the AI assistant all stop at once. Some emails may arrive late even after services recover.",
+    "r": "Think: if your whole business relies on one provider, a single outage stops everyone. The more tasks you hand to Copilot, the more this risk matters.",
+    "a": "Act: write down a simple plan B (key phone numbers, a backup email address, important files available offline) and check for delayed emails from 12 and 13 November."
    },
    "nl": {
-    "t": "Gemini 4 Hydrogen: het nieuwe snelle model van Google komt naar Gemini, Zoeken en Sheets",
-    "sum": "Google vervangt Gemini 3.8 Flash door Gemini 4 Hydrogen, een snel model voor dagelijks werk en agents. Het wordt wereldwijd uitgerold in de Gemini-app, Google Zoeken, Gemini for business, Google Sheets en de API.",
-    "c": "Volgens Google doet Hydrogen taken ongeveer 2,5 keer sneller dan Gemini 3.8 Flash en verzint het veel minder. Er zijn vier denkniveaus (low, medium, high, xhigh). Gratis gebruikers krijgen het alleen als Gemini vindt dat de vraag het nodig heeft.",
-    "r": "Voor een kmo wordt de 'standaard'-AI van Google een stuk beter, zonder iets te installeren. Ook de antwoorden in Google Zoeken veranderen: meer tabellen en links. Let op: in de API kost Hydrogen meer dan het oude Flash.",
-    "a": "Doe een test van 10 minuten met Gemini op een echte taak van een klant (een samenvatting, een tabel in Sheets) en vergelijk met het vorige resultaat. Noteer wat beter is."
+    "t": "Wereldwijde storing bij Microsoft: Outlook, Teams en Copilot bijna een dag plat",
+    "sum": "Op 12 november waren Outlook, Microsoft 365 en Copilot zwaar verstoord in minstens 74 landen, ook in Europa. Volgens Microsoft ging het om een technisch netwerkprobleem, niet om een cyberaanval.",
+    "c": "Begrijpen: als Microsoft uitvalt, vallen mail, gedeelde bestanden en de AI-assistent tegelijk weg. Sommige mails kunnen ook na het herstel nog later aankomen.",
+    "r": "Nadenken: als je hele kmo op één leverancier steunt, legt één storing iedereen stil. Hoe meer taken je aan Copilot geeft, hoe groter dat risico.",
+    "a": "Doen: schrijf een eenvoudig plan B op (belangrijke telefoonnummers, een reserve-mailadres, belangrijke bestanden offline beschikbaar) en controleer of er mails van 12 en 13 november te laat zijn binnengekomen."
    }
   },
   {
@@ -785,57 +839,30 @@
    }
   },
   {
-   "id": "n110",
-   "d": "2026-11-11",
+   "id": "n114",
+   "d": "2026-11-12",
    "s": "google",
-   "imp": 2,
-   "t": "Gemini Decisions API : une IA qui tranche vite entre oui, non ou plusieurs choix",
-   "sum": "Google lance une API qui ne rédige pas de texte : elle choisit entre des options (oui/non, choix multiple, note) et donne un score de confiance. Elle répond en environ 0,2 seconde et coûte 0,10 dollar par million de jetons en entrée, avec une version gratuite dans Google AI Studio.",
-   "c": "Jusqu'ici, pour trier un e-mail ou classer un document, on demandait à un modèle d'écrire une réponse. Ici, le modèle note directement chaque option et peut répondre à des centaines de questions sur un même document en une seule fois.",
-   "r": "Pour une PME, c'est une brique pas chère pour automatiser des tris simples : ranger les e-mails entrants, vérifier si une facture est complète, classer des avis clients. Le score de confiance permet d'envoyer les cas douteux à un humain.",
-   "a": "Choisis un tri répétitif chez un client (ex. : e-mails « devis / réclamation / autre ») et teste-le gratuitement dans Google AI Studio sur une vingtaine d'exemples.",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "imp": 3,
+   "t": "Gemini 4 Hydrogen : le nouveau modèle rapide de Google arrive dans Gemini, la recherche et Sheets",
+   "sum": "Google remplace Gemini 3.8 Flash par Gemini 4 Hydrogen, un modèle rapide pour le travail de tous les jours et les agents. Il est déployé dans le monde entier, dans l'appli Gemini, Google Search, Gemini for business, Google Sheets et l'API.",
+   "c": "Selon Google, Hydrogen fait les tâches environ 2,5 fois plus vite que Gemini 3.8 Flash et invente beaucoup moins de choses. Il propose quatre niveaux de réflexion (low, medium, high, xhigh). Les utilisateurs gratuits l'ont seulement quand Gemini juge qu'il en faut.",
+   "r": "Pour une PME, c'est l'IA de Google « par défaut » qui monte d'un cran, sans rien installer. Les réponses de Google Search changent aussi : plus de tableaux et de liens. Attention : en API, Hydrogen coûte plus cher que l'ancien Flash.",
+   "a": "Refais un test de 10 minutes avec Gemini sur une tâche réelle d'un client (résumé, tableau dans Sheets) et compare avec le résultat d'avant. Note ce qui s'améliore.",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
    "src": "Google (blog officiel)",
    "en": {
-    "t": "Gemini Decisions API: an AI that quickly picks yes, no or one of several options",
-    "sum": "Google is launching an API that doesn't write text: it picks between options (yes/no, multiple choice, a score) and returns a confidence score. It answers in about 0.2 seconds and costs $0.10 per million input tokens, with a free tier in Google AI Studio.",
-    "c": "Until now, to sort an email or classify a document, you asked a model to write an answer. Here the model scores each option directly and can answer hundreds of questions about one document in a single call.",
-    "r": "For a small business, it's a cheap building block for simple sorting: routing incoming emails, checking whether an invoice is complete, classifying customer reviews. The confidence score lets you send unclear cases to a human.",
-    "a": "Pick one repetitive sorting task at a client (e.g. emails: \"quote / complaint / other\") and test it for free in Google AI Studio on about twenty examples."
+    "t": "Gemini 4 Hydrogen: Google's new fast model lands in Gemini, Search and Sheets",
+    "sum": "Google is replacing Gemini 3.8 Flash with Gemini 4 Hydrogen, a fast model for everyday work and agents. It is rolling out worldwide in the Gemini app, Google Search, Gemini for business, Google Sheets and the API.",
+    "c": "According to Google, Hydrogen completes tasks about 2.5 times faster than Gemini 3.8 Flash and makes far fewer things up. It offers four thinking levels (low, medium, high, xhigh). Free users only get it when Gemini decides the prompt needs it.",
+    "r": "For a small business, Google's 'default' AI gets a step better with nothing to install. Google Search answers change too: more tables and links. Note: in the API, Hydrogen costs more than the old Flash.",
+    "a": "Run a 10-minute test with Gemini on a real client task (a summary, a table in Sheets) and compare it with the old result. Write down what improved."
    },
    "nl": {
-    "t": "Gemini Decisions API: een AI die snel kiest tussen ja, nee of meerdere opties",
-    "sum": "Google lanceert een API die geen tekst schrijft: ze kiest tussen opties (ja/nee, meerkeuze, een score) en geeft een betrouwbaarheidsscore. Ze antwoordt in ongeveer 0,2 seconden en kost 0,10 dollar per miljoen invoertokens, met een gratis versie in Google AI Studio.",
-    "c": "Tot nu toe liet je een model een antwoord schrijven om een e-mail te sorteren of een document in te delen. Hier geeft het model elke optie meteen een score en kan het honderden vragen over één document in één keer beantwoorden.",
-    "r": "Voor een kmo is dit een goedkope bouwsteen om eenvoudige sorteertaken te automatiseren: inkomende e-mails verdelen, nakijken of een factuur volledig is, klantenreviews indelen. Met de betrouwbaarheidsscore stuur je twijfelgevallen naar een mens.",
-    "a": "Kies een repetitieve sorteertaak bij een klant (bv. e-mails: \"offerte / klacht / andere\") en test die gratis in Google AI Studio op een twintigtal voorbeelden."
-   }
-  },
-  {
-   "id": "n111",
-   "d": "2026-11-11",
-   "s": "anthropic",
-   "imp": 2,
-   "t": "Étude Anthropic : un seul agent coordinateur fait mieux qu'une équipe d'agents",
-   "sum": "Des chercheurs liés à Anthropic ont testé des situations où plusieurs personnes ont chacune leur agent IA et partagent une même ressource (budget, agenda, commande groupée). Un agent unique qui coordonne tout a obtenu de meilleurs résultats que des agents qui se parlent entre eux, dans les quatre cas testés.",
-   "c": "Quand chaque collègue a son propre agent, les agents agissent trop tard, se marchent dessus ou valident une commande avant d'avoir lu tous les messages. Les chercheurs ont aussi vu des agents annuler le travail d'autres utilisateurs sans demander.",
-   "r": "Beaucoup de PME vont donner un assistant IA à chaque employé. Si ces assistants touchent à des choses partagées (agenda commun, stock, budget), il faut un chef d'orchestre et des garde-fous, sinon les erreurs se multiplient.",
-   "a": "Chez un client qui veut des agents par employé, désigne un seul agent « responsable » pour chaque ressource partagée et impose une validation humaine avant toute commande ou réservation.",
-   "url": "https://alignment.anthropic.com/2026/worse-together",
-   "src": "Anthropic (blog alignement)",
-   "en": {
-    "t": "Anthropic study: one coordinating agent beats a team of agents",
-    "sum": "Anthropic-affiliated researchers tested setups where several people each have their own AI agent and share one resource (a budget, a calendar, a group order). A single agent coordinating everything got better results than agents talking to each other, in all four cases tested.",
-    "c": "When every colleague has their own agent, the agents act too late, step on each other or confirm an order before reading all messages. The researchers also saw agents cancel other users' work without asking.",
-    "r": "Many small businesses will give each employee an AI assistant. If those assistants touch shared things (a team calendar, stock, a budget), you need one conductor and guardrails, or errors multiply.",
-    "a": "For a client who wants one agent per employee, name a single \"owner\" agent for each shared resource and require human approval before any order or booking."
-   },
-   "nl": {
-    "t": "Studie van Anthropic: één coördinerende agent doet het beter dan een team van agents",
-    "sum": "Onderzoekers verbonden aan Anthropic testten situaties waarin meerdere mensen elk een eigen AI-agent hebben en één middel delen (een budget, een agenda, een groepsbestelling). Eén agent die alles coördineert, haalde in alle vier de tests betere resultaten dan agents die onderling praten.",
-    "c": "Als elke collega een eigen agent heeft, handelen de agents te laat, zitten ze elkaar in de weg of bevestigen ze een bestelling voor ze alle berichten gelezen hebben. De onderzoekers zagen ook agents die het werk van andere gebruikers annuleerden zonder te vragen.",
-    "r": "Veel kmo's gaan elke medewerker een AI-assistent geven. Als die assistenten aan gedeelde zaken komen (een gemeenschappelijke agenda, voorraad, een budget), heb je één dirigent en vangrails nodig, anders stapelen de fouten zich op.",
-    "a": "Bij een klant die per medewerker een agent wil: wijs voor elk gedeeld middel één \"verantwoordelijke\" agent aan en verplicht een menselijke goedkeuring voor elke bestelling of reservering."
+    "t": "Gemini 4 Hydrogen: het nieuwe snelle model van Google komt naar Gemini, Zoeken en Sheets",
+    "sum": "Google vervangt Gemini 3.8 Flash door Gemini 4 Hydrogen, een snel model voor dagelijks werk en agents. Het wordt wereldwijd uitgerold in de Gemini-app, Google Zoeken, Gemini for business, Google Sheets en de API.",
+    "c": "Volgens Google doet Hydrogen taken ongeveer 2,5 keer sneller dan Gemini 3.8 Flash en verzint het veel minder. Er zijn vier denkniveaus (low, medium, high, xhigh). Gratis gebruikers krijgen het alleen als Gemini vindt dat de vraag het nodig heeft.",
+    "r": "Voor een kmo wordt de 'standaard'-AI van Google een stuk beter, zonder iets te installeren. Ook de antwoorden in Google Zoeken veranderen: meer tabellen en links. Let op: in de API kost Hydrogen meer dan het oude Flash.",
+    "a": "Doe een test van 10 minuten met Gemini op een echte taak van een klant (een samenvatting, een tabel in Sheets) en vergelijk met het vorige resultaat. Noteer wat beter is."
    }
   },
   {
@@ -866,6 +893,60 @@
    }
   },
   {
+   "id": "n111",
+   "d": "2026-11-11",
+   "s": "anthropic",
+   "imp": 2,
+   "t": "Étude Anthropic : un seul agent coordinateur fait mieux qu'une équipe d'agents",
+   "sum": "Des chercheurs liés à Anthropic ont testé des situations où plusieurs personnes ont chacune leur agent IA et partagent une même ressource (budget, agenda, commande groupée). Un agent unique qui coordonne tout a obtenu de meilleurs résultats que des agents qui se parlent entre eux, dans les quatre cas testés.",
+   "c": "Quand chaque collègue a son propre agent, les agents agissent trop tard, se marchent dessus ou valident une commande avant d'avoir lu tous les messages. Les chercheurs ont aussi vu des agents annuler le travail d'autres utilisateurs sans demander.",
+   "r": "Beaucoup de PME vont donner un assistant IA à chaque employé. Si ces assistants touchent à des choses partagées (agenda commun, stock, budget), il faut un chef d'orchestre et des garde-fous, sinon les erreurs se multiplient.",
+   "a": "Chez un client qui veut des agents par employé, désigne un seul agent « responsable » pour chaque ressource partagée et impose une validation humaine avant toute commande ou réservation.",
+   "url": "https://alignment.anthropic.com/2026/worse-together",
+   "src": "Anthropic (blog alignement)",
+   "en": {
+    "t": "Anthropic study: one coordinating agent beats a team of agents",
+    "sum": "Anthropic-affiliated researchers tested setups where several people each have their own AI agent and share one resource (a budget, a calendar, a group order). A single agent coordinating everything got better results than agents talking to each other, in all four cases tested.",
+    "c": "When every colleague has their own agent, the agents act too late, step on each other or confirm an order before reading all messages. The researchers also saw agents cancel other users' work without asking.",
+    "r": "Many small businesses will give each employee an AI assistant. If those assistants touch shared things (a team calendar, stock, a budget), you need one conductor and guardrails, or errors multiply.",
+    "a": "For a client who wants one agent per employee, name a single \"owner\" agent for each shared resource and require human approval before any order or booking."
+   },
+   "nl": {
+    "t": "Studie van Anthropic: één coördinerende agent doet het beter dan een team van agents",
+    "sum": "Onderzoekers verbonden aan Anthropic testten situaties waarin meerdere mensen elk een eigen AI-agent hebben en één middel delen (een budget, een agenda, een groepsbestelling). Eén agent die alles coördineert, haalde in alle vier de tests betere resultaten dan agents die onderling praten.",
+    "c": "Als elke collega een eigen agent heeft, handelen de agents te laat, zitten ze elkaar in de weg of bevestigen ze een bestelling voor ze alle berichten gelezen hebben. De onderzoekers zagen ook agents die het werk van andere gebruikers annuleerden zonder te vragen.",
+    "r": "Veel kmo's gaan elke medewerker een AI-assistent geven. Als die assistenten aan gedeelde zaken komen (een gemeenschappelijke agenda, voorraad, een budget), heb je één dirigent en vangrails nodig, anders stapelen de fouten zich op.",
+    "a": "Bij een klant die per medewerker een agent wil: wijs voor elk gedeeld middel één \"verantwoordelijke\" agent aan en verplicht een menselijke goedkeuring voor elke bestelling of reservering."
+   }
+  },
+  {
+   "id": "n110",
+   "d": "2026-11-11",
+   "s": "google",
+   "imp": 2,
+   "t": "Gemini Decisions API : une IA qui tranche vite entre oui, non ou plusieurs choix",
+   "sum": "Google lance une API qui ne rédige pas de texte : elle choisit entre des options (oui/non, choix multiple, note) et donne un score de confiance. Elle répond en environ 0,2 seconde et coûte 0,10 dollar par million de jetons en entrée, avec une version gratuite dans Google AI Studio.",
+   "c": "Jusqu'ici, pour trier un e-mail ou classer un document, on demandait à un modèle d'écrire une réponse. Ici, le modèle note directement chaque option et peut répondre à des centaines de questions sur un même document en une seule fois.",
+   "r": "Pour une PME, c'est une brique pas chère pour automatiser des tris simples : ranger les e-mails entrants, vérifier si une facture est complète, classer des avis clients. Le score de confiance permet d'envoyer les cas douteux à un humain.",
+   "a": "Choisis un tri répétitif chez un client (ex. : e-mails « devis / réclamation / autre ») et teste-le gratuitement dans Google AI Studio sur une vingtaine d'exemples.",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "src": "Google (blog officiel)",
+   "en": {
+    "t": "Gemini Decisions API: an AI that quickly picks yes, no or one of several options",
+    "sum": "Google is launching an API that doesn't write text: it picks between options (yes/no, multiple choice, a score) and returns a confidence score. It answers in about 0.2 seconds and costs $0.10 per million input tokens, with a free tier in Google AI Studio.",
+    "c": "Until now, to sort an email or classify a document, you asked a model to write an answer. Here the model scores each option directly and can answer hundreds of questions about one document in a single call.",
+    "r": "For a small business, it's a cheap building block for simple sorting: routing incoming emails, checking whether an invoice is complete, classifying customer reviews. The confidence score lets you send unclear cases to a human.",
+    "a": "Pick one repetitive sorting task at a client (e.g. emails: \"quote / complaint / other\") and test it for free in Google AI Studio on about twenty examples."
+   },
+   "nl": {
+    "t": "Gemini Decisions API: een AI die snel kiest tussen ja, nee of meerdere opties",
+    "sum": "Google lanceert een API die geen tekst schrijft: ze kiest tussen opties (ja/nee, meerkeuze, een score) en geeft een betrouwbaarheidsscore. Ze antwoordt in ongeveer 0,2 seconden en kost 0,10 dollar per miljoen invoertokens, met een gratis versie in Google AI Studio.",
+    "c": "Tot nu toe liet je een model een antwoord schrijven om een e-mail te sorteren of een document in te delen. Hier geeft het model elke optie meteen een score en kan het honderden vragen over één document in één keer beantwoorden.",
+    "r": "Voor een kmo is dit een goedkope bouwsteen om eenvoudige sorteertaken te automatiseren: inkomende e-mails verdelen, nakijken of een factuur volledig is, klantenreviews indelen. Met de betrouwbaarheidsscore stuur je twijfelgevallen naar een mens.",
+    "a": "Kies een repetitieve sorteertaak bij een klant (bv. e-mails: \"offerte / klacht / andere\") en test die gratis in Google AI Studio op een twintigtal voorbeelden."
+   }
+  },
+  {
    "id": "n20261116b",
    "d": "2026-11-10",
    "s": "google",
@@ -890,114 +971,6 @@
     "c": "Begrijpen: deze tools waren voorbehouden aan bepaalde Workspace-abonnementen. Ze staan nu standaard aan voor iedereen; elke gebruiker kan ze uitzetten en de beheerder kan ze voor het hele bedrijf blokkeren.",
     "r": "Nadenken: je team ziet AI verschijnen in Gmail zonder erom te vragen. Handig om tijd te winnen, maar je moet beslissen of het past bij je beleid rond klantgegevens.",
     "a": "Doen: beheer je Google Workspace, open dan de beheerconsole en beslis of Gemini actief blijft in Gmail. Laat je team daarna weten wat er verandert en welke regels gelden."
-   }
-  },
-  {
-   "id": "n20261113a",
-   "d": "2026-11-10",
-   "s": "anthropic",
-   "imp": 3,
-   "t": "Claude Meetings : Claude rejoint tes réunions Google Meet et avance le travail pendant l'appel (bêta)",
-   "sum": "Anthropic lance en bêta Claude Meetings : on invite Claude comme participant visible à un appel, et il rédige des plans, construit des calendriers, organise les tâches et répond dans le chat de la réunion en s'appuyant sur les applications connectées. La bêta est réservée aux abonnés Team et Enterprise sur Google Meet, et Claude ne rejoint pas un appel avec des invités externes sans l'accord d'un administrateur.",
-   "c": "L'IA ne se contente plus de résumer la réunion après coup : elle travaille pendant la discussion et livre notes et actions à la fin.",
-   "r": "Pour une PME, c'est un gain de temps réel sur le suivi des réunions, mais seulement sur Google Meet pour l'instant, alors que beaucoup de PME belges sont sur Teams. Et faire entrer une IA dans une réunion pose tout de suite la question du consentement des participants et du RGPD.",
-   "a": "Prépare une mini-règle « IA en réunion » pour tes clients : qui peut inviter Claude, quelles réunions sont exclues (RH, clients externes), et comment on prévient les participants.",
-   "url": "https://gulfnews.com/technology/companies/claude-can-now-join-work-meetings-and-complete-tasks-as-you-talk-1.500743080",
-   "src": "Gulf News",
-   "en": {
-    "t": "Claude Meetings: Claude joins your Google Meet calls and moves work forward during the call (beta)",
-    "sum": "Anthropic is launching Claude Meetings in beta: you invite Claude as a visible participant in a call, and it drafts plans, builds timelines, organises tasks and answers in the meeting chat using connected apps. The beta is limited to Team and Enterprise subscribers on Google Meet, and Claude won't join a call with external guests without an admin's approval.",
-    "c": "AI no longer just summarises the meeting afterwards: it works during the discussion and delivers notes and actions at the end.",
-    "r": "For an SME, it's a real time saver on meeting follow-up, but only on Google Meet for now, while many Belgian SMEs use Teams. And bringing an AI into a meeting immediately raises the question of participant consent and GDPR.",
-    "a": "Prepare a short « AI in meetings » rule for your clients: who can invite Claude, which meetings are excluded (HR, external clients), and how participants are informed."
-   },
-   "nl": {
-    "t": "Claude Meetings: Claude neemt deel aan je Google Meet-vergaderingen en werkt mee tijdens het gesprek (bèta)",
-    "sum": "Anthropic lanceert Claude Meetings in bèta: je nodigt Claude uit als zichtbare deelnemer aan een gesprek, en het schrijft plannen, maakt tijdlijnen, organiseert taken en antwoordt in de chat van de vergadering op basis van gekoppelde apps. De bèta is voorbehouden aan Team- en Enterprise-abonnees op Google Meet, en Claude neemt niet deel aan een gesprek met externe gasten zonder toestemming van een beheerder.",
-    "c": "AI vat de vergadering niet meer alleen achteraf samen: ze werkt mee tijdens het gesprek en levert op het einde notities en acties.",
-    "r": "Voor een kmo is dat echte tijdwinst bij de opvolging van vergaderingen, maar voorlopig alleen op Google Meet, terwijl veel Belgische kmo's Teams gebruiken. En een AI in een vergadering roept meteen de vraag op naar de toestemming van de deelnemers en de GDPR.",
-    "a": "Maak voor je klanten een korte regel « AI in vergaderingen »: wie Claude mag uitnodigen, welke vergaderingen uitgesloten zijn (HR, externe klanten) en hoe je de deelnemers verwittigt."
-   }
-  },
-  {
-   "id": "n112",
-   "d": "2026-11-10",
-   "s": "openai",
-   "imp": 3,
-   "t": "ChatGPT ouvre officiellement les profils d'entreprise vérifiés (bêta)",
-   "sum": "OpenAI lance en bêta « Businesses in ChatGPT » : une entreprise peut revendiquer son profil, obtenir une coche bleue, mettre à jour ses infos, prix et stock, et voir combien de fois ChatGPT la mentionne. Les agents de vente intégrés sont pour l'instant réservés à certaines entreprises d'e-commerce américaines.",
-   "c": "Ce qui n'était qu'un test repéré début novembre est maintenant lancé. Le tableau de bord montre les mentions, les clics vers le site et les grands sujets de conversation, sans donner accès aux discussions des utilisateurs, selon OpenAI.",
-   "r": "Être bien décrit dans ChatGPT devient un vrai canal, comme une fiche Google. Pour une PME belge, les agents ne sont pas encore disponibles, et l'article ne dit pas si les profils sont ouverts hors des États-Unis.",
-   "a": "Vérifie si un de tes clients peut déjà revendiquer son profil dans ChatGPT. Sinon, prépare ses infos à jour (horaires, services, prix) pour être prêt à l'ouverture en Europe.",
-   "url": "https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents",
-   "src": "The Next Web",
-   "en": {
-    "t": "ChatGPT officially opens verified business profiles (beta)",
-    "sum": "OpenAI is launching \"Businesses in ChatGPT\" in beta: a business can claim its profile, get a blue check, update its details, prices and stock, and see how often ChatGPT mentions it. The built-in sales agents are for now limited to some US e-commerce companies.",
-    "c": "What was only a test spotted in early November is now launched. The dashboard shows mentions, clicks to the website and main conversation topics, without access to users' chats, according to OpenAI.",
-    "r": "Being well described in ChatGPT is becoming a real channel, like a Google listing. For a Belgian small business, the agents aren't available yet, and the article doesn't say whether profiles are open outside the US.",
-    "a": "Check whether one of your clients can already claim its ChatGPT profile. If not, prepare its up-to-date details (hours, services, prices) so it's ready when Europe opens."
-   },
-   "nl": {
-    "t": "ChatGPT opent officieel geverifieerde bedrijfsprofielen (bèta)",
-    "sum": "OpenAI lanceert \"Businesses in ChatGPT\" in bèta: een bedrijf kan zijn profiel claimen, een blauw vinkje krijgen, zijn gegevens, prijzen en voorraad bijwerken en zien hoe vaak ChatGPT het noemt. De ingebouwde verkoopagents zijn voorlopig voorbehouden aan bepaalde Amerikaanse webwinkels.",
-    "c": "Wat begin november alleen een test was, is nu gelanceerd. Het dashboard toont vermeldingen, klikken naar de website en de grote gespreksonderwerpen, zonder toegang tot de gesprekken van gebruikers, volgens OpenAI.",
-    "r": "Goed beschreven staan in ChatGPT wordt een echt kanaal, zoals een Google-bedrijfsprofiel. Voor een Belgische kmo zijn de agents nog niet beschikbaar, en het artikel zegt niet of de profielen buiten de VS open zijn.",
-    "a": "Kijk of een van je klanten zijn ChatGPT-profiel al kan claimen. Zo niet, zet zijn gegevens (openingsuren, diensten, prijzen) klaar voor de opening in Europa."
-   }
-  },
-  {
-   "id": "n20261113c",
-   "d": "2026-11-10",
-   "s": "europe",
-   "imp": 2,
-   "t": "AI Act : des règles communes pour les « bacs à sable » de l'IA, avec un accès prioritaire et gratuit pour les PME",
-   "sum": "La Commission européenne a adopté le 10 novembre 2026 le règlement d'exécution (UE) 2026/2487, qui fixe des règles communes pour les bacs à sable réglementaires de l'IA que chaque pays doit organiser ; il s'applique à partir du 1er décembre 2026. Les PME et start-ups établies dans l'UE y ont un accès prioritaire et des services de base gratuits, mais un passage dans le bac à sable ne vaut pas certificat de conformité.",
-   "c": "Un bac à sable, c'est un cadre où une entreprise peut tester son système d'IA avec l'aide et sous la surveillance de l'autorité, avant de le lancer.",
-   "r": "C'est surtout utile pour une PME qui développe elle-même un système d'IA à risque, pas pour celle qui utilise simplement ChatGPT ou Copilot. Et en Belgique, l'autorité de contrôle de l'AI Act n'est pas encore désignée par une loi.",
-   "a": "Ajoute une ligne « bacs à sable AI Act » dans ta fiche réglementation, et garde-la pour tes clients qui créent un produit IA.",
-   "url": "https://www.techtimes.com/articles/330540/20261112/eu-ai-regulatory-sandbox-rules-start-december-1-tests-earn-no-compliance-clearance-liability-stays.htm",
-   "src": "Tech Times",
-   "en": {
-    "t": "AI Act: common rules for AI « regulatory sandboxes », with priority and free access for SMEs",
-    "sum": "On 10 November 2026 the European Commission adopted Implementing Regulation (EU) 2026/2487, which sets common rules for the AI regulatory sandboxes each country must run; it applies from 1 December 2026. SMEs and start-ups established in the EU get priority access and free core services, but taking part in a sandbox is not a certificate of conformity.",
-    "c": "A sandbox is a setting where a company can test its AI system with the help and under the supervision of the authority, before launching it.",
-    "r": "It's mainly useful for an SME that builds its own risky AI system, not for one that simply uses ChatGPT or Copilot. And in Belgium, the AI Act supervisory authority has not yet been designated by law.",
-    "a": "Add an « AI Act sandboxes » line to your regulation sheet, and keep it for clients who build an AI product."
-   },
-   "nl": {
-    "t": "AI Act: gemeenschappelijke regels voor AI-« sandboxes », met voorrang en gratis toegang voor kmo's",
-    "sum": "De Europese Commissie heeft op 10 november 2026 uitvoeringsverordening (EU) 2026/2487 aangenomen, met gemeenschappelijke regels voor de regulatoire AI-sandboxes die elk land moet organiseren; ze geldt vanaf 1 december 2026. Kmo's en start-ups die in de EU gevestigd zijn, krijgen voorrang en gratis basisdiensten, maar deelname aan een sandbox geldt niet als conformiteitsattest.",
-    "c": "Een sandbox is een kader waarin een bedrijf zijn AI-systeem kan testen met hulp en onder toezicht van de overheid, voor het op de markt komt.",
-    "r": "Dat is vooral nuttig voor een kmo die zelf een risicovol AI-systeem ontwikkelt, niet voor een kmo die gewoon ChatGPT of Copilot gebruikt. En in België is de toezichthouder voor de AI Act nog niet bij wet aangeduid.",
-    "a": "Voeg een regel « AI Act-sandboxes » toe aan je fiche regelgeving, en bewaar die voor klanten die een AI-product bouwen."
-   }
-  },
-  {
-   "id": "n20261113d",
-   "d": "2026-11-10",
-   "s": "anthropic",
-   "imp": 2,
-   "t": "Claude Sheets et Whiteboards en bêta, et Claude Data pour tous les forfaits payants",
-   "sum": "Anthropic lance en bêta Claude Sheets, un tableur que Claude construit et modifie avec toi (onglets, formules, listes déroulantes), et Claude Whiteboards, un tableau blanc partagé pour réfléchir en équipe. Claude Dashboards devient Claude Data, disponible sur tous les forfaits payants avec un connecteur de données ; sur Enterprise, Sheets et Whiteboards sont désactivés par défaut et Claude Data s'active le 19 novembre.",
-   "c": "Claude ne fait plus seulement du texte : il fabrique des tableurs, des tableaux blancs et des tableaux de bord directement dans son interface.",
-   "r": "Pour une PME, cela touche des outils déjà payés (Excel, Miro, Power BI). Anthropic reconnaît que les fonctions de tableur restent simples pour l'instant.",
-   "a": "Si un client a Claude Enterprise, préviens son administrateur : Claude Data s'active par défaut le 19 novembre, il peut le régler dans les paramètres de l'organisation.",
-   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-   "src": "Claude",
-   "en": {
-    "t": "Claude Sheets and Whiteboards in beta, and Claude Data for all paid plans",
-    "sum": "Anthropic is launching Claude Sheets in beta, a spreadsheet Claude builds and edits with you (tabs, formulas, drop-downs), and Claude Whiteboards, a shared board for team brainstorming. Claude Dashboards becomes Claude Data, available on all paid plans with a data connector; on Enterprise, Sheets and Whiteboards are off by default and Claude Data turns on on 19 November.",
-    "c": "Claude no longer just writes text: it builds spreadsheets, whiteboards and dashboards right in its interface.",
-    "r": "For an SME, this overlaps with tools already paid for (Excel, Miro, Power BI). Anthropic admits the spreadsheet features are still simple for now.",
-    "a": "If a client has Claude Enterprise, warn their admin: Claude Data turns on by default on 19 November, and they can change it in the organisation settings."
-   },
-   "nl": {
-    "t": "Claude Sheets en Whiteboards in bèta, en Claude Data voor alle betalende abonnementen",
-    "sum": "Anthropic lanceert Claude Sheets in bèta, een rekenblad dat Claude samen met jou bouwt en aanpast (tabbladen, formules, keuzelijsten), en Claude Whiteboards, een gedeeld bord om in team te brainstormen. Claude Dashboards wordt Claude Data, beschikbaar op alle betalende abonnementen met een dataconnector; op Enterprise staan Sheets en Whiteboards standaard uit en gaat Claude Data op 19 november aan.",
-    "c": "Claude schrijft niet langer alleen tekst: het maakt rekenbladen, whiteboards en dashboards rechtstreeks in zijn interface.",
-    "r": "Voor een kmo overlapt dat met tools die al betaald worden (Excel, Miro, Power BI). Anthropic geeft toe dat de rekenbladfuncties voorlopig nog eenvoudig zijn.",
-    "a": "Heeft een klant Claude Enterprise? Verwittig dan zijn beheerder: Claude Data gaat op 19 november standaard aan, en dat kan hij aanpassen in de organisatie-instellingen."
    }
   },
   {
@@ -1028,57 +1001,84 @@
    }
   },
   {
-   "id": "n107",
-   "d": "2026-11-09",
-   "s": "openai",
-   "imp": 3,
-   "t": "ChatGPT teste un espace pour que les entreprises « réclament » leur fiche",
-   "sum": "OpenAI teste un tableau de bord qui montre combien de fois une entreprise apparaît dans les réponses de ChatGPT et combien de clics cela lui envoie. Il fait partie d'un « Business Hub » pas encore lancé, repéré par un analyste le 6 novembre.",
-   "c": "Une entreprise pourra revendiquer sa fiche dans ChatGPT, prouver qu'elle la représente (par exemple en connectant sa boutique Shopify), tenir ses infos à jour et activer un agent qui répond aux questions des clients. Le tableau montre les apparitions et les clics par jour, sans les questions des utilisateurs. OpenAI n'a pas commenté.",
-   "r": "Pour une PME, c'est comme une fiche Google Business, mais dans ChatGPT : être bien décrite là où les gens posent leurs questions va compter. C'est aussi une porte d'entrée possible vers la publicité payante dans ChatGPT.",
-   "a": "Demande à ChatGPT ce qu'il dit de deux ou trois de tes clients (horaires, services, avis) et note les erreurs. Prépare-leur une fiche d'infos propre, prête à être utilisée dès l'ouverture du Business Hub.",
-   "url": "https://digiday.com/marketing/chatgpt-is-about-to-show-brands-their-mention-count/",
-   "src": "Digiday",
+   "id": "n20261113d",
+   "d": "2026-11-10",
+   "s": "anthropic",
+   "imp": 2,
+   "t": "Claude Sheets et Whiteboards en bêta, et Claude Data pour tous les forfaits payants",
+   "sum": "Anthropic lance en bêta Claude Sheets, un tableur que Claude construit et modifie avec toi (onglets, formules, listes déroulantes), et Claude Whiteboards, un tableau blanc partagé pour réfléchir en équipe. Claude Dashboards devient Claude Data, disponible sur tous les forfaits payants avec un connecteur de données ; sur Enterprise, Sheets et Whiteboards sont désactivés par défaut et Claude Data s'active le 19 novembre.",
+   "c": "Claude ne fait plus seulement du texte : il fabrique des tableurs, des tableaux blancs et des tableaux de bord directement dans son interface.",
+   "r": "Pour une PME, cela touche des outils déjà payés (Excel, Miro, Power BI). Anthropic reconnaît que les fonctions de tableur restent simples pour l'instant.",
+   "a": "Si un client a Claude Enterprise, préviens son administrateur : Claude Data s'active par défaut le 19 novembre, il peut le régler dans les paramètres de l'organisation.",
+   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+   "src": "Claude",
    "en": {
-    "t": "ChatGPT tests a space for businesses to « claim » their listing",
-    "sum": "OpenAI is testing a dashboard that shows how often a business appears in ChatGPT answers and how many clicks that sends to it. It is part of a « Business Hub » that has not launched yet, spotted by an analyst on 6 November.",
-    "c": "A business will be able to claim its listing in ChatGPT, prove it represents the company (for example by connecting its Shopify store), keep its information up to date and switch on an agent that answers customer questions. The dashboard shows daily appearances and clicks, without users' questions. OpenAI did not comment.",
-    "r": "For a small business, it is like a Google Business profile, but inside ChatGPT: being described correctly where people ask their questions will matter. It may also become a way into paid advertising in ChatGPT.",
-    "a": "Ask ChatGPT what it says about two or three of your clients (opening hours, services, reviews) and note the mistakes. Prepare a clean fact sheet for them, ready to use as soon as the Business Hub opens."
+    "t": "Claude Sheets and Whiteboards in beta, and Claude Data for all paid plans",
+    "sum": "Anthropic is launching Claude Sheets in beta, a spreadsheet Claude builds and edits with you (tabs, formulas, drop-downs), and Claude Whiteboards, a shared board for team brainstorming. Claude Dashboards becomes Claude Data, available on all paid plans with a data connector; on Enterprise, Sheets and Whiteboards are off by default and Claude Data turns on on 19 November.",
+    "c": "Claude no longer just writes text: it builds spreadsheets, whiteboards and dashboards right in its interface.",
+    "r": "For an SME, this overlaps with tools already paid for (Excel, Miro, Power BI). Anthropic admits the spreadsheet features are still simple for now.",
+    "a": "If a client has Claude Enterprise, warn their admin: Claude Data turns on by default on 19 November, and they can change it in the organisation settings."
    },
    "nl": {
-    "t": "ChatGPT test een plek waar bedrijven hun vermelding kunnen « claimen »",
-    "sum": "OpenAI test een dashboard dat toont hoe vaak een bedrijf in de antwoorden van ChatGPT verschijnt en hoeveel klikken dat oplevert. Het hoort bij een « Business Hub » die nog niet gelanceerd is en die een analist op 6 november opmerkte.",
-    "c": "Een bedrijf zal zijn vermelding in ChatGPT kunnen claimen, bewijzen dat het het bedrijf vertegenwoordigt (bijvoorbeeld door zijn Shopify-winkel te koppelen), zijn gegevens actueel houden en een agent inschakelen die vragen van klanten beantwoordt. Het dashboard toont per dag de vermeldingen en klikken, zonder de vragen van gebruikers. OpenAI gaf geen commentaar.",
-    "r": "Voor een kmo is dit zoals een Google-bedrijfsprofiel, maar in ChatGPT: correct beschreven worden waar mensen hun vragen stellen, wordt belangrijk. Het kan ook een opstap worden naar betaalde advertenties in ChatGPT.",
-    "a": "Vraag ChatGPT wat het zegt over twee of drie van je klanten (openingsuren, diensten, reviews) en noteer de fouten. Maak voor hen een nette fiche met gegevens, klaar voor gebruik zodra de Business Hub opent."
+    "t": "Claude Sheets en Whiteboards in bèta, en Claude Data voor alle betalende abonnementen",
+    "sum": "Anthropic lanceert Claude Sheets in bèta, een rekenblad dat Claude samen met jou bouwt en aanpast (tabbladen, formules, keuzelijsten), en Claude Whiteboards, een gedeeld bord om in team te brainstormen. Claude Dashboards wordt Claude Data, beschikbaar op alle betalende abonnementen met een dataconnector; op Enterprise staan Sheets en Whiteboards standaard uit en gaat Claude Data op 19 november aan.",
+    "c": "Claude schrijft niet langer alleen tekst: het maakt rekenbladen, whiteboards en dashboards rechtstreeks in zijn interface.",
+    "r": "Voor een kmo overlapt dat met tools die al betaald worden (Excel, Miro, Power BI). Anthropic geeft toe dat de rekenbladfuncties voorlopig nog eenvoudig zijn.",
+    "a": "Heeft een klant Claude Enterprise? Verwittig dan zijn beheerder: Claude Data gaat op 19 november standaard aan, en dat kan hij aanpassen in de organisatie-instellingen."
    }
   },
   {
-   "id": "n20261113b",
-   "d": "2026-11-09",
-   "s": "anthropic",
-   "imp": 3,
-   "t": "Claude Fable 5.2 et Mythos 5.2 : les nouveaux modèles les plus puissants d'Anthropic",
-   "sum": "Anthropic publie Claude Fable 5.2, disponible pour tous, et Claude Mythos 5.2, le même modèle réservé à des organisations vérifiées en cybersécurité et en recherche biomédicale. Fable 5.2 coûte 8 $ par million de tokens en entrée et 40 $ en sortie, et Anthropic conseille de garder Opus 5.5 pour la plupart des tâches et de passer à Fable pour les plus exigeantes.",
-   "c": "Il y a maintenant deux étages chez Anthropic : Opus 5.5 pour le travail de tous les jours, Fable 5.2 pour les tâches les plus difficiles.",
-   "r": "Pour tes clients PME, le bon réflexe n'est pas « toujours le plus gros modèle » : Fable coûte plus cher et sert surtout au code complexe, à la finance et aux sciences. Sur les forfaits Pro et Team, Fable est limité à une partie de l'usage hebdomadaire.",
-   "a": "Fais un petit test : la même tâche d'un client (un rapport, une analyse) avec Opus 5.5 puis avec Fable 5.2, et note la différence de qualité et de temps.",
-   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-   "src": "Anthropic",
+   "id": "n20261113c",
+   "d": "2026-11-10",
+   "s": "europe",
+   "imp": 2,
+   "t": "AI Act : des règles communes pour les « bacs à sable » de l'IA, avec un accès prioritaire et gratuit pour les PME",
+   "sum": "La Commission européenne a adopté le 10 novembre 2026 le règlement d'exécution (UE) 2026/2487, qui fixe des règles communes pour les bacs à sable réglementaires de l'IA que chaque pays doit organiser ; il s'applique à partir du 1er décembre 2026. Les PME et start-ups établies dans l'UE y ont un accès prioritaire et des services de base gratuits, mais un passage dans le bac à sable ne vaut pas certificat de conformité.",
+   "c": "Un bac à sable, c'est un cadre où une entreprise peut tester son système d'IA avec l'aide et sous la surveillance de l'autorité, avant de le lancer.",
+   "r": "C'est surtout utile pour une PME qui développe elle-même un système d'IA à risque, pas pour celle qui utilise simplement ChatGPT ou Copilot. Et en Belgique, l'autorité de contrôle de l'AI Act n'est pas encore désignée par une loi.",
+   "a": "Ajoute une ligne « bacs à sable AI Act » dans ta fiche réglementation, et garde-la pour tes clients qui créent un produit IA.",
+   "url": "https://www.techtimes.com/articles/330540/20261112/eu-ai-regulatory-sandbox-rules-start-december-1-tests-earn-no-compliance-clearance-liability-stays.htm",
+   "src": "Tech Times",
    "en": {
-    "t": "Claude Fable 5.2 and Mythos 5.2: Anthropic's most powerful new models",
-    "sum": "Anthropic releases Claude Fable 5.2, available to everyone, and Claude Mythos 5.2, the same model reserved for vetted organisations in cybersecurity and biomedical research. Fable 5.2 costs $8 per million input tokens and $40 per million output tokens, and Anthropic advises keeping Opus 5.5 for most tasks and switching to Fable for the most demanding ones.",
-    "c": "Anthropic now has two tiers: Opus 5.5 for everyday work, Fable 5.2 for the hardest tasks.",
-    "r": "For your SME clients, the right reflex isn't « always the biggest model »: Fable costs more and is mainly for complex code, finance and science. On Pro and Team plans, Fable is limited to part of weekly usage.",
-    "a": "Run a small test: the same client task (a report, an analysis) with Opus 5.5 then with Fable 5.2, and note the difference in quality and time."
+    "t": "AI Act: common rules for AI « regulatory sandboxes », with priority and free access for SMEs",
+    "sum": "On 10 November 2026 the European Commission adopted Implementing Regulation (EU) 2026/2487, which sets common rules for the AI regulatory sandboxes each country must run; it applies from 1 December 2026. SMEs and start-ups established in the EU get priority access and free core services, but taking part in a sandbox is not a certificate of conformity.",
+    "c": "A sandbox is a setting where a company can test its AI system with the help and under the supervision of the authority, before launching it.",
+    "r": "It's mainly useful for an SME that builds its own risky AI system, not for one that simply uses ChatGPT or Copilot. And in Belgium, the AI Act supervisory authority has not yet been designated by law.",
+    "a": "Add an « AI Act sandboxes » line to your regulation sheet, and keep it for clients who build an AI product."
    },
    "nl": {
-    "t": "Claude Fable 5.2 en Mythos 5.2: de krachtigste nieuwe modellen van Anthropic",
-    "sum": "Anthropic brengt Claude Fable 5.2 uit, voor iedereen beschikbaar, en Claude Mythos 5.2, hetzelfde model voorbehouden aan gecontroleerde organisaties in cyberbeveiliging en biomedisch onderzoek. Fable 5.2 kost 8 dollar per miljoen inputtokens en 40 dollar per miljoen outputtokens, en Anthropic raadt aan Opus 5.5 te houden voor de meeste taken en voor de zwaarste over te schakelen op Fable.",
-    "c": "Anthropic heeft nu twee niveaus: Opus 5.5 voor het dagelijkse werk, Fable 5.2 voor de moeilijkste taken.",
-    "r": "Voor je kmo-klanten is de juiste reflex niet « altijd het grootste model »: Fable is duurder en dient vooral voor complexe code, financiën en wetenschap. Op de Pro- en Team-abonnementen is Fable beperkt tot een deel van het wekelijkse gebruik.",
-    "a": "Doe een kleine test: dezelfde taak van een klant (een rapport, een analyse) met Opus 5.5 en daarna met Fable 5.2, en noteer het verschil in kwaliteit en tijd."
+    "t": "AI Act: gemeenschappelijke regels voor AI-« sandboxes », met voorrang en gratis toegang voor kmo's",
+    "sum": "De Europese Commissie heeft op 10 november 2026 uitvoeringsverordening (EU) 2026/2487 aangenomen, met gemeenschappelijke regels voor de regulatoire AI-sandboxes die elk land moet organiseren; ze geldt vanaf 1 december 2026. Kmo's en start-ups die in de EU gevestigd zijn, krijgen voorrang en gratis basisdiensten, maar deelname aan een sandbox geldt niet als conformiteitsattest.",
+    "c": "Een sandbox is een kader waarin een bedrijf zijn AI-systeem kan testen met hulp en onder toezicht van de overheid, voor het op de markt komt.",
+    "r": "Dat is vooral nuttig voor een kmo die zelf een risicovol AI-systeem ontwikkelt, niet voor een kmo die gewoon ChatGPT of Copilot gebruikt. En in België is de toezichthouder voor de AI Act nog niet bij wet aangeduid.",
+    "a": "Voeg een regel « AI Act-sandboxes » toe aan je fiche regelgeving, en bewaar die voor klanten die een AI-product bouwen."
+   }
+  },
+  {
+   "id": "n20261113a",
+   "d": "2026-11-10",
+   "s": "anthropic",
+   "imp": 3,
+   "t": "Claude Meetings : Claude rejoint tes réunions Google Meet et avance le travail pendant l'appel (bêta)",
+   "sum": "Anthropic lance en bêta Claude Meetings : on invite Claude comme participant visible à un appel, et il rédige des plans, construit des calendriers, organise les tâches et répond dans le chat de la réunion en s'appuyant sur les applications connectées. La bêta est réservée aux abonnés Team et Enterprise sur Google Meet, et Claude ne rejoint pas un appel avec des invités externes sans l'accord d'un administrateur.",
+   "c": "L'IA ne se contente plus de résumer la réunion après coup : elle travaille pendant la discussion et livre notes et actions à la fin.",
+   "r": "Pour une PME, c'est un gain de temps réel sur le suivi des réunions, mais seulement sur Google Meet pour l'instant, alors que beaucoup de PME belges sont sur Teams. Et faire entrer une IA dans une réunion pose tout de suite la question du consentement des participants et du RGPD.",
+   "a": "Prépare une mini-règle « IA en réunion » pour tes clients : qui peut inviter Claude, quelles réunions sont exclues (RH, clients externes), et comment on prévient les participants.",
+   "url": "https://gulfnews.com/technology/companies/claude-can-now-join-work-meetings-and-complete-tasks-as-you-talk-1.500743080",
+   "src": "Gulf News",
+   "en": {
+    "t": "Claude Meetings: Claude joins your Google Meet calls and moves work forward during the call (beta)",
+    "sum": "Anthropic is launching Claude Meetings in beta: you invite Claude as a visible participant in a call, and it drafts plans, builds timelines, organises tasks and answers in the meeting chat using connected apps. The beta is limited to Team and Enterprise subscribers on Google Meet, and Claude won't join a call with external guests without an admin's approval.",
+    "c": "AI no longer just summarises the meeting afterwards: it works during the discussion and delivers notes and actions at the end.",
+    "r": "For an SME, it's a real time saver on meeting follow-up, but only on Google Meet for now, while many Belgian SMEs use Teams. And bringing an AI into a meeting immediately raises the question of participant consent and GDPR.",
+    "a": "Prepare a short « AI in meetings » rule for your clients: who can invite Claude, which meetings are excluded (HR, external clients), and how participants are informed."
+   },
+   "nl": {
+    "t": "Claude Meetings: Claude neemt deel aan je Google Meet-vergaderingen en werkt mee tijdens het gesprek (bèta)",
+    "sum": "Anthropic lanceert Claude Meetings in bèta: je nodigt Claude uit als zichtbare deelnemer aan een gesprek, en het schrijft plannen, maakt tijdlijnen, organiseert taken en antwoordt in de chat van de vergadering op basis van gekoppelde apps. De bèta is voorbehouden aan Team- en Enterprise-abonnees op Google Meet, en Claude neemt niet deel aan een gesprek met externe gasten zonder toestemming van een beheerder.",
+    "c": "AI vat de vergadering niet meer alleen achteraf samen: ze werkt mee tijdens het gesprek en levert op het einde notities en acties.",
+    "r": "Voor een kmo is dat echte tijdwinst bij de opvolging van vergaderingen, maar voorlopig alleen op Google Meet, terwijl veel Belgische kmo's Teams gebruiken. En een AI in een vergadering roept meteen de vraag op naar de toestemming van de deelnemers en de GDPR.",
+    "a": "Maak voor je klanten een korte regel « AI in vergaderingen »: wie Claude mag uitnodigen, welke vergaderingen uitgesloten zijn (HR, externe klanten) en hoe je de deelnemers verwittigt."
    }
   }
  ]
