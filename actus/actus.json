@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "items": [
+  {
+   "id": "n20261128a",
+   "d": "2026-11-27",
+   "s": "business",
+   "imp": 2,
+   "t": "SAP victime d'une cyberattaque : du code modifié sur GitHub",
+   "sum": "SAP confirme enquêter sur une cyberattaque. Selon Der Spiegel, des pirates ont volé des jetons de connexion d'employés pour copier et modifier du code sur GitHub. SAP dit n'avoir trouvé aucune trace d'accès aux données de ses clients.",
+   "c": "Comprendre : les pirates n'ont pas cassé un mot de passe, ils ont réutilisé des jetons d'accès déjà ouverts. Selon la presse, SAP a changé ses clés de signature et limité l'accès à GitHub. Le rôle de l'IA dans l'attaque n'est pas confirmé.",
+   "r": "Réfléchir : même un géant du logiciel se fait piéger par des accès volés. Chez toi, les jetons et connexions restées ouvertes (outils IA, Google, Microsoft, GitHub) sont une porte d'entrée aussi.",
+   "a": "Agir : fais le tri des applications et outils IA connectés à tes comptes Google ou Microsoft, et retire ceux que tu n'utilises plus.",
+   "url": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/",
+   "src": "SecurityWeek",
+   "en": {
+    "t": "SAP hit by a cyberattack: code altered on GitHub",
+    "sum": "SAP confirms it is investigating a cyberattack. According to Der Spiegel, hackers stole employee login tokens to copy and change code on GitHub. SAP says it found no sign of access to customer business data.",
+    "c": "Understand: the attackers did not crack a password, they reused access tokens that were already open. According to the press, SAP replaced its signing keys and restricted GitHub access. Any role of AI in the attack is not confirmed.",
+    "r": "Think: even a software giant gets caught by stolen access. In your business, tokens and connections left open (AI tools, Google, Microsoft, GitHub) are an entry point too.",
+    "a": "Act: review the apps and AI tools connected to your Google or Microsoft accounts, and remove the ones you no longer use."
+   },
+   "nl": {
+    "t": "SAP getroffen door cyberaanval: code aangepast op GitHub",
+    "sum": "SAP bevestigt dat het een cyberaanval onderzoekt. Volgens Der Spiegel stalen hackers inlogtokens van werknemers om code op GitHub te kopiëren en te wijzigen. SAP zegt geen sporen te vinden van toegang tot klantgegevens.",
+    "c": "Begrijpen: de aanvallers kraakten geen wachtwoord, ze gebruikten toegangstokens die al open stonden. Volgens de pers verving SAP zijn ondertekeningssleutels en beperkte het de toegang tot GitHub. Een rol van AI is niet bevestigd.",
+    "r": "Nadenken: zelfs een softwarereus trapt in gestolen toegang. Ook in jouw kmo zijn open tokens en koppelingen (AI-tools, Google, Microsoft, GitHub) een toegangspoort.",
+    "a": "Actie: kijk welke apps en AI-tools gekoppeld zijn aan je Google- of Microsoft-account en verwijder wat je niet meer gebruikt."
+   }
+  },
+  {
+   "id": "n20261128b",
+   "d": "2026-11-26",
+   "s": "openai",
+   "imp": 2,
+   "t": "ChatGPT : avec GPT-6.2, tes limites d'usage arrivent plus vite",
+   "sum": "Selon un ingénieur d'OpenAI, un bug de facturation donnait trop de crédit sur GPT-6.2 Astra et Sol. Corrigé, il fait atteindre les limites environ 40 % plus vite sur Astra et 25 % plus vite sur Sol.",
+   "c": "Comprendre : tu paies le même abonnement, mais tu peux faire moins de demandes qu'au lancement. En compensation, les abonnés Go, Plus, Pro et Business reçoivent une remise à zéro supplémentaire, et Business a le mode Fast gratuit jusqu'à fin 2026.",
+   "r": "Réfléchir : les quotas des outils IA bougent souvent, sans prévenir. Si ton équipe compte sur ChatGPT pour des tâches lourdes, un blocage en pleine journée peut te coûter du temps.",
+   "a": "Agir : garde le modèle Astra pour les tâches difficiles et utilise Sol pour le reste, afin de ménager ton quota.",
+   "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+   "src": "The Decoder",
+   "en": {
+    "t": "ChatGPT: with GPT-6.2, you hit usage limits sooner",
+    "sum": "According to an OpenAI engineer, a billing bug gave too much credit on GPT-6.2 Astra and Sol. Now fixed, users hit limits about 40% faster on Astra and 25% faster on Sol.",
+    "c": "Understand: you pay the same subscription but can send fewer requests than at launch. To compensate, Go, Plus, Pro and Business subscribers get one extra reset, and Business gets free Fast mode until the end of 2026.",
+    "r": "Think: AI tool quotas change often, without warning. If your team relies on ChatGPT for heavy tasks, getting blocked mid-day can cost you time.",
+    "a": "Act: keep the Astra model for hard tasks and use Sol for the rest to save your quota."
+   },
+   "nl": {
+    "t": "ChatGPT: met GPT-6.2 bereik je je gebruikslimiet sneller",
+    "sum": "Volgens een ingenieur van OpenAI gaf een factureringsfout te veel tegoed op GPT-6.2 Astra en Sol. Na de correctie bereik je de limiet zo'n 40% sneller op Astra en 25% sneller op Sol.",
+    "c": "Begrijpen: je betaalt hetzelfde abonnement, maar je kunt minder vragen stellen dan bij de lancering. Als compensatie krijgen Go-, Plus-, Pro- en Business-abonnees een extra reset, en Business krijgt de Fast-modus gratis tot eind 2026.",
+    "r": "Nadenken: de quota van AI-tools veranderen vaak en zonder waarschuwing. Als je team voor zware taken op ChatGPT rekent, kost een blokkering midden op de dag je tijd.",
+    "a": "Actie: gebruik Astra voor moeilijke taken en Sol voor de rest, zo spaar je je quotum."
+   }
+  },
   {
    "id": "n20261127a",
    "d": "2026-11-26",
@@ -1025,60 +1079,6 @@
     "c": "Claude schrijft niet langer alleen tekst: het maakt rekenbladen, whiteboards en dashboards rechtstreeks in zijn interface.",
     "r": "Voor een kmo overlapt dat met tools die al betaald worden (Excel, Miro, Power BI). Anthropic geeft toe dat de rekenbladfuncties voorlopig nog eenvoudig zijn.",
     "a": "Heeft een klant Claude Enterprise? Verwittig dan zijn beheerder: Claude Data gaat op 19 november standaard aan, en dat kan hij aanpassen in de organisatie-instellingen."
-   }
-  },
-  {
-   "id": "n20261113c",
-   "d": "2026-11-10",
-   "s": "europe",
-   "imp": 2,
-   "t": "AI Act : des règles communes pour les « bacs à sable » de l'IA, avec un accès prioritaire et gratuit pour les PME",
-   "sum": "La Commission européenne a adopté le 10 novembre 2026 le règlement d'exécution (UE) 2026/2487, qui fixe des règles communes pour les bacs à sable réglementaires de l'IA que chaque pays doit organiser ; il s'applique à partir du 1er décembre 2026. Les PME et start-ups établies dans l'UE y ont un accès prioritaire et des services de base gratuits, mais un passage dans le bac à sable ne vaut pas certificat de conformité.",
-   "c": "Un bac à sable, c'est un cadre où une entreprise peut tester son système d'IA avec l'aide et sous la surveillance de l'autorité, avant de le lancer.",
-   "r": "C'est surtout utile pour une PME qui développe elle-même un système d'IA à risque, pas pour celle qui utilise simplement ChatGPT ou Copilot. Et en Belgique, l'autorité de contrôle de l'AI Act n'est pas encore désignée par une loi.",
-   "a": "Ajoute une ligne « bacs à sable AI Act » dans ta fiche réglementation, et garde-la pour tes clients qui créent un produit IA.",
-   "url": "https://www.techtimes.com/articles/330540/20261112/eu-ai-regulatory-sandbox-rules-start-december-1-tests-earn-no-compliance-clearance-liability-stays.htm",
-   "src": "Tech Times",
-   "en": {
-    "t": "AI Act: common rules for AI « regulatory sandboxes », with priority and free access for SMEs",
-    "sum": "On 10 November 2026 the European Commission adopted Implementing Regulation (EU) 2026/2487, which sets common rules for the AI regulatory sandboxes each country must run; it applies from 1 December 2026. SMEs and start-ups established in the EU get priority access and free core services, but taking part in a sandbox is not a certificate of conformity.",
-    "c": "A sandbox is a setting where a company can test its AI system with the help and under the supervision of the authority, before launching it.",
-    "r": "It's mainly useful for an SME that builds its own risky AI system, not for one that simply uses ChatGPT or Copilot. And in Belgium, the AI Act supervisory authority has not yet been designated by law.",
-    "a": "Add an « AI Act sandboxes » line to your regulation sheet, and keep it for clients who build an AI product."
-   },
-   "nl": {
-    "t": "AI Act: gemeenschappelijke regels voor AI-« sandboxes », met voorrang en gratis toegang voor kmo's",
-    "sum": "De Europese Commissie heeft op 10 november 2026 uitvoeringsverordening (EU) 2026/2487 aangenomen, met gemeenschappelijke regels voor de regulatoire AI-sandboxes die elk land moet organiseren; ze geldt vanaf 1 december 2026. Kmo's en start-ups die in de EU gevestigd zijn, krijgen voorrang en gratis basisdiensten, maar deelname aan een sandbox geldt niet als conformiteitsattest.",
-    "c": "Een sandbox is een kader waarin een bedrijf zijn AI-systeem kan testen met hulp en onder toezicht van de overheid, voor het op de markt komt.",
-    "r": "Dat is vooral nuttig voor een kmo die zelf een risicovol AI-systeem ontwikkelt, niet voor een kmo die gewoon ChatGPT of Copilot gebruikt. En in België is de toezichthouder voor de AI Act nog niet bij wet aangeduid.",
-    "a": "Voeg een regel « AI Act-sandboxes » toe aan je fiche regelgeving, en bewaar die voor klanten die een AI-product bouwen."
-   }
-  },
-  {
-   "id": "n20261113a",
-   "d": "2026-11-10",
-   "s": "anthropic",
-   "imp": 3,
-   "t": "Claude Meetings : Claude rejoint tes réunions Google Meet et avance le travail pendant l'appel (bêta)",
-   "sum": "Anthropic lance en bêta Claude Meetings : on invite Claude comme participant visible à un appel, et il rédige des plans, construit des calendriers, organise les tâches et répond dans le chat de la réunion en s'appuyant sur les applications connectées. La bêta est réservée aux abonnés Team et Enterprise sur Google Meet, et Claude ne rejoint pas un appel avec des invités externes sans l'accord d'un administrateur.",
-   "c": "L'IA ne se contente plus de résumer la réunion après coup : elle travaille pendant la discussion et livre notes et actions à la fin.",
-   "r": "Pour une PME, c'est un gain de temps réel sur le suivi des réunions, mais seulement sur Google Meet pour l'instant, alors que beaucoup de PME belges sont sur Teams. Et faire entrer une IA dans une réunion pose tout de suite la question du consentement des participants et du RGPD.",
-   "a": "Prépare une mini-règle « IA en réunion » pour tes clients : qui peut inviter Claude, quelles réunions sont exclues (RH, clients externes), et comment on prévient les participants.",
-   "url": "https://gulfnews.com/technology/companies/claude-can-now-join-work-meetings-and-complete-tasks-as-you-talk-1.500743080",
-   "src": "Gulf News",
-   "en": {
-    "t": "Claude Meetings: Claude joins your Google Meet calls and moves work forward during the call (beta)",
-    "sum": "Anthropic is launching Claude Meetings in beta: you invite Claude as a visible participant in a call, and it drafts plans, builds timelines, organises tasks and answers in the meeting chat using connected apps. The beta is limited to Team and Enterprise subscribers on Google Meet, and Claude won't join a call with external guests without an admin's approval.",
-    "c": "AI no longer just summarises the meeting afterwards: it works during the discussion and delivers notes and actions at the end.",
-    "r": "For an SME, it's a real time saver on meeting follow-up, but only on Google Meet for now, while many Belgian SMEs use Teams. And bringing an AI into a meeting immediately raises the question of participant consent and GDPR.",
-    "a": "Prepare a short « AI in meetings » rule for your clients: who can invite Claude, which meetings are excluded (HR, external clients), and how participants are informed."
-   },
-   "nl": {
-    "t": "Claude Meetings: Claude neemt deel aan je Google Meet-vergaderingen en werkt mee tijdens het gesprek (bèta)",
-    "sum": "Anthropic lanceert Claude Meetings in bèta: je nodigt Claude uit als zichtbare deelnemer aan een gesprek, en het schrijft plannen, maakt tijdlijnen, organiseert taken en antwoordt in de chat van de vergadering op basis van gekoppelde apps. De bèta is voorbehouden aan Team- en Enterprise-abonnees op Google Meet, en Claude neemt niet deel aan een gesprek met externe gasten zonder toestemming van een beheerder.",
-    "c": "AI vat de vergadering niet meer alleen achteraf samen: ze werkt mee tijdens het gesprek en levert op het einde notities en acties.",
-    "r": "Voor een kmo is dat echte tijdwinst bij de opvolging van vergaderingen, maar voorlopig alleen op Google Meet, terwijl veel Belgische kmo's Teams gebruiken. En een AI in een vergadering roept meteen de vraag op naar de toestemming van de deelnemers en de GDPR.",
-    "a": "Maak voor je klanten een korte regel « AI in vergaderingen »: wie Claude mag uitnodigen, welke vergaderingen uitgesloten zijn (HR, externe klanten) en hoe je de deelnemers verwittigt."
    }
   }
  ]
